@@ -27,7 +27,7 @@ twitter_username: melaniehsieh
 github_username: melaniehsieh
 
 # Build settings
-theme: minima
+theme: jekyll-theme-clean-blog
 plugins:
   - jekyll-feed
 # Exclude from processing.
