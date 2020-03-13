@@ -5,4 +5,4 @@ description: Upcoming Projects
 background: "/img/1wall.jpg"
 ---
 
-- React Native App (IOS && Android)
+- Attendance App (React Native, Google Sheet API, MongoDB)
