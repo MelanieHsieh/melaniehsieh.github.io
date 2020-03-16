@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Project Minimal"
+title: "PROJECT MINIMAL"
 subtitle: "Why I started this weekly blog"
 date: 2020-03-10 20:12:58 +0800
 background: "/img/4wall.jpg"
@@ -8,7 +8,7 @@ background: "/img/4wall.jpg"
 
 Starting 2020 off with a bang 🎉, even though I'm late to the game for 3 months but whatever. The purpose of this weekly blog (more like when I'm feeling writing mode blog 😂) is simple, I want to share my tips and tricks on programming and some day to day experiences.
 
-As this is the first time I tried blogging, this is still an experimenting phrase, which means this website will change up quite often. </p>
+As this is the first time I tried blogging, this is still an experimenting phrase, which means this website will change up quite often.
 
 # WHY
 
