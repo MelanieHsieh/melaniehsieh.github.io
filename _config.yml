@@ -1,10 +1,8 @@
 title: Project Minimal
 email: your-email@example.com
-author: Melanie Hsieh
-description: Speak from the heart˚
-baseurl: "/projectminimal" 
-url: "https://melaniehsieh.github.io" 
-
+description:
+baseurl: "/projectminimal" # the subpath of your site, e.g. /blog
+url: "https://melaniehsieh.com" 
 twitter_username: melaniehsieh
 github_username: melaniehsieh
 
