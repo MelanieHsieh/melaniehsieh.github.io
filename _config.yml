@@ -1,13 +1,8 @@
-title: Project Minimal
+title: Melanie Hsieh
 email: your-email@example.com
-description:
-<<<<<<< HEAD
-baseurl: "/projectminimal" # the subpath of your site, e.g. /blog
-url: "https://melaniehsieh.com" 
-=======
+description: Blogs | Technology | Updates
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://melaniehsieh.com" # the base hostname & protocol for your site, e.g. http://example.com
->>>>>>> 1a452852b997861ba06e556a066263abec1ba72c
 twitter_username: melaniehsieh
 github_username: melaniehsieh
 
