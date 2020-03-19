@@ -6,12 +6,12 @@ background: "/img/0space.jpg"
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
-	#mc_embed_signup{background:#bbb; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}
+	#mc_embed_signup{background:#fff; clear:left; font:20px Helvetica,Arial,sans-serif; width:100%;}
 </style>
 <div id="mc_embed_signup">
 <form action="https://melaniehsieh.us19.list-manage.com/subscribe/post?u=29cd64598bbfd2dc2703d73d4&amp;id=553b223153" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<label for="mce-EMAIL">Get Weekly Blogs</label>
+	<label for="mce-EMAIL">Subscribe to Get Weekly Blogs</label>
 	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_29cd64598bbfd2dc2703d73d4_553b223153" tabindex="-1" value=""></div>

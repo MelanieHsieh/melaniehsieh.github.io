@@ -6,4 +6,6 @@ background: "/img/1wall.jpg"
 ---
 
 - Attendance App (React Native, Google Sheet API, MongoDB)
-- Minimal Todo App
+
+# Subtle
+It is a minimal todo app. 
