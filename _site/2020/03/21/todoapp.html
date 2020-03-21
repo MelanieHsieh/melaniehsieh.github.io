@@ -8,10 +8,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
   <title>
-    Melanie Hsieh
+    React Native TODO App - Melanie Hsieh
+    
   </title>
 
-  <meta name="description" content="Blogs | Technology | Updates">
+  <meta name="description" content="One of the project this year is to make a Todo App. If you search todo app in the app store or play store there are a lot of options. However I tried a few o...">
 
   <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
   <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
@@ -21,7 +22,7 @@
   <link rel="stylesheet" href="/assets/vendor/fontawesome-free/css/all.min.css">
 
   <link rel="stylesheet" href="/assets/main.css">
-  <link rel="canonical" href="http://localhost:4000/">
+  <link rel="canonical" href="http://localhost:4000/2020/03/21/todoapp.html">
   <link rel="alternate" type="application/rss+xml" title="Melanie Hsieh" href="/feed.xml">
 
 </head>
@@ -59,17 +60,24 @@
 
   <!-- Page Header -->
 
-<header class="masthead" style="background-image: url('/img/0space.jpg')">
+<header class="masthead" style="background-image: url('/img/4wall.jpg')">
   
     <div class="overlay"></div>
     <div class="container">
       <div class="row">
         <div class="col-lg-8 col-md-10 mx-auto">
-          <div class="page-heading">
-            <h1>Melanie Hsieh</h1>
+          <div class="post-heading">
+            <h1>React Native TODO App</h1>
             
-            <span class="subheading">Blogs | Technology | Updates</span>
+            <h2 class="subheading">Part 1 - User Interface</h2>
             
+            <span class="meta">Posted by
+              <a href="#"></a>
+              on March 21, 2020 &middot; <span class="reading-time" title="Estimated read time">
+  
+   2 mins  read </span>
+
+            </span>
           </div>
         </div>
       </div>
@@ -80,107 +88,42 @@
     <div class="row">
       <div class="col-lg-8 col-md-10 mx-auto">
 
-        <!-- Begin Mailchimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css" />
+        <p>One of the project this year is to make a Todo App. If you search <em>todo app</em> in the app store or play store there are a lot of options. However I tried a few of them, and often they are either too complicated to use, or they are just missing some functions I want. So this upcoming month, I am planning to launch my Todo App called <strong>Subtle</strong> from scratch.</p>
 
-<style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; font:20px Helvetica,"Open-sans"; width:100%;}
-    .input{
-        font-size: 20px;
-        background: #000;
-    }
-</style>
+<h1 id="part-1-planning-phase">Part 1: Planning Phase</h1>
 
-<div id="mc_embed_signup">
-<form action="https://melaniehsieh.us19.list-manage.com/subscribe/post?u=29cd64598bbfd2dc2703d73d4&amp;id=553b223153" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
-    <div id="mc_embed_signup_scroll">
-	<label for="mce-EMAIL">Subscribe to Get Weekly Blogs</label>
-	<input type="email" value="" name="EMAIL" class="email input" id="mce-EMAIL" placeholder="email address" required="" />
-    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_29cd64598bbfd2dc2703d73d4_553b223153" tabindex="-1" value="" /></div>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button input" /></div>
-    </div>
-</form>
-</div>
+<p>For the planning I used <strong>Adobe XD</strong> to help me finalize the design. Adobe XD is a free app that helps you design the <strong>UI (User Interface)</strong> of the app.</p>
 
-<!--End mc_embed_signup-->
+<p>Here are a few snap shots of my app (in planning phase). I am aiming for a minimalistic app, which is simple and clean.</p>
 
+<p><img src="/img/todo/zoomin.png" alt="zoomin" width="800" height="450" /></p>
 
-        <!-- Home Post List -->
-        
+<p>After you finalize the UI of the app, let’s move on to the code. 😉</p>
 
-        <article class="post-preview">
-          <a href="/2020/03/21/todoapp.html">
-            <h2 class="post-title">React Native TODO App</h2>
-            
-            <h3 class="post-subtitle">Part 1 - User Interface</h3>
-            
-          </a>
-          <p class="post-meta">Posted by
-            
-            
-            
-            on
-            March 21, 2020 &middot; <span class="reading-time" title="Estimated read time">
-  
-   2 mins  read </span>
-            
-          </p>
-        </article>
+<h1 id="part-2-front-end">Part 2: Front End</h1>
+
+<p>When creating an app there is <strong>Front End</strong> and <strong>Back End</strong>. Front End is the client side, where it consists of <em>UI</em>, <em>color scheme</em>, <em>UX</em>. Back End is the database side, where it consists of <em>database</em>, <em>schemas</em>, <em>authentication</em> and many more.</p>
+
+<p>We will start with the <strong>Front End</strong>.</p>
+
+<h2 id="tools">Tools</h2>
+<ul>
+  <li>React Native (A programming language developed by <em>Facebook</em>, it isn’t a native language which means it doesn’t use <em>Swift</em>, <em>Java</em> or <em>Kotlin</em>. But it uses <em>Javascript</em> and <em>Typescript</em> to build apps that are available for both IOS and Android devices 😀 )</li>
+  <li>VS Code (Code Editor, I want to switch to <em>Vim</em> but I don’t have time to learn and install all the bundles and depencies, so I am sticking with VS Code)</li>
+  <li>iTerm (Terminal)</li>
+</ul>
+
 
         <hr>
 
-        
-
-        <article class="post-preview">
-          <a href="/2020/03/16/corona.html">
-            <h2 class="post-title">COVID-19</h2>
-            
-            <h3 class="post-subtitle">How I balance my school and personal life</h3>
-            
-          </a>
-          <p class="post-meta">Posted by
-            
-            
-            
-            on
-            March 16, 2020 &middot; <span class="reading-time" title="Estimated read time">
-  
-   1 min  read </span>
-            
-          </p>
-        </article>
-
-        <hr>
-
-        
-
-        <article class="post-preview">
-          <a href="/update/2020/03/10/projectminimal.html">
-            <h2 class="post-title">PROJECT MINIMAL</h2>
-            
-            <h3 class="post-subtitle">Why I started this weekly blog</h3>
-            
-          </a>
-          <p class="post-meta">Posted by
-            
-            
-            
-            on
-            March 10, 2020 &middot; <span class="reading-time" title="Estimated read time">
-  
-   1 min  read </span>
-            
-          </p>
-        </article>
-
-        <hr>
-
-        
-
-        <!-- Pager -->
         <div class="clearfix">
-          <a class="btn btn-primary float-right" href="/posts">View All Posts &rarr;</a>
+
+          
+          <a class="btn btn-primary float-left" href="/2020/03/16/corona.html" data-toggle="tooltip" data-placement="top" title="COVID-19">&larr; Previous<span class="d-none d-md-inline">
+              Post</span></a>
+          
+          
+
         </div>
 
       </div>

@@ -1,4 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-19T10:53:20+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Melanie Hsieh</title><subtitle>Blogs | Technology | Updates</subtitle><entry><title type="html">COVID-19</title><link href="http://localhost:4000/2020/03/16/corona.html" rel="alternate" type="text/html" title="COVID-19" /><published>2020-03-16T07:03:58+08:00</published><updated>2020-03-16T07:03:58+08:00</updated><id>http://localhost:4000/2020/03/16/corona</id><content type="html" xml:base="http://localhost:4000/2020/03/16/corona.html">&lt;p&gt;In &lt;em&gt;Decemeber 31st, 2019&lt;/em&gt; I thought 2020 is going to be a good start.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-21T11:41:30+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Melanie Hsieh</title><subtitle>Blogs | Technology | Updates</subtitle><entry><title type="html">React Native TODO App</title><link href="http://localhost:4000/2020/03/21/todoapp.html" rel="alternate" type="text/html" title="React Native TODO App" /><published>2020-03-21T07:58:00+08:00</published><updated>2020-03-21T07:58:00+08:00</updated><id>http://localhost:4000/2020/03/21/todoapp</id><content type="html" xml:base="http://localhost:4000/2020/03/21/todoapp.html">&lt;p&gt;One of the project this year is to make a Todo App. If you search &lt;em&gt;todo app&lt;/em&gt; in the app store or play store there are a lot of options. However I tried a few of them, and often they are either too complicated to use, or they are just missing some functions I want. So this upcoming month, I am planning to launch my Todo App called &lt;strong&gt;Subtle&lt;/strong&gt; from scratch.&lt;/p&gt;
+
+&lt;h1 id=&quot;part-1-planning-phase&quot;&gt;Part 1: Planning Phase&lt;/h1&gt;
+
+&lt;p&gt;For the planning I used &lt;strong&gt;Adobe XD&lt;/strong&gt; to help me finalize the design. Adobe XD is a free app that helps you design the &lt;strong&gt;UI (User Interface)&lt;/strong&gt; of the app.&lt;/p&gt;
+
+&lt;p&gt;Here are a few snap shots of my app (in planning phase). I am aiming for a minimalistic app, which is simple and clean.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/todo/zoomin.png&quot; alt=&quot;zoomin&quot; width=&quot;800&quot; height=&quot;450&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;After you finalize the UI of the app, let’s move on to the code. 😉&lt;/p&gt;
+
+&lt;h1 id=&quot;part-2-front-end&quot;&gt;Part 2: Front End&lt;/h1&gt;
+
+&lt;p&gt;When creating an app there is &lt;strong&gt;Front End&lt;/strong&gt; and &lt;strong&gt;Back End&lt;/strong&gt;. Front End is the client side, where it consists of &lt;em&gt;UI&lt;/em&gt;, &lt;em&gt;color scheme&lt;/em&gt;, &lt;em&gt;UX&lt;/em&gt;. Back End is the database side, where it consists of &lt;em&gt;database&lt;/em&gt;, &lt;em&gt;schemas&lt;/em&gt;, &lt;em&gt;authentication&lt;/em&gt; and many more.&lt;/p&gt;
+
+&lt;p&gt;We will start with the &lt;strong&gt;Front End&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;tools&quot;&gt;Tools&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;React Native (A programming language developed by &lt;em&gt;Facebook&lt;/em&gt;, it isn’t a native language which means it doesn’t use &lt;em&gt;Swift&lt;/em&gt;, &lt;em&gt;Java&lt;/em&gt; or &lt;em&gt;Kotlin&lt;/em&gt;. But it uses &lt;em&gt;Javascript&lt;/em&gt; and &lt;em&gt;Typescript&lt;/em&gt; to build apps that are available for both IOS and Android devices 😀 )&lt;/li&gt;
+  &lt;li&gt;VS Code (Code Editor, I want to switch to &lt;em&gt;Vim&lt;/em&gt; but I don’t have time to learn and install all the bundles and depencies, so I am sticking with VS Code)&lt;/li&gt;
+  &lt;li&gt;iTerm (Terminal)&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">One of the project this year is to make a Todo App. If you search todo app in the app store or play store there are a lot of options. However I tried a few of them, and often they are either too complicated to use, or they are just missing some functions I want. So this upcoming month, I am planning to launch my Todo App called Subtle from scratch.</summary></entry><entry><title type="html">COVID-19</title><link href="http://localhost:4000/2020/03/16/corona.html" rel="alternate" type="text/html" title="COVID-19" /><published>2020-03-16T07:03:58+08:00</published><updated>2020-03-16T07:03:58+08:00</updated><id>http://localhost:4000/2020/03/16/corona</id><content type="html" xml:base="http://localhost:4000/2020/03/16/corona.html">&lt;p&gt;In &lt;em&gt;Decemeber 31st, 2019&lt;/em&gt; I thought 2020 is going to be a good start.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Number ONE:&lt;/strong&gt; it’s a new decade 🔟. &lt;strong&gt;2020&lt;/strong&gt; means new goals, new commitment and most importantly, new ME. It’s a year where I want to improve myself &lt;em&gt;exponentially&lt;/em&gt;.&lt;/p&gt;
 
