@@ -124,10 +124,8 @@
 
 <p>I used expo to setup my project. Expo is a tool that can help you build a React Native app quickly, there is also an app (Expo) which you can install on your phone to render your app live.</p>
 
-<h2 id="appjs">App.js</h2>
-
-<h2 id="freshdayjs">FreshDay.js</h2>
-<p>This is a simple todo page, where there is a <code class="language-plaintext highlighter-rouge">TextInput</code>, I replaced the sumbit button with <em>DoubleTap</em>.</p>
+<h2 id="doubletap">DoubleTap</h2>
+<p>I replaced the <code class="language-plaintext highlighter-rouge">TouchableOpacity</code> button with <code class="language-plaintext highlighter-rouge">DoubleTap</code>.</p>
 
 <div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">function</span> <span class="nx">DoubleTapButton</span><span class="p">({</span> <span class="nx">onDoubleTap</span><span class="p">,</span> <span class="nx">children</span> <span class="p">})</span> <span class="p">{</span>
   <span class="kd">const</span> <span class="nx">onHandlerStateChange</span> <span class="o">=</span> <span class="p">({</span> <span class="nx">nativeEvent</span> <span class="p">})</span> <span class="o">=&gt;</span> <span class="p">{</span>
