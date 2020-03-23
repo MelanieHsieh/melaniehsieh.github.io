@@ -4,7 +4,6 @@ title: "PROJECT MINIMAL"
 subtitle: "Why I started this weekly blog"
 date: 2020-03-10 20:12:58 +0800
 background: "/img/4wall.jpg"
-categories: "UPDATE"
 ---
 
 Starting 2020 off with a bang 🎉, even though I'm late to the game for 3 months but whatever. The purpose of this weekly blog is simple, I want to share my tips and tricks on programming and some day to day experiences.
@@ -27,7 +26,7 @@ This is a minimal website which I decided to create to document my experiences i
 
 Establishing the `#projectminimal` community, the main purpose is to inspire others to get into technology.
 
-# END˚
+# END
 
 This blog gave you some insight on my weekly blog. If you have any further question you can always [Email]('melanie@melaniehsieh.com') me or find me on [Github]('https://github.com/') or [Twitter]("https://twitter.com/melaniehsieh").
 
