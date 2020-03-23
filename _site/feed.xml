@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-23T13:27:04+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Melanie Hsieh</title><subtitle>Blogs | Technology | Updates</subtitle><entry><title type="html">React Native TODO App</title><link href="http://localhost:4000/2020/03/21/todoapp.html" rel="alternate" type="text/html" title="React Native TODO App" /><published>2020-03-21T07:58:00+08:00</published><updated>2020-03-21T07:58:00+08:00</updated><id>http://localhost:4000/2020/03/21/todoapp</id><content type="html" xml:base="http://localhost:4000/2020/03/21/todoapp.html">&lt;p&gt;One of the project this year is to make a Todo App. If you search &lt;em&gt;todo app&lt;/em&gt; in the app store or play store there are a lot of options. However I tried a few of them, and often they are either too complicated to use, or they are just missing some functions I want. So this upcoming month, I am planning to launch my Todo App called &lt;strong&gt;Subtle&lt;/strong&gt; from scratch.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-23T14:53:29+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Melanie Hsieh</title><subtitle>Blogs | Technology | Updates</subtitle><entry><title type="html">React Native TODO App</title><link href="http://localhost:4000/2020/03/21/todoapp.html" rel="alternate" type="text/html" title="React Native TODO App" /><published>2020-03-21T07:58:00+08:00</published><updated>2020-03-21T07:58:00+08:00</updated><id>http://localhost:4000/2020/03/21/todoapp</id><content type="html" xml:base="http://localhost:4000/2020/03/21/todoapp.html">&lt;p&gt;One of the project this year is to make a Todo App. If you search &lt;em&gt;todo app&lt;/em&gt; in the app store or play store there are a lot of options. However I tried a few of them, and often they are either too complicated to use, or they are just missing some functions I want. So this upcoming month, I am planning to launch my Todo App called &lt;strong&gt;Subtle&lt;/strong&gt; from scratch.&lt;/p&gt;
 
 &lt;h1 id=&quot;part-1-planning-phase&quot;&gt;Part 1: Planning Phase&lt;/h1&gt;
 
@@ -57,19 +57,52 @@
 &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html">One of the project this year is to make a Todo App. If you search todo app in the app store or play store there are a lot of options. However I tried a few of them, and often they are either too complicated to use, or they are just missing some functions I want. So this upcoming month, I am planning to launch my Todo App called Subtle from scratch.</summary></entry><entry><title type="html">COVID-19</title><link href="http://localhost:4000/2020/03/16/corona.html" rel="alternate" type="text/html" title="COVID-19" /><published>2020-03-16T07:03:58+08:00</published><updated>2020-03-16T07:03:58+08:00</updated><id>http://localhost:4000/2020/03/16/corona</id><content type="html" xml:base="http://localhost:4000/2020/03/16/corona.html">&lt;p&gt;In &lt;em&gt;Decemeber 31st, 2019&lt;/em&gt; I thought 2020 is going to be a good start.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Number ONE:&lt;/strong&gt; it’s a new decade 🔟. &lt;strong&gt;2020&lt;/strong&gt; means new goals, new commitment and most importantly, new ME. It’s a year where I want to improve myself &lt;em&gt;exponentially&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Number ONE:&lt;/strong&gt; It’s a new decade. &lt;strong&gt;2020&lt;/strong&gt; means new goals, new commitment and most importantly, new ME. It’s a year where I want to improve myself &lt;em&gt;exponentially&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Number TWO:&lt;/strong&gt; I turned 16. 🎂🎉&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Number THREE:&lt;/strong&gt; I have a list of projects I want to achieve and build this year.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Number THREE:&lt;/strong&gt; I have a list of projects I want to achieve and build this year. (You can find them on my &lt;em&gt;Project Page&lt;/em&gt;)&lt;/p&gt;
 
 &lt;h1 id=&quot;covid-19-in-hong-kong&quot;&gt;Covid-19 in Hong Kong&lt;/h1&gt;
 
-&lt;p&gt;As I am currently living in Hong Kong. Since the spread of COVID-19 near the end of January, more than 100 countries are infected. which included Hong Kong. This made all the schools closed down and holiday extension. I am not complaninig about the extra few days of holidays, but not able to go outside freely sucks.&lt;/p&gt;
+&lt;p&gt;As I am currently living in Hong Kong. Since the spread of COVID-19 near the end of January, more than 100 countries are infected. which included Hong Kong. This made all the schools closed and holiday extension. I am not complaninig about the extra few days of holidays, but not able to go outside freely sucks.&lt;/p&gt;
 
-&lt;p&gt;Wearing a mask is uncomfortable, makes my face sweaty as the air inside doesn’t circulate properly. 😷 But wearing a mask is very important especially these days, as corona virus is deadly 🦠. So for your family, friends’ health and safety, also other people in your neighborhood or community, I urge you to &lt;strong&gt;wear a mask&lt;/strong&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">In Decemeber 31st, 2019 I thought 2020 is going to be a good start.</summary></entry><entry><title type="html">PROJECT MINIMAL</title><link href="http://localhost:4000/update/2020/03/10/projectminimal.html" rel="alternate" type="text/html" title="PROJECT MINIMAL" /><published>2020-03-10T20:12:58+08:00</published><updated>2020-03-10T20:12:58+08:00</updated><id>http://localhost:4000/update/2020/03/10/projectminimal</id><content type="html" xml:base="http://localhost:4000/update/2020/03/10/projectminimal.html">&lt;p&gt;Starting 2020 off with a bang 🎉, even though I’m late to the game for 3 months but whatever. The purpose of this weekly blog (more like when I’m feeling writing mode blog 😂) is simple, I want to share my tips and tricks on programming and some day to day experiences.&lt;/p&gt;
+&lt;p&gt;Many schools including mine has started online school with tools like zoom, google hangout just to name a few. At first, I felt overwhelmed of all the homework and assignment piling up. Especially my exam in May is coming soon, teachers gave us extra work to catchup. It was very tiring and made me feel &lt;strong&gt;SchoolSick&lt;/strong&gt;. (I know it may sound weird)&lt;/p&gt;
 
-&lt;p&gt;As this is the first time I tried blogging, this is still an experimenting phrase, which means this website will change up quite often.&lt;/p&gt;
+&lt;h1 id=&quot;staying-at-home&quot;&gt;Staying at Home&lt;/h1&gt;
+
+&lt;p&gt;Due to the outbreak, we had to stay at home. Usually on Saturdays and Sundays I go to church and join some extra activies to fill up my time. But now all of them are cancelled 😢.&lt;/p&gt;
+
+&lt;h2 id=&quot;tips-to-be-less-bored&quot;&gt;Tips to be LESS BORED&lt;/h2&gt;
+
+&lt;p&gt;Below are some methods I tried over the &lt;em&gt;stay-at-home&lt;/em&gt; period.&lt;/p&gt;
+&lt;h3 id=&quot;1-find-a-project-to-do&quot;&gt;1. Find a project to do&lt;/h3&gt;
+
+&lt;p&gt;I decided to start a project to fill in the time. I am currently making an app, (if you are interested check out the next blog.) It doesn’t have to be a big project, it could be something small e.g. finish this Netflix show, bake something, draw…&lt;/p&gt;
+
+&lt;h3 id=&quot;netflix-shows-here-are-some-shows-my-friends-recommended-to-me&quot;&gt;Netflix shows (Here are some shows my friends recommended to me)&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;Itaewon class (Korean Drama)&lt;/li&gt;
+  &lt;li&gt;The Dictator&lt;/li&gt;
+  &lt;li&gt;Money Heist (Season 1 &amp;amp; 2 &amp;amp; 3) ❤️ &lt;em&gt;all-time favorite&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;You (Both Season 1 &amp;amp; 2)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;2-call-your-friends&quot;&gt;2. Call your friends&lt;/h3&gt;
+
+&lt;p&gt;Every Saturday evening, I hangout with my friends in church with &lt;em&gt;zoom or skype&lt;/em&gt; just to check in with each other. It is a great way to relax and just socialize.&lt;/p&gt;
+
+&lt;p&gt;Remember to wear a mask when you are going outside. It is very important especially these days, as the corona virus is deadly 🦠.&lt;/p&gt;
+
+&lt;h3 id=&quot;many-thanks-to-all-the-doctors-nurses-and-people-who-are-working-to-solve-this-problem-thank-you-and-wish-you-guys-the-best&quot;&gt;Many thanks to all the Doctors, Nurses, and people who are working to solve this problem. Thank you, and wish you guys the best.&lt;/h3&gt;
+
+&lt;h1 id=&quot;end&quot;&gt;END&lt;/h1&gt;
+
+&lt;p&gt;Today’s blog gave you some tips and tricks on how to be less bored, and how deadly Covid-19 is. Stay Safe. If you have any further question or netflix shows you want to recommend me, you can always &lt;a href=&quot;'melanie@melaniehsieh.com'&quot;&gt;Email&lt;/a&gt; me or find me on &lt;a href=&quot;'https://github.com/'&quot;&gt;Github&lt;/a&gt; or &lt;a href=&quot;&amp;quot;https://twitter.com/melaniehsieh&amp;quot;&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading 👀&lt;/p&gt;</content><author><name></name></author><summary type="html">In Decemeber 31st, 2019 I thought 2020 is going to be a good start.</summary></entry><entry><title type="html">PROJECT MINIMAL</title><link href="http://localhost:4000/2020/03/10/projectminimal.html" rel="alternate" type="text/html" title="PROJECT MINIMAL" /><published>2020-03-10T20:12:58+08:00</published><updated>2020-03-10T20:12:58+08:00</updated><id>http://localhost:4000/2020/03/10/projectminimal</id><content type="html" xml:base="http://localhost:4000/2020/03/10/projectminimal.html">&lt;p&gt;Starting 2020 off with a bang 🎉, even though I’m late to the game for 3 months but whatever. The purpose of this weekly blog is simple, I want to share my tips and tricks on programming and some day to day experiences.&lt;/p&gt;
+
+&lt;p&gt;As this is the first time I tried blogging, it is still in experimenting phrase, which means this website will change often times.&lt;/p&gt;
 
 &lt;h1 id=&quot;why&quot;&gt;WHY&lt;/h1&gt;
 
@@ -79,12 +112,18 @@
   &lt;p&gt;Every project must start with a &lt;strong&gt;Why&lt;/strong&gt;.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;em&gt;(I’m pretty sure someone famous said that, but since this is my blog I can say whatever I want.)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(I’m pretty sure someone famous said that, but since this is my blog I can say whatever I want. 😂)&lt;/p&gt;
 
-&lt;p&gt;My goal or &lt;strong&gt;WHY&lt;/strong&gt; is to inspire other girls to pursue engineering or tech, pursue might not be the word but introducing them to &lt;em&gt;The Wonderful World of Technology&lt;/em&gt;. The number of &lt;em&gt;Women in Tech&lt;/em&gt; 👩‍💻️ is still low, and the future world defenitely needs more engineerer. So why not combine the two of them?&lt;/p&gt;
+&lt;p&gt;My &lt;strong&gt;WHY&lt;/strong&gt; is to inspire other girls to pursue engineering or tech, pursue might not be the word but introduce them to &lt;em&gt;The World of Technology&lt;/em&gt;. The number of &lt;em&gt;Women in Tech&lt;/em&gt; 👩‍💻️ is still low, and the future world defenitely need more engineers. So why not combine the two together?&lt;/p&gt;
 
-&lt;p&gt;And this is why &lt;strong&gt;Project Minimal&lt;/strong&gt; is created. I don’t even know how I came up with this name but someday sometime somewhere it just pops up in my head so I’m sticking with my gut.&lt;/p&gt;
+&lt;p&gt;And this is why &lt;strong&gt;Project Minimal&lt;/strong&gt; is created. (I don’t even know how I came up with this name but someday sometime this name just poped up in my brain so I’m sticking with my gut.)&lt;/p&gt;
 
-&lt;p&gt;This is a simple minimal website (&lt;em&gt;you can see it from the title&lt;/em&gt;) I decided to create to document my experience in tech and share my thoughts and feelings.&lt;/p&gt;
+&lt;p&gt;This is a minimal website which I decided to create to document my experiences in tech (coding/programming) and share my thoughts and feelings.&lt;/p&gt;
 
-&lt;p&gt;Establishing the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;#projectminimal&lt;/code&gt; community, the main purpose is to inspire others to get into technology engineer.&lt;/p&gt;</content><author><name></name></author><summary type="html">Starting 2020 off with a bang 🎉, even though I’m late to the game for 3 months but whatever. The purpose of this weekly blog (more like when I’m feeling writing mode blog 😂) is simple, I want to share my tips and tricks on programming and some day to day experiences.</summary></entry></feed>
+&lt;p&gt;Establishing the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;#projectminimal&lt;/code&gt; community, the main purpose is to inspire others to get into technology.&lt;/p&gt;
+
+&lt;h1 id=&quot;end&quot;&gt;END&lt;/h1&gt;
+
+&lt;p&gt;This blog gave you some insight on my weekly blog. If you have any further question you can always &lt;a href=&quot;'melanie@melaniehsieh.com'&quot;&gt;Email&lt;/a&gt; me or find me on &lt;a href=&quot;'https://github.com/'&quot;&gt;Github&lt;/a&gt; or &lt;a href=&quot;&amp;quot;https://twitter.com/melaniehsieh&amp;quot;&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading 👀&lt;/p&gt;</content><author><name></name></author><summary type="html">Starting 2020 off with a bang 🎉, even though I’m late to the game for 3 months but whatever. The purpose of this weekly blog is simple, I want to share my tips and tricks on programming and some day to day experiences.</summary></entry></feed>
