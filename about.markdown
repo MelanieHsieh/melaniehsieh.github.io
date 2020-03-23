@@ -10,4 +10,6 @@ why I started this blog post is to share tps and tricks of me programming,
 advocate other girls to engineering, technology, codiing and most importantly
 document my work updates.
 
-If you have questions or feedback you can contact me with email at [Email]('melanie@melaniehsieh.com') feel free to find me on [Github]('https://github.com/') or [Twitter]("https://twitter.com/melaniehsieh")
+If you have questions or feedback you can [Email]('melanie@melaniehsieh.com') me, feel free to find me on [Github]('https://github.com/') or [Twitter]("https://twitter.com/melaniehsieh")
+
+See you on the upcoming blog 👋
