@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/2020/03/10/projectminimal.html</loc>
-<lastmod>2020-03-10T20:12:58+08:00</lastmod>
+<loc>http://localhost:4000/2020/03/13/projectminimal.html</loc>
+<lastmod>2020-03-13T20:00:01+08:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/2020/03/16/corona.html</loc>
-<lastmod>2020-03-16T07:03:58+08:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/2020/03/21/todoapp.html</loc>
-<lastmod>2020-03-21T07:58:00+08:00</lastmod>
+<loc>http://localhost:4000/2020/03/20/corona.html</loc>
+<lastmod>2020-03-20T07:03:58+08:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/about/</loc>
