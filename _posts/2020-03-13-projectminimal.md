@@ -2,7 +2,7 @@
 layout: post
 title: "PROJECT MINIMAL"
 subtitle: "Why I started this weekly blog"
-date: 2020-03-10 20:12:58 +0800
+date: 2020-03-13 20:00:01 +0800
 background: "/img/4wall.jpg"
 ---
 
