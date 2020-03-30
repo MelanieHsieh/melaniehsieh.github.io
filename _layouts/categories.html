@@ -1,0 +1,35 @@
+---
+layout: default
+---
+<!-- Page Header -->
+{% if page.background %}
+<header class="masthead" style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')">
+  {% else %}
+  <header class="masthead">
+    {% endif %}
+    <div class="overlay"></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <div class="page-heading">
+            <h1>{{ page.title }}</h1>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Page Content -->
+  <div class="container">
+    <div class="row">
+      <article class="article  article--page  typeset">
+        {{ content }}
+      </article>
+      <div class='col'>
+        {% if page.aside == true %}{% include site-aside.html align="left" %}{% endif %}
+      </div>
+      <div class='col-8'>
+        {% include post-categories.html %}
+      </div>
+  </div>
+</div>

@@ -4,6 +4,7 @@ title: "PROJECT MINIMAL"
 subtitle: "Why I started this weekly blog"
 date: 2020-03-13 20:00:01 +0800
 background: "/img/4wall.jpg"
+categories: General
 ---
 
 Starting 2020 off with a bang 🎉, even though I'm late to the game for 3 months but whatever. The purpose of this weekly blog is simple, I want to share my tips and tricks on programming and some day to day experiences.
