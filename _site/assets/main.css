@@ -1,3 +1,11 @@
+@import url(../assests/monokai.css);
+pre, code { border-radius: 3px; }
+
+code { padding: 1px 5px; }
+
+pre { padding: 8px 12px; overflow-x: auto; }
+pre > code { border: 0; padding-right: 0; padding-left: 0; }
+
 body { font-size: 20px; color: #212529; font-family: 'Lora', 'Times New Roman', serif; }
 
 p { line-height: 1.5; margin: 30px 0; }
