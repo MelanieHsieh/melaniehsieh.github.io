@@ -78,7 +78,7 @@
               <a href="#"></a>
               on March 27, 2020 &middot; <span class="reading-time" title="Estimated read time">
   
-   4 mins  read </span>
+   6 mins  read </span>
 
             </span>
           </div>
@@ -128,9 +128,10 @@
 <p>I used expo to setup my project. Expo is a tool that can help you build a React Native app quickly, there is also an app (Expo) which you can install on your phone to render your app live.</p>
 
 <h2 id="doubletap">DoubleTap</h2>
+
 <p>I replaced the <code class="language-plaintext highlighter-rouge">TouchableOpacity</code> button with <code class="language-plaintext highlighter-rouge">DoubleTap</code>. So when you double tap the screen it will submit the todo item to the database.</p>
 
-<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">function</span> <span class="nx">DoubleTapButton</span><span class="p">({</span> <span class="nx">onDoubleTap</span><span class="p">,</span> <span class="nx">children</span> <span class="p">})</span> <span class="p">{</span>
+<div class="language-typescript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">function</span> <span class="nx">DoubleTapButton</span><span class="p">({</span> <span class="nx">onDoubleTap</span><span class="p">,</span> <span class="nx">children</span> <span class="p">})</span> <span class="p">{</span>
   <span class="kd">const</span> <span class="nx">onHandlerStateChange</span> <span class="o">=</span> <span class="p">({</span> <span class="nx">nativeEvent</span> <span class="p">})</span> <span class="o">=&gt;</span> <span class="p">{</span>
     <span class="k">if</span> <span class="p">(</span><span class="nx">nativeEvent</span><span class="p">.</span><span class="nx">state</span> <span class="o">===</span> <span class="nx">State</span><span class="p">.</span><span class="nx">ACTIVE</span><span class="p">)</span> <span class="p">{</span>
       <span class="nx">onDoubleTap</span> <span class="o">&amp;&amp;</span> <span class="nx">onDoubleTap</span><span class="p">();</span>
@@ -147,6 +148,54 @@
 </span>  <span class="p">);</span>
 <span class="p">}</span>
 </code></pre></div></div>
+
+<h2 id="onsubmit">onSubmit</h2>
+
+<p>Create a simple <code class="language-plaintext highlighter-rouge">TextInput</code> and call <code class="language-plaintext highlighter-rouge">DoubleTap</code>. When you double tap the screen, the item in the text input should call a function <code class="language-plaintext highlighter-rouge">this.onSubmit</code>. It should console log the item on your terminal.</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nx">onSubmit</span> <span class="o">=</span> <span class="p">()</span> <span class="o">=&gt;</span> <span class="p">{</span>
+  <span class="kd">const</span> <span class="nx">todo</span> <span class="o">=</span> <span class="p">{</span>
+    <span class="na">title</span><span class="p">:</span> <span class="k">this</span><span class="p">.</span><span class="nx">state</span><span class="p">.</span><span class="nx">title</span><span class="p">,</span>
+    <span class="na">status</span><span class="p">:</span> <span class="k">this</span><span class="p">.</span><span class="nx">state</span><span class="p">.</span><span class="nx">status</span><span class="p">,</span>
+    <span class="na">date</span><span class="p">:</span> <span class="k">this</span><span class="p">.</span><span class="nx">state</span><span class="p">.</span><span class="nx">date</span>
+  <span class="p">};</span>
+
+  <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">todo</span><span class="p">);</span>
+
+  <span class="k">this</span><span class="p">.</span><span class="nx">setState</span><span class="p">({</span>
+    <span class="na">title</span><span class="p">:</span> <span class="dl">""</span><span class="p">,</span>
+    <span class="na">visible</span><span class="p">:</span> <span class="o">!</span><span class="k">this</span><span class="p">.</span><span class="nx">state</span><span class="p">.</span><span class="nx">visible</span>
+  <span class="p">});</span>
+<span class="p">};</span>
+</code></pre></div></div>
+
+<h2 id="addtodo">AddTodo</h2>
+
+<p>I added an <code class="language-plaintext highlighter-rouge">if...else</code> statement so it could switch pages easily. Not sure if this is the most effective way. I am planning to use <code class="language-plaintext highlighter-rouge">Routes</code> next time just to test different methods out.</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="o">&lt;</span><span class="nx">DoubleTapButton</span> <span class="nx">onDoubleTap</span><span class="o">=</span><span class="p">{</span><span class="k">this</span><span class="p">.</span><span class="nx">onSubmit</span><span class="p">}</span><span class="o">&gt;</span>
+  <span class="o">&lt;</span><span class="nx">View</span> <span class="nx">style</span><span class="o">=</span><span class="p">{</span><span class="nx">styles</span><span class="p">.</span><span class="nx">container</span><span class="p">}</span><span class="o">&gt;</span>
+    <span class="p">{</span><span class="k">this</span><span class="p">.</span><span class="nx">state</span><span class="p">.</span><span class="nx">fontLoaded</span> <span class="p">?</span> <span class="p">(</span>
+      <span class="o">&lt;</span><span class="nx">View</span><span class="o">&gt;</span>
+        <span class="p">{</span><span class="k">this</span><span class="p">.</span><span class="nx">state</span><span class="p">.</span><span class="nx">visible</span> <span class="p">?</span> <span class="p">(</span>
+          <span class="o">&lt;</span><span class="nx">View</span><span class="o">&gt;</span>
+            <span class="o">&lt;</span><span class="nx">Text</span><span class="o">&gt;</span><span class="nx">Welcome</span><span class="o">&lt;</span><span class="sr">/Text</span><span class="err">&gt;
+</span>          <span class="o">&lt;</span><span class="sr">/View</span><span class="err">&gt;
+</span>        <span class="p">)</span> <span class="p">:</span> <span class="p">(</span>
+          <span class="o">&lt;</span><span class="nx">View</span><span class="o">&gt;</span>
+            <span class="o">&lt;</span><span class="nx">TextInput</span>
+              <span class="nx">style</span><span class="o">=</span><span class="p">{</span><span class="nx">styles</span><span class="p">.</span><span class="nx">title</span><span class="p">}</span>
+              <span class="nx">onChangeText</span><span class="o">=</span><span class="p">{</span><span class="nx">title</span> <span class="o">=&gt;</span> <span class="k">this</span><span class="p">.</span><span class="nx">setState</span><span class="p">({</span> <span class="nx">title</span> <span class="p">})}</span>
+              <span class="nx">value</span><span class="o">=</span><span class="p">{</span><span class="k">this</span><span class="p">.</span><span class="nx">state</span><span class="p">.</span><span class="nx">title</span><span class="p">}</span>
+              <span class="nx">placeholder</span><span class="o">=</span><span class="dl">"</span><span class="s2">today i will...</span><span class="dl">"</span>
+            <span class="o">/&gt;</span>
+          <span class="o">&lt;</span><span class="sr">/View</span><span class="err">&gt;
+</span>        <span class="p">)}</span>
+      <span class="o">&lt;</span><span class="sr">/View</span><span class="err">&gt;
+</span>    <span class="p">)</span> <span class="p">:</span> <span class="kc">null</span><span class="p">}</span>
+  <span class="o">&lt;</span><span class="sr">/View</span><span class="err">&gt;
+</span><span class="o">&lt;</span><span class="sr">/DoubleTapButton</span><span class="err">&gt;
+</span></code></pre></div></div>
 
 <h1 id="end">END</h1>
 

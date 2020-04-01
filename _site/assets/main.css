@@ -1,5 +1,5 @@
 @import url(../assests/monokai.css);
-pre, code { border-radius: 3px; }
+pre, code { border-radius: 3px; background-color: #f6fcff; }
 
 code { padding: 1px 5px; }
 
