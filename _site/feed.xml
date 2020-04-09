@@ -1,118 +1,72 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-01T09:33:03+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Melanie Hsieh</title><entry><title type="html">Week 1 Todo App</title><link href="http://localhost:4000/todoapp/2020/03/27/todoapp.html" rel="alternate" type="text/html" title="Week 1 Todo App" /><published>2020-03-27T20:00:04+08:00</published><updated>2020-03-27T20:00:04+08:00</updated><id>http://localhost:4000/todoapp/2020/03/27/todoapp</id><content type="html" xml:base="http://localhost:4000/todoapp/2020/03/27/todoapp.html">&lt;p&gt;One of the project this year is to make a Todo App. If you search &lt;em&gt;todo app&lt;/em&gt; in the app store or play store there are a lot of options. However I tried a few of them, and often they are either too complicated to use, or they are just missing some functions I want. So this upcoming month, I am planning to launch my Todo App called &lt;strong&gt;Subtle&lt;/strong&gt; from scratch.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-09T16:40:24+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Melanie Hsieh</title><entry><title type="html">Debugging</title><link href="http://localhost:4000/coding/&/programming/2020/04/09/debug.html" rel="alternate" type="text/html" title="Debugging" /><published>2020-04-09T13:00:04+08:00</published><updated>2020-04-09T13:00:04+08:00</updated><id>http://localhost:4000/coding/&amp;/programming/2020/04/09/debug</id><content type="html" xml:base="http://localhost:4000/coding/&amp;/programming/2020/04/09/debug.html">&lt;h1 id=&quot;home&quot;&gt;Home&lt;/h1&gt;
 
-&lt;h1 id=&quot;part-1-planning-phase&quot;&gt;Part 1: Planning Phase&lt;/h1&gt;
+&lt;p&gt;During the COVID-19 pandemic, schools ended early (but students still need to go to lessons online via Zoom). In April, starting this week, I have an Easter Break that lasts for 2 full weeks. Initially, it was meant to be a break so people can go outside and relax, but now everything seems to change. No one could go outside, go on vacations as most countries are in &lt;em&gt;lock-down mode&lt;/em&gt;, hangout with friends. So the only option is to stay at home. During the break I continued on my project - Subtle, the Todo App.&lt;/p&gt;
 
-&lt;p&gt;For the planning I used &lt;strong&gt;Adobe XD&lt;/strong&gt; to help me finalize the design. Adobe XD is a free app that helps you design the &lt;strong&gt;UI (User Interface)&lt;/strong&gt; of the app.&lt;/p&gt;
+&lt;h1 id=&quot;bugs&quot;&gt;Bugs&lt;/h1&gt;
 
-&lt;p&gt;Here are a few snap shots of my app (in planning phase). I am aiming for a minimalistic app, which is simple and clean.&lt;/p&gt;
+&lt;p&gt;This morning I was going on Instagram, and I saw a post about &lt;strong&gt;Types of people during Quarantine&lt;/strong&gt;. There are a few that caught my eye, such as &lt;em&gt;the introverts&lt;/em&gt;, &lt;em&gt;the freelancers&lt;/em&gt; and &lt;em&gt;the heros&lt;/em&gt;. But then I thought about programmers/developers.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/todo/zoomin.png&quot; alt=&quot;zoomin&quot; width=&quot;800&quot; height=&quot;450&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;As a beginner programmer, the ONE THING that ruins my day is &lt;strong&gt;BUG(s)&lt;/strong&gt;. They usually come in the color red, with a vague caption on the top that usually reads &lt;strong&gt;TypeError: Cannot read proprety ‘xxx’ of undefined&lt;/strong&gt;. Let me show you how &lt;strong&gt;BUGS&lt;/strong&gt; affect my daily mood. 😁😡&lt;/p&gt;
 
-&lt;p&gt;After you finalize the UI of the app, let’s move on to the code. 😉&lt;/p&gt;
+&lt;h1 id=&quot;here-is-a-day-in-the-life-of-a-programmer-beginner-version-&quot;&gt;Here is A Day in the Life of a Programmer (beginner version) :&lt;/h1&gt;
 
-&lt;h1 id=&quot;part-2-front-end&quot;&gt;Part 2: Front End&lt;/h1&gt;
+&lt;ol&gt;
+  &lt;li&gt;😁 - I run the code, it runs smoothly 👏(congrats)&lt;/li&gt;
+  &lt;li&gt;😁 - I start to add new features&lt;/li&gt;
+  &lt;li&gt;😡 - I run the code again and something red pops up.&lt;/li&gt;
+  &lt;li&gt;😡 - I google the bug, look at my code and do some corrections&lt;/li&gt;
+  &lt;li&gt;😡 - Continue &lt;strong&gt;Step 5 and 6&lt;/strong&gt; over and over again until nothing red shows up, sometimes it might not be an error but the outcome isn’t what I was expecting. On average it takes me 2 hours to debug one singe bug. (Quite time consuming…)&lt;/li&gt;
+  &lt;li&gt;😑 - If I can’t debug the code, I usually do something else (i.e. Eat lunch, sleep, watch YouTube)&lt;/li&gt;
+  &lt;li&gt;😁 - Finally, I solved the bug&lt;/li&gt;
+  &lt;li&gt;😑 - I repeat the steps all over again&lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;p&gt;When creating an app there is &lt;strong&gt;Front End&lt;/strong&gt; and &lt;strong&gt;Back End&lt;/strong&gt;. Front End is the client side, where it consists of &lt;em&gt;UI&lt;/em&gt;, &lt;em&gt;color scheme&lt;/em&gt;, &lt;em&gt;UX&lt;/em&gt;. Back End is the database side, where it consists of &lt;em&gt;database&lt;/em&gt;, &lt;em&gt;schemas&lt;/em&gt;, &lt;em&gt;authentication&lt;/em&gt; and many more.&lt;/p&gt;
+&lt;p&gt;As you can see, my mood swings a lot. Quite drastically, from happy to mad, back to happy and back to mad. Often times I get demotivated as the code seems unsolvable. But I found a few tips and tricks to debug my code.&lt;/p&gt;
 
-&lt;p&gt;We will start with the &lt;strong&gt;Front End&lt;/strong&gt;.&lt;/p&gt;
+&lt;h1 id=&quot;5-ways-to-debug-your-code&quot;&gt;5 Ways to Debug your code&lt;/h1&gt;
 
-&lt;h2 id=&quot;tools&quot;&gt;Tools&lt;/h2&gt;
+&lt;h3 id=&quot;1-use-consolelog&quot;&gt;1. Use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;console.log()&lt;/code&gt;&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;React Native (A programming language developed by &lt;em&gt;Facebook&lt;/em&gt;, it isn’t a native language which means it doesn’t use &lt;em&gt;Swift&lt;/em&gt;, &lt;em&gt;Java&lt;/em&gt; or &lt;em&gt;Kotlin&lt;/em&gt;. But it uses &lt;em&gt;Javascript&lt;/em&gt; and &lt;em&gt;Typescript&lt;/em&gt; to build apps that are available for both IOS and Android devices 😀 )&lt;/li&gt;
-  &lt;li&gt;VS Code (Code Editor, I want to switch to &lt;em&gt;Vim&lt;/em&gt; but I don’t have time to learn and install all the bundles and depencies, so I am sticking with VS Code)&lt;/li&gt;
-  &lt;li&gt;iTerm (Terminal)&lt;/li&gt;
+  &lt;li&gt;In javascript it’s &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;console.log()&lt;/code&gt;, in python it’s &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;print&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;It prints out the value of a variable you’re declaring in the console&lt;/li&gt;
+  &lt;li&gt;It is an effective way to check your variables, methods, and function. Making sure they are working perfectly, if not it can also pinpoint the error.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&quot;part-3-setting-up&quot;&gt;Part 3: Setting Up&lt;/h1&gt;
+&lt;h3 id=&quot;2-use-google&quot;&gt;2. Use Google&lt;/h3&gt;
 
-&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nx&quot;&gt;npm&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;install&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;expo&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;cli&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;--&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;global&lt;/span&gt;
-&lt;span class=&quot;nx&quot;&gt;expo&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;init&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;newProject&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;//your project name&lt;/span&gt;
-&lt;span class=&quot;nx&quot;&gt;cd&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;newProject&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;//your project name&lt;/span&gt;
-&lt;span class=&quot;nx&quot;&gt;expo&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;start&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;ul&gt;
+  &lt;li&gt;Many programming languages have existed for a decade or longer, many problems you faced were also faced by many people&lt;/li&gt;
+  &lt;li&gt;Websites such as Stack Overflow, Github, MDN web docs (if you are using javascript) are great ways to find solutions for your bug&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;I used expo to setup my project. Expo is a tool that can help you build a React Native app quickly, there is also an app (Expo) which you can install on your phone to render your app live.&lt;/p&gt;
+&lt;h3 id=&quot;3-go-on-youtube&quot;&gt;3. Go on Youtube&lt;/h3&gt;
 
-&lt;h2 id=&quot;doubletap&quot;&gt;DoubleTap&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;On Youtube, you can find videos that teaches you how to code from scratch&lt;/li&gt;
+  &lt;li&gt;You can reference some of their codes to your project&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;I replaced the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;TouchableOpacity&lt;/code&gt; button with &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DoubleTap&lt;/code&gt;. So when you double tap the screen it will submit the todo item to the database.&lt;/p&gt;
+&lt;h3 id=&quot;4-ask-a-friend&quot;&gt;4. Ask a friend&lt;/h3&gt;
 
-&lt;div class=&quot;language-typescript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;DoubleTapButton&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;onDoubleTap&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;children&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;})&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;onHandlerStateChange&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;({&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;nativeEvent&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;})&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;nativeEvent&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;state&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;===&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;State&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;ACTIVE&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-      &lt;span class=&quot;nx&quot;&gt;onDoubleTap&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;onDoubleTap&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
-    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-  &lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
+&lt;p&gt;If you are like me who doesn’t have friends that code, use online platforms.&lt;/p&gt;
 
-  &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
-    &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;TapGestureHandler&lt;/span&gt;
-      &lt;span class=&quot;nx&quot;&gt;onHandlerStateChange&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;onHandlerStateChange&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-      &lt;span class=&quot;nx&quot;&gt;numberOfTaps&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-    &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;
-      &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;children&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-    &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;/TapGestureHandler&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;&amp;gt;
-&lt;/span&gt;  &lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;ul&gt;
+  &lt;li&gt;Discord, join public servers and ask questions. Many people in the server are more experienced than you.&lt;/li&gt;
+  &lt;li&gt;Reddit, post your question on specific categories or just search for similar bugs and see the responses.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;h2 id=&quot;onsubmit&quot;&gt;onSubmit&lt;/h2&gt;
+&lt;h3 id=&quot;5-sleep&quot;&gt;5. Sleep&lt;/h3&gt;
 
-&lt;p&gt;Create a simple &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;TextInput&lt;/code&gt; and call &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DoubleTap&lt;/code&gt;. When you double tap the screen, the item in the text input should call a function &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;this.onSubmit&lt;/code&gt;. It should console log the item on your terminal.&lt;/p&gt;
-
-&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nx&quot;&gt;onSubmit&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;todo&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;na&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;state&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-    &lt;span class=&quot;na&quot;&gt;status&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;state&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;status&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-    &lt;span class=&quot;na&quot;&gt;date&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;state&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;date&lt;/span&gt;
-  &lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
-
-  &lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;todo&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-
-  &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;setState&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt;
-    &lt;span class=&quot;na&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-    &lt;span class=&quot;na&quot;&gt;visible&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;!&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;state&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;visible&lt;/span&gt;
-  &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;addtodo&quot;&gt;AddTodo&lt;/h2&gt;
-
-&lt;p&gt;I added an &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;if...else&lt;/code&gt; statement so it could switch pages easily. Not sure if this is the most effective way. I am planning to use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Routes&lt;/code&gt; next time just to test different methods out.&lt;/p&gt;
-
-&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;DoubleTapButton&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;onDoubleTap&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;onSubmit&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;View&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;style&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;styles&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;container&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;state&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;fontLoaded&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;?&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
-      &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;View&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;
-        &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;state&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;visible&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;?&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
-          &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;View&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;
-            &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;Text&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;Welcome&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;/Text&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;&amp;gt;
-&lt;/span&gt;          &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;/View&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;&amp;gt;
-&lt;/span&gt;        &lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
-          &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;View&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;
-            &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;TextInput&lt;/span&gt;
-              &lt;span class=&quot;nx&quot;&gt;style&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;styles&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-              &lt;span class=&quot;nx&quot;&gt;onChangeText&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;title&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;setState&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;title&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;})}&lt;/span&gt;
-              &lt;span class=&quot;nx&quot;&gt;value&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;state&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-              &lt;span class=&quot;nx&quot;&gt;placeholder&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;today i will...&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
-            &lt;span class=&quot;o&quot;&gt;/&amp;gt;&lt;/span&gt;
-          &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;/View&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;&amp;gt;
-&lt;/span&gt;        &lt;span class=&quot;p&quot;&gt;)}&lt;/span&gt;
-      &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;/View&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;&amp;gt;
-&lt;/span&gt;    &lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;null&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-  &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;/View&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;&amp;gt;
-&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;/DoubleTapButton&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;&amp;gt;
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Many times, I take breaks in between just to relax my brain cells (kinda). For me the best thing is just to take a break. Often times I think of alternative ways to solve the bug or even different ways to get the final results.&lt;/p&gt;
 
 &lt;h1 id=&quot;end&quot;&gt;END&lt;/h1&gt;
 
-&lt;p&gt;This blog gave you a simple tutorial on starting and adding features to your Todo App.&lt;/p&gt;
+&lt;p&gt;This blog gave you some simple tips and tricks on debugging when you face bugs.&lt;/p&gt;
 
-&lt;p&gt;I have put the full source code for this week’s tutorial on &lt;strong&gt;&lt;a href=&quot;https://github.com/melaniehsieh/subtle&quot;&gt;Github&lt;/a&gt;&lt;/strong&gt;. Good Luck!&lt;/p&gt;
+&lt;p&gt;If you have any further question or any other methods you can always email me at &lt;a href=&quot;mailto:melanie@melaniehsieh.com&quot;&gt;melanie@melaniehsieh.com&lt;/a&gt; or find me on &lt;a href=&quot;https://github.com/melaniehsieh&quot;&gt;Github&lt;/a&gt; or &lt;a href=&quot;https://twitter.com/melaniehsieh&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;If you have any further question you can always email me at &lt;a href=&quot;mailto:melanie@melaniehsieh.com&quot;&gt;melanie@melaniehsieh.com&lt;/a&gt; or find me on &lt;a href=&quot;https://github.com/melaniehsieh&quot;&gt;Github&lt;/a&gt; or &lt;a href=&quot;https://twitter.com/melaniehsieh&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name></name></author><summary type="html">One of the project this year is to make a Todo App. If you search todo app in the app store or play store there are a lot of options. However I tried a few of them, and often they are either too complicated to use, or they are just missing some functions I want. So this upcoming month, I am planning to launch my Todo App called Subtle from scratch.</summary></entry><entry><title type="html">Week 2 Todo App</title><link href="http://localhost:4000/todoapp/2020/03/27/todoapp2.html" rel="alternate" type="text/html" title="Week 2 Todo App" /><published>2020-03-27T20:00:04+08:00</published><updated>2020-03-27T20:00:04+08:00</updated><id>http://localhost:4000/todoapp/2020/03/27/todoapp2</id><content type="html" xml:base="http://localhost:4000/todoapp/2020/03/27/todoapp2.html">&lt;p&gt;From last week’s blog, we introduced the front end design of the app. This week we will be going through the back end of the app.&lt;/p&gt;
+&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name></name></author><summary type="html">Home</summary></entry><entry><title type="html">Week 2 Todo App</title><link href="http://localhost:4000/todoapp/2020/04/03/todoapp2.html" rel="alternate" type="text/html" title="Week 2 Todo App" /><published>2020-04-03T20:00:04+08:00</published><updated>2020-04-03T20:00:04+08:00</updated><id>http://localhost:4000/todoapp/2020/04/03/todoapp2</id><content type="html" xml:base="http://localhost:4000/todoapp/2020/04/03/todoapp2.html">&lt;p&gt;From last week’s blog, we introduced the front end design of the app. This week we will be going through the back end of the app.&lt;/p&gt;
 
 &lt;h1 id=&quot;part-1-back-end&quot;&gt;Part 1: Back End&lt;/h1&gt;
 
@@ -252,7 +206,121 @@
 
 &lt;p&gt;If you have any further question you can always email me at &lt;a href=&quot;mailto:melanie@melaniehsieh.com&quot;&gt;melanie@melaniehsieh.com&lt;/a&gt; or find me on &lt;a href=&quot;https://github.com/melaniehsieh&quot;&gt;Github&lt;/a&gt; or &lt;a href=&quot;https://twitter.com/melaniehsieh&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name></name></author><summary type="html">From last week’s blog, we introduced the front end design of the app. This week we will be going through the back end of the app.</summary></entry><entry><title type="html">COVID-19</title><link href="http://localhost:4000/general/2020/03/20/corona.html" rel="alternate" type="text/html" title="COVID-19" /><published>2020-03-20T07:03:58+08:00</published><updated>2020-03-20T07:03:58+08:00</updated><id>http://localhost:4000/general/2020/03/20/corona</id><content type="html" xml:base="http://localhost:4000/general/2020/03/20/corona.html">&lt;p&gt;In &lt;em&gt;Decemeber 31st, 2019&lt;/em&gt; I thought 2020 is going to be a good start.&lt;/p&gt;
+&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name></name></author><summary type="html">From last week’s blog, we introduced the front end design of the app. This week we will be going through the back end of the app.</summary></entry><entry><title type="html">Week 1 Todo App</title><link href="http://localhost:4000/todoapp/2020/03/27/todoapp.html" rel="alternate" type="text/html" title="Week 1 Todo App" /><published>2020-03-27T20:00:04+08:00</published><updated>2020-03-27T20:00:04+08:00</updated><id>http://localhost:4000/todoapp/2020/03/27/todoapp</id><content type="html" xml:base="http://localhost:4000/todoapp/2020/03/27/todoapp.html">&lt;p&gt;One of the project this year is to make a Todo App. If you search &lt;em&gt;todo app&lt;/em&gt; in the app store or play store there are a lot of options. However I tried a few of them, and often they are either too complicated to use, or they are just missing some functions I want. So this upcoming month, I am planning to launch my Todo App called &lt;strong&gt;Subtle&lt;/strong&gt; from scratch.&lt;/p&gt;
+
+&lt;h1 id=&quot;part-1-planning-phase&quot;&gt;Part 1: Planning Phase&lt;/h1&gt;
+
+&lt;p&gt;For the planning I used &lt;strong&gt;Adobe XD&lt;/strong&gt; to help me finalize the design. Adobe XD is a free app that helps you design the &lt;strong&gt;UI (User Interface)&lt;/strong&gt; of the app.&lt;/p&gt;
+
+&lt;p&gt;Here are a few snap shots of my app (in planning phase). I am aiming for a minimalistic app, which is simple and clean.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/todo/zoomin.png&quot; alt=&quot;zoomin&quot; width=&quot;800&quot; height=&quot;450&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;After you finalize the UI of the app, let’s move on to the code. 😉&lt;/p&gt;
+
+&lt;h1 id=&quot;part-2-front-end&quot;&gt;Part 2: Front End&lt;/h1&gt;
+
+&lt;p&gt;When creating an app there is &lt;strong&gt;Front End&lt;/strong&gt; and &lt;strong&gt;Back End&lt;/strong&gt;. Front End is the client side, where it consists of &lt;em&gt;UI&lt;/em&gt;, &lt;em&gt;color scheme&lt;/em&gt;, &lt;em&gt;UX&lt;/em&gt;. Back End is the database side, where it consists of &lt;em&gt;database&lt;/em&gt;, &lt;em&gt;schemas&lt;/em&gt;, &lt;em&gt;authentication&lt;/em&gt; and many more.&lt;/p&gt;
+
+&lt;p&gt;We will start with the &lt;strong&gt;Front End&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;tools&quot;&gt;Tools&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;React Native (A programming language developed by &lt;em&gt;Facebook&lt;/em&gt;, it isn’t a native language which means it doesn’t use &lt;em&gt;Swift&lt;/em&gt;, &lt;em&gt;Java&lt;/em&gt; or &lt;em&gt;Kotlin&lt;/em&gt;. But it uses &lt;em&gt;Javascript&lt;/em&gt; and &lt;em&gt;Typescript&lt;/em&gt; to build apps that are available for both IOS and Android devices 😀 )&lt;/li&gt;
+  &lt;li&gt;VS Code (Code Editor, I want to switch to &lt;em&gt;Vim&lt;/em&gt; but I don’t have time to learn and install all the bundles and depencies, so I am sticking with VS Code)&lt;/li&gt;
+  &lt;li&gt;iTerm (Terminal)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;part-3-setting-up&quot;&gt;Part 3: Setting Up&lt;/h1&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nx&quot;&gt;npm&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;install&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;expo&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;cli&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;--&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;global&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;expo&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;init&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;newProject&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;//your project name&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;cd&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;newProject&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;//your project name&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;expo&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;start&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;I used expo to setup my project. Expo is a tool that can help you build a React Native app quickly, there is also an app (Expo) which you can install on your phone to render your app live.&lt;/p&gt;
+
+&lt;h2 id=&quot;doubletap&quot;&gt;DoubleTap&lt;/h2&gt;
+
+&lt;p&gt;I replaced the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;TouchableOpacity&lt;/code&gt; button with &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DoubleTap&lt;/code&gt;. So when you double tap the screen it will submit the todo item to the database.&lt;/p&gt;
+
+&lt;div class=&quot;language-typescript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;DoubleTapButton&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;onDoubleTap&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;children&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;})&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;onHandlerStateChange&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;({&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;nativeEvent&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;})&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;nativeEvent&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;state&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;===&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;State&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;ACTIVE&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+      &lt;span class=&quot;nx&quot;&gt;onDoubleTap&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;onDoubleTap&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
+
+  &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
+    &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;TapGestureHandler&lt;/span&gt;
+      &lt;span class=&quot;nx&quot;&gt;onHandlerStateChange&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;onHandlerStateChange&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+      &lt;span class=&quot;nx&quot;&gt;numberOfTaps&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+    &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;
+      &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;children&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+    &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;/TapGestureHandler&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;&amp;gt;
+&lt;/span&gt;  &lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;onsubmit&quot;&gt;onSubmit&lt;/h2&gt;
+
+&lt;p&gt;Create a simple &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;TextInput&lt;/code&gt; and call &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DoubleTap&lt;/code&gt;. When you double tap the screen, the item in the text input should call a function &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;this.onSubmit&lt;/code&gt;. It should console log the item on your terminal.&lt;/p&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nx&quot;&gt;onSubmit&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;todo&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;state&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;status&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;state&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;status&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;date&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;state&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;date&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
+
+  &lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;todo&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+  &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;setState&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;visible&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;!&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;state&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;visible&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;addtodo&quot;&gt;AddTodo&lt;/h2&gt;
+
+&lt;p&gt;I added an &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;if...else&lt;/code&gt; statement so it could switch pages easily. Not sure if this is the most effective way. I am planning to use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Routes&lt;/code&gt; next time just to test different methods out.&lt;/p&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;DoubleTapButton&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;onDoubleTap&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;onSubmit&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;View&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;style&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;styles&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;container&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;state&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;fontLoaded&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;?&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
+      &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;View&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;
+        &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;state&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;visible&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;?&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
+          &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;View&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;
+            &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;Text&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;Welcome&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;/Text&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;&amp;gt;
+&lt;/span&gt;          &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;/View&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;&amp;gt;
+&lt;/span&gt;        &lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
+          &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;View&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;
+            &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;TextInput&lt;/span&gt;
+              &lt;span class=&quot;nx&quot;&gt;style&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;styles&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+              &lt;span class=&quot;nx&quot;&gt;onChangeText&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;title&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;setState&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;title&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;})}&lt;/span&gt;
+              &lt;span class=&quot;nx&quot;&gt;value&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;state&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+              &lt;span class=&quot;nx&quot;&gt;placeholder&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;today i will...&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+            &lt;span class=&quot;o&quot;&gt;/&amp;gt;&lt;/span&gt;
+          &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;/View&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;&amp;gt;
+&lt;/span&gt;        &lt;span class=&quot;p&quot;&gt;)}&lt;/span&gt;
+      &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;/View&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;&amp;gt;
+&lt;/span&gt;    &lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;null&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+  &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;/View&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;&amp;gt;
+&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;/DoubleTapButton&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;&amp;gt;
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h1 id=&quot;end&quot;&gt;END&lt;/h1&gt;
+
+&lt;p&gt;This blog gave you a simple tutorial on starting and adding features to your Todo App.&lt;/p&gt;
+
+&lt;p&gt;I have put the full source code for this week’s tutorial on &lt;strong&gt;&lt;a href=&quot;https://github.com/melaniehsieh/subtle&quot;&gt;Github&lt;/a&gt;&lt;/strong&gt;. Good Luck!&lt;/p&gt;
+
+&lt;p&gt;If you have any further question you can always email me at &lt;a href=&quot;mailto:melanie@melaniehsieh.com&quot;&gt;melanie@melaniehsieh.com&lt;/a&gt; or find me on &lt;a href=&quot;https://github.com/melaniehsieh&quot;&gt;Github&lt;/a&gt; or &lt;a href=&quot;https://twitter.com/melaniehsieh&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name></name></author><summary type="html">One of the project this year is to make a Todo App. If you search todo app in the app store or play store there are a lot of options. However I tried a few of them, and often they are either too complicated to use, or they are just missing some functions I want. So this upcoming month, I am planning to launch my Todo App called Subtle from scratch.</summary></entry><entry><title type="html">COVID-19</title><link href="http://localhost:4000/general/2020/03/20/corona.html" rel="alternate" type="text/html" title="COVID-19" /><published>2020-03-20T07:03:58+08:00</published><updated>2020-03-20T07:03:58+08:00</updated><id>http://localhost:4000/general/2020/03/20/corona</id><content type="html" xml:base="http://localhost:4000/general/2020/03/20/corona.html">&lt;p&gt;In &lt;em&gt;Decemeber 31st, 2019&lt;/em&gt; I thought 2020 is going to be a good start.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Number ONE:&lt;/strong&gt; It’s a new decade. &lt;strong&gt;2020&lt;/strong&gt; means new goals, new commitment and most importantly, new ME. It’s a year where I want to improve myself &lt;em&gt;exponentially&lt;/em&gt;.&lt;/p&gt;
 
