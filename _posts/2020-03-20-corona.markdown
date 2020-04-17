@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "COVID-19"
-subtitle: "How I balance my school and personal life"
 date: 2020-03-20 7:03:58 +0800
 background: "/img/4wall.jpg"
 categories: General
@@ -13,11 +12,11 @@ In _Decemeber 31st, 2019_ I thought 2020 is going to be a good start.
 
 **Number TWO:** I turned 16. 🎂🎉
 
-**Number THREE:** I have a list of projects I want to achieve and build this year. (You can find them on my *Project Page*)
+**Number THREE:** I have a list of projects I want to achieve and build this year. (You can find them on my _Project Page_)
 
 # Covid-19 in Hong Kong
 
-As I am currently living in Hong Kong. Since the spread of COVID-19 near the end of January, more than 100 countries are infected. which included Hong Kong. This made all the schools closed and holiday extension. I am not complaninig about the extra few days of holidays, but not able to go outside freely sucks.
+As I am currently living in Hong Kong. Since the spread of COVID-19 near the end of January, more than 100 countries are infected. This made all the schools closed and holiday extension. I am not complaninig about the extra few days of holidays, but not able to go outside freely sucks.
 
 Many schools including mine has started online school with tools like zoom, google hangout just to name a few. At first, I felt overwhelmed of all the homework and assignment piling up. Especially my exam in May is coming soon, teachers gave us extra work to catchup. It was very tiring and made me feel **SchoolSick**. (I know it may sound weird)
 
@@ -27,23 +26,24 @@ Due to the outbreak, we had to stay at home. Usually on Saturdays and Sundays I 
 
 ## Tips to be LESS BORED
 
-Below are some methods I tried over the *stay-at-home* period.
+Below are some methods I tried over the _stay-at-home_ period.
+
 ### 1. Find a project to do
 
 I decided to start a project to fill in the time. I am currently making an app, (if you are interested check out the next blog.) It doesn't have to be a big project, it could be something small e.g. finish this Netflix show, bake something, draw...
 
 ### Netflix shows (Here are some shows my friends recommended to me)
+
 1. Itaewon class (Korean Drama)
 2. The Dictator
-3. Money Heist (Season 1 & 2 & 3) ❤️ *all-time favorite*
+3. Money Heist (Season 1 & 2 & 3) ❤️ _all-time favorite_
 4. You (Both Season 1 & 2)
 
 ### 2. Call your friends
 
-Every Saturday evening, I hangout with my friends in church with *zoom or skype* just to check in with each other. It is a great way to relax and just socialize.
+Every Saturday evening, I hangout with my friends in church with _zoom or skype_ just to check in with each other. It is a great way to relax and just socialize.
 
-
-Remember to wear a mask when you are going outside. It is very important especially these days, as the corona virus is deadly 🦠. 
+Remember to wear a mask when you are going outside. It is very important especially these days, as the corona virus is deadly 🦠.
 
 ### Many thanks to all the Doctors, Nurses, and people who are working to solve this problem. Thank you, and wish you guys the best.
 

@@ -1,4 +1,36 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-09T16:40:24+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Melanie Hsieh</title><entry><title type="html">Debugging</title><link href="http://localhost:4000/coding/&/programming/2020/04/09/debug.html" rel="alternate" type="text/html" title="Debugging" /><published>2020-04-09T13:00:04+08:00</published><updated>2020-04-09T13:00:04+08:00</updated><id>http://localhost:4000/coding/&amp;/programming/2020/04/09/debug</id><content type="html" xml:base="http://localhost:4000/coding/&amp;/programming/2020/04/09/debug.html">&lt;h1 id=&quot;home&quot;&gt;Home&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-17T16:12:36+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Project Minimal</title><entry><title type="html">Chapter 1: Primary School</title><link href="http://localhost:4000/login/2020/04/17/login.html" rel="alternate" type="text/html" title="Chapter 1: Primary School" /><published>2020-04-17T15:00:04+08:00</published><updated>2020-04-17T15:00:04+08:00</updated><id>http://localhost:4000/login/2020/04/17/login</id><content type="html" xml:base="http://localhost:4000/login/2020/04/17/login.html">&lt;p&gt;I am starting a new series! Yes, no more code snippets or tutorials. (Well only for a while.) I realized most of my readers aren’t interested in coding so I decided to change up the content. I am going to tell stories about myself.&lt;/p&gt;
+
+&lt;h1 id=&quot;primary-school&quot;&gt;Primary School&lt;/h1&gt;
+
+&lt;p&gt;Exactly 10 years ago, I started primary school. Back then, my favorite subjects were Art and ICT (basically computer class). Mainly because there weren’t any tests and exams. To clarify I’m not the kid with straight A’s, or the kid who’s talented in sports. But I am the kid who hated exams and tests especially dictations.&lt;/p&gt;
+
+&lt;h3 id=&quot;art-class&quot;&gt;Art class&lt;/h3&gt;
+
+&lt;p&gt;I like art because it was fun. I remebered once I made a cardboard robot with red pockets with my friends. I enjoyed the process of making something physical from start to finish.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Everything is Art&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I saw a youtube video explaining how someone put a blank white painting in an art gallery and sold it for millions of dollars. So I thought it would be easy to score an A, as there are a lot of empty white pages in my sketchbook. Well expectations never equal to reality. I learned that from the hard way.&lt;/p&gt;
+
+&lt;p&gt;In reality my art grades were C’s.&lt;/p&gt;
+
+&lt;h2 id=&quot;computer-class&quot;&gt;Computer class&lt;/h2&gt;
+
+&lt;p&gt;In the beginning, I hated computer classes. They were so boring and repetive, each lesson teachers just explain some basic functions of the computer such as what is copy and paste.&lt;/p&gt;
+
+&lt;p&gt;But, as we started to learn scratch I started to build up my curiosity on writing simple block codes. It was extremely fun as I could basically control the cat, what it does, where it goes. Later on I participated in competitions to enhance my skills. I even won a few awards.&lt;/p&gt;
+
+&lt;p&gt;The awards I got might be small comparing them to other people’s. But these small achievements sparked joy, because someone verified my product, they think it’s good. Now that’s something big.&lt;/p&gt;
+
+&lt;h1 id=&quot;end&quot;&gt;END&lt;/h1&gt;
+
+&lt;p&gt;If you have any further question you can always email me at &lt;a href=&quot;mailto:melanie@melaniehsieh.com&quot;&gt;melanie@melaniehsieh.com&lt;/a&gt; or find me on &lt;a href=&quot;https://github.com/melaniehsieh&quot;&gt;Github&lt;/a&gt; or &lt;a href=&quot;https://twitter.com/melaniehsieh&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Please subscibe to my weekly blog to get the latest updates.&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name></name></author><summary type="html">I am starting a new series! Yes, no more code snippets or tutorials. (Well only for a while.) I realized most of my readers aren’t interested in coding so I decided to change up the content. I am going to tell stories about myself.</summary></entry><entry><title type="html">Debugging</title><link href="http://localhost:4000/coding/2020/04/10/debug.html" rel="alternate" type="text/html" title="Debugging" /><published>2020-04-10T13:00:04+08:00</published><updated>2020-04-10T13:00:04+08:00</updated><id>http://localhost:4000/coding/2020/04/10/debug</id><content type="html" xml:base="http://localhost:4000/coding/2020/04/10/debug.html">&lt;h3 id=&quot;quick-updates&quot;&gt;Quick Updates&lt;/h3&gt;
 
 &lt;p&gt;During the COVID-19 pandemic, schools ended early (but students still need to go to lessons online via Zoom). In April, starting this week, I have an Easter Break that lasts for 2 full weeks. Initially, it was meant to be a break so people can go outside and relax, but now everything seems to change. No one could go outside, go on vacations as most countries are in &lt;em&gt;lock-down mode&lt;/em&gt;, hangout with friends. So the only option is to stay at home. During the break I continued on my project - Subtle, the Todo App.&lt;/p&gt;
 
@@ -66,7 +98,7 @@
 
 &lt;p&gt;If you have any further question or any other methods you can always email me at &lt;a href=&quot;mailto:melanie@melaniehsieh.com&quot;&gt;melanie@melaniehsieh.com&lt;/a&gt; or find me on &lt;a href=&quot;https://github.com/melaniehsieh&quot;&gt;Github&lt;/a&gt; or &lt;a href=&quot;https://twitter.com/melaniehsieh&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name></name></author><summary type="html">Home</summary></entry><entry><title type="html">Week 2 Todo App</title><link href="http://localhost:4000/todoapp/2020/04/03/todoapp2.html" rel="alternate" type="text/html" title="Week 2 Todo App" /><published>2020-04-03T20:00:04+08:00</published><updated>2020-04-03T20:00:04+08:00</updated><id>http://localhost:4000/todoapp/2020/04/03/todoapp2</id><content type="html" xml:base="http://localhost:4000/todoapp/2020/04/03/todoapp2.html">&lt;p&gt;From last week’s blog, we introduced the front end design of the app. This week we will be going through the back end of the app.&lt;/p&gt;
+&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name></name></author><summary type="html">Quick Updates</summary></entry><entry><title type="html">Week 2 Todo App</title><link href="http://localhost:4000/coding/2020/04/03/todoapp2.html" rel="alternate" type="text/html" title="Week 2 Todo App" /><published>2020-04-03T20:00:04+08:00</published><updated>2020-04-03T20:00:04+08:00</updated><id>http://localhost:4000/coding/2020/04/03/todoapp2</id><content type="html" xml:base="http://localhost:4000/coding/2020/04/03/todoapp2.html">&lt;p&gt;From last week’s blog, we introduced the front end design of the app. This week we will be going through the back end of the app.&lt;/p&gt;
 
 &lt;h1 id=&quot;part-1-back-end&quot;&gt;Part 1: Back End&lt;/h1&gt;
 
@@ -206,7 +238,7 @@
 
 &lt;p&gt;If you have any further question you can always email me at &lt;a href=&quot;mailto:melanie@melaniehsieh.com&quot;&gt;melanie@melaniehsieh.com&lt;/a&gt; or find me on &lt;a href=&quot;https://github.com/melaniehsieh&quot;&gt;Github&lt;/a&gt; or &lt;a href=&quot;https://twitter.com/melaniehsieh&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name></name></author><summary type="html">From last week’s blog, we introduced the front end design of the app. This week we will be going through the back end of the app.</summary></entry><entry><title type="html">Week 1 Todo App</title><link href="http://localhost:4000/todoapp/2020/03/27/todoapp.html" rel="alternate" type="text/html" title="Week 1 Todo App" /><published>2020-03-27T20:00:04+08:00</published><updated>2020-03-27T20:00:04+08:00</updated><id>http://localhost:4000/todoapp/2020/03/27/todoapp</id><content type="html" xml:base="http://localhost:4000/todoapp/2020/03/27/todoapp.html">&lt;p&gt;One of the project this year is to make a Todo App. If you search &lt;em&gt;todo app&lt;/em&gt; in the app store or play store there are a lot of options. However I tried a few of them, and often they are either too complicated to use, or they are just missing some functions I want. So this upcoming month, I am planning to launch my Todo App called &lt;strong&gt;Subtle&lt;/strong&gt; from scratch.&lt;/p&gt;
+&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name></name></author><summary type="html">From last week’s blog, we introduced the front end design of the app. This week we will be going through the back end of the app.</summary></entry><entry><title type="html">Week 1 Todo App</title><link href="http://localhost:4000/coding/2020/03/27/todoapp.html" rel="alternate" type="text/html" title="Week 1 Todo App" /><published>2020-03-27T20:00:04+08:00</published><updated>2020-03-27T20:00:04+08:00</updated><id>http://localhost:4000/coding/2020/03/27/todoapp</id><content type="html" xml:base="http://localhost:4000/coding/2020/03/27/todoapp.html">&lt;p&gt;One of the project this year is to make a Todo App. If you search &lt;em&gt;todo app&lt;/em&gt; in the app store or play store there are a lot of options. However I tried a few of them, and often they are either too complicated to use, or they are just missing some functions I want. So this upcoming month, I am planning to launch my Todo App called &lt;strong&gt;Subtle&lt;/strong&gt; from scratch.&lt;/p&gt;
 
 &lt;h1 id=&quot;part-1-planning-phase&quot;&gt;Part 1: Planning Phase&lt;/h1&gt;
 
@@ -330,7 +362,7 @@
 
 &lt;h1 id=&quot;covid-19-in-hong-kong&quot;&gt;Covid-19 in Hong Kong&lt;/h1&gt;
 
-&lt;p&gt;As I am currently living in Hong Kong. Since the spread of COVID-19 near the end of January, more than 100 countries are infected. which included Hong Kong. This made all the schools closed and holiday extension. I am not complaninig about the extra few days of holidays, but not able to go outside freely sucks.&lt;/p&gt;
+&lt;p&gt;As I am currently living in Hong Kong. Since the spread of COVID-19 near the end of January, more than 100 countries are infected. This made all the schools closed and holiday extension. I am not complaninig about the extra few days of holidays, but not able to go outside freely sucks.&lt;/p&gt;
 
 &lt;p&gt;Many schools including mine has started online school with tools like zoom, google hangout just to name a few. At first, I felt overwhelmed of all the homework and assignment piling up. Especially my exam in May is coming soon, teachers gave us extra work to catchup. It was very tiring and made me feel &lt;strong&gt;SchoolSick&lt;/strong&gt;. (I know it may sound weird)&lt;/p&gt;
 
@@ -341,11 +373,13 @@
 &lt;h2 id=&quot;tips-to-be-less-bored&quot;&gt;Tips to be LESS BORED&lt;/h2&gt;
 
 &lt;p&gt;Below are some methods I tried over the &lt;em&gt;stay-at-home&lt;/em&gt; period.&lt;/p&gt;
+
 &lt;h3 id=&quot;1-find-a-project-to-do&quot;&gt;1. Find a project to do&lt;/h3&gt;
 
 &lt;p&gt;I decided to start a project to fill in the time. I am currently making an app, (if you are interested check out the next blog.) It doesn’t have to be a big project, it could be something small e.g. finish this Netflix show, bake something, draw…&lt;/p&gt;
 
 &lt;h3 id=&quot;netflix-shows-here-are-some-shows-my-friends-recommended-to-me&quot;&gt;Netflix shows (Here are some shows my friends recommended to me)&lt;/h3&gt;
+
 &lt;ol&gt;
   &lt;li&gt;Itaewon class (Korean Drama)&lt;/li&gt;
   &lt;li&gt;The Dictator&lt;/li&gt;
