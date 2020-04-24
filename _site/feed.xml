@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-17T16:12:36+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Project Minimal</title><entry><title type="html">Chapter 1: Primary School</title><link href="http://localhost:4000/login/2020/04/17/login.html" rel="alternate" type="text/html" title="Chapter 1: Primary School" /><published>2020-04-17T15:00:04+08:00</published><updated>2020-04-17T15:00:04+08:00</updated><id>http://localhost:4000/login/2020/04/17/login</id><content type="html" xml:base="http://localhost:4000/login/2020/04/17/login.html">&lt;p&gt;I am starting a new series! Yes, no more code snippets or tutorials. (Well only for a while.) I realized most of my readers aren’t interested in coding so I decided to change up the content. I am going to tell stories about myself.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-24T22:31:03+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Project Minimal</title><entry><title type="html">Chapter 1: Primary School</title><link href="http://localhost:4000/login/2020/04/17/login.html" rel="alternate" type="text/html" title="Chapter 1: Primary School" /><published>2020-04-17T15:00:04+08:00</published><updated>2020-04-17T15:00:04+08:00</updated><id>http://localhost:4000/login/2020/04/17/login</id><content type="html" xml:base="http://localhost:4000/login/2020/04/17/login.html">&lt;p&gt;I am starting a new series! Yes, no more code snippets or tutorials. (Well only for a while.) I realized most of my readers aren’t interested in coding so I decided to change up the content. I am going to tell stories about myself.&lt;/p&gt;
 
 &lt;h1 id=&quot;primary-school&quot;&gt;Primary School&lt;/h1&gt;
 
@@ -30,7 +30,64 @@
 
 &lt;p&gt;Please subscibe to my weekly blog to get the latest updates.&lt;/p&gt;
 
-&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name></name></author><summary type="html">I am starting a new series! Yes, no more code snippets or tutorials. (Well only for a while.) I realized most of my readers aren’t interested in coding so I decided to change up the content. I am going to tell stories about myself.</summary></entry><entry><title type="html">Debugging</title><link href="http://localhost:4000/coding/2020/04/10/debug.html" rel="alternate" type="text/html" title="Debugging" /><published>2020-04-10T13:00:04+08:00</published><updated>2020-04-10T13:00:04+08:00</updated><id>http://localhost:4000/coding/2020/04/10/debug</id><content type="html" xml:base="http://localhost:4000/coding/2020/04/10/debug.html">&lt;h3 id=&quot;quick-updates&quot;&gt;Quick Updates&lt;/h3&gt;
+&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name></name></author><summary type="html">I am starting a new series! Yes, no more code snippets or tutorials. (Well only for a while.) I realized most of my readers aren’t interested in coding so I decided to change up the content. I am going to tell stories about myself.</summary></entry><entry><title type="html">Chapter 2: Middle School</title><link href="http://localhost:4000/login/2020/04/17/hackathon.html" rel="alternate" type="text/html" title="Chapter 2: Middle School" /><published>2020-04-17T15:00:04+08:00</published><updated>2020-04-17T15:00:04+08:00</updated><id>http://localhost:4000/login/2020/04/17/hackathon</id><content type="html" xml:base="http://localhost:4000/login/2020/04/17/hackathon.html">&lt;p&gt;As Melanie Hsieh once said:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Big things must start from small things, and small things are usually simple things.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;(That’s a lot of “things” repeated in the same quote. 😂)&lt;/p&gt;
+
+&lt;p&gt;In the first year of Middle School, I saw a friend of mine coding. When I looked at his computer, I was blowned away. From my primary school experiences I thought coding was just block codes, with a cat hovering on a screen. But he was writing script codes. He was coding in simple HTML and a bit of CSS. This was my first experience in actual real coding. 👩‍💻️&lt;/p&gt;
+
+&lt;p&gt;That sparked my curiosity in understanding and exploring tech and coding more in depth. I was getting serious abount this hobby. 😁&lt;/p&gt;
+
+&lt;h1 id=&quot;hackathon&quot;&gt;Hackathon&lt;/h1&gt;
+
+&lt;p&gt;Around November, our school hosted a Hackathon. Hackathon is basically a 2-day event where students participate this event to get exposure to different coding possivility and a 1-day build day where we present our business ideas to judges about our product.&lt;/p&gt;
+
+&lt;p&gt;Back then I just started pure, simple HTML. I only know how to add headings, text and simple styling to my website. Basically &lt;strong&gt;zero&lt;/strong&gt; experience in coding.&lt;/p&gt;
+
+&lt;h1 id=&quot;day-1-workshop&quot;&gt;Day 1: Workshop&lt;/h1&gt;
+
+&lt;p&gt;It was a Friday and I forced two of my friends to join me in this Hackathon. The only reason why they joined this event wasn’t because they are interested in coding but because we get to skip school.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/esf.jpg&quot; alt=&quot;esf&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Every big event starts with a speech. It was kinda long to be honest, one hour (I have short patience span). But after the boring bit, the fun part begins – &lt;strong&gt;the workshop&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;We got to choose 6 workshops to participate over the course, hosted by different coding organizations in Hong Kong. Ranging from simple tutorials on creating a web or app, to making a game from scratch. It didn’t go in depth as every session only took an hour, but there’s one workshop that blew my mind 🤯, it was a tutorial on making an app with Javascript.&lt;/p&gt;
+
+&lt;p&gt;It was a pokemon app, (yes, back then pokemon go was still a big trend) that simply shows images of pokemons when you tap the screen. I didn’t learn much from this workshop session as everything is still brand new to me, but it made me feel cooler than I was before. When I showed my app to my friends, I felt a sense of accomplishment. Because I know how to code and they don’t.&lt;/p&gt;
+
+&lt;p&gt;At that time, I would consider myself as a &lt;strong&gt;nerd&lt;/strong&gt; 🤓 (I think I still am). I enjoyed everything related to tech. So I find this new hobby, coding extremely suitable to my interest.&lt;/p&gt;
+
+&lt;h1 id=&quot;day-2-coding-time-️&quot;&gt;Day 2: Coding time 👩‍💻️&lt;/h1&gt;
+
+&lt;p&gt;In groups of 4, we started our actual &lt;strong&gt;Hackathon&lt;/strong&gt;. We came up with a business idea and started to work on it. Someone is responisible on the presentation, someone is responsible on the app design, and someone is responisble on the marketing side.&lt;/p&gt;
+
+&lt;p&gt;Not knowing anything related to marketing and economics/business, my main focus was the marketing side. I made a simple website to promote our business idea, which was a platform that allows users to share items between each other. Spare the details cause I simply can’t remember any of them.&lt;/p&gt;
+
+&lt;p&gt;Let’s talk about the website, it was the first website I’ve ever made. 👏 It was a blue background web page that has 2 sentences explaining our business idea, and a huge section introducing members of our team, and a &lt;strong&gt;Terms and Condition Section&lt;/strong&gt; made up on the spot by my friend Gemma.&lt;/p&gt;
+
+&lt;p&gt;Things never go the way as we planned, and during the hackathon we faced a lot of problems. Especially as a beginner, with zero experience and knowledge. There were times where we got distracted in Papa’s Pizzeria, there were times where we have no clue what we were doing, and there were times where we were demotivated when other teams got a better product, a more professional website than our team. But I still enjoyed the process on working with different people, and comes up with a business idea in one single day.&lt;/p&gt;
+
+&lt;h1 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h1&gt;
+
+&lt;p&gt;In the end, surprisingly we won an award on best idea. Each of us won a gift voucher for a free course from one of the coding org. But after this event, I gained a lot more insights on tech, especially when I realized that coding is much wider and deeper than I thought originially.&lt;/p&gt;
+
+&lt;p&gt;In the future, I will build up my skills on coding and join more competitve Hackathons where teams have to come up with a product and a plan in a certain amount of time period. Most importantly, have better prizes other than vouchers that is only limited to their company.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/group.jpg&quot; alt=&quot;group&quot; width=&quot;700&quot; /&gt;
+See if you can find me…🤣&lt;/p&gt;
+
+&lt;h1 id=&quot;end&quot;&gt;END&lt;/h1&gt;
+
+&lt;p&gt;If you have any further question you can always email me at &lt;a href=&quot;mailto:melanie@melaniehsieh.com&quot;&gt;melanie@melaniehsieh.com&lt;/a&gt; or find me on &lt;a href=&quot;https://github.com/melaniehsieh&quot;&gt;Github&lt;/a&gt; or &lt;a href=&quot;https://twitter.com/melaniehsieh&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Please subscibe to my weekly blog to get the latest updates.&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name></name></author><summary type="html">As Melanie Hsieh once said:</summary></entry><entry><title type="html">Debugging</title><link href="http://localhost:4000/coding/2020/04/10/debug.html" rel="alternate" type="text/html" title="Debugging" /><published>2020-04-10T13:00:04+08:00</published><updated>2020-04-10T13:00:04+08:00</updated><id>http://localhost:4000/coding/2020/04/10/debug</id><content type="html" xml:base="http://localhost:4000/coding/2020/04/10/debug.html">&lt;h3 id=&quot;quick-updates&quot;&gt;Quick Updates&lt;/h3&gt;
 
 &lt;p&gt;During the COVID-19 pandemic, schools ended early (but students still need to go to lessons online via Zoom). In April, starting this week, I have an Easter Break that lasts for 2 full weeks. Initially, it was meant to be a break so people can go outside and relax, but now everything seems to change. No one could go outside, go on vacations as most countries are in &lt;em&gt;lock-down mode&lt;/em&gt;, hangout with friends. So the only option is to stay at home. During the break I continued on my project - Subtle, the Todo App.&lt;/p&gt;
 
