@@ -66,6 +66,8 @@
           <div class="post-heading">
             <h1>Week 1 Todo App</h1>
             
+            <h2 class="subheading">Frontend - User Interface/Experience</h2>
+            
             <span class="meta">Posted by
               <a href="#"></a>
               on March 27, 2020 &middot; <span class="reading-time" title="Estimated read time">
@@ -149,14 +151,14 @@
   <span class="kd">const</span> <span class="nx">todo</span> <span class="o">=</span> <span class="p">{</span>
     <span class="na">title</span><span class="p">:</span> <span class="k">this</span><span class="p">.</span><span class="nx">state</span><span class="p">.</span><span class="nx">title</span><span class="p">,</span>
     <span class="na">status</span><span class="p">:</span> <span class="k">this</span><span class="p">.</span><span class="nx">state</span><span class="p">.</span><span class="nx">status</span><span class="p">,</span>
-    <span class="na">date</span><span class="p">:</span> <span class="k">this</span><span class="p">.</span><span class="nx">state</span><span class="p">.</span><span class="nx">date</span>
+    <span class="na">date</span><span class="p">:</span> <span class="k">this</span><span class="p">.</span><span class="nx">state</span><span class="p">.</span><span class="nx">date</span><span class="p">,</span>
   <span class="p">};</span>
 
   <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">todo</span><span class="p">);</span>
 
   <span class="k">this</span><span class="p">.</span><span class="nx">setState</span><span class="p">({</span>
     <span class="na">title</span><span class="p">:</span> <span class="dl">""</span><span class="p">,</span>
-    <span class="na">visible</span><span class="p">:</span> <span class="o">!</span><span class="k">this</span><span class="p">.</span><span class="nx">state</span><span class="p">.</span><span class="nx">visible</span>
+    <span class="na">visible</span><span class="p">:</span> <span class="o">!</span><span class="k">this</span><span class="p">.</span><span class="nx">state</span><span class="p">.</span><span class="nx">visible</span><span class="p">,</span>
   <span class="p">});</span>
 <span class="p">};</span>
 </code></pre></div></div>
@@ -177,7 +179,7 @@
           <span class="o">&lt;</span><span class="nx">View</span><span class="o">&gt;</span>
             <span class="o">&lt;</span><span class="nx">TextInput</span>
               <span class="nx">style</span><span class="o">=</span><span class="p">{</span><span class="nx">styles</span><span class="p">.</span><span class="nx">title</span><span class="p">}</span>
-              <span class="nx">onChangeText</span><span class="o">=</span><span class="p">{</span><span class="nx">title</span> <span class="o">=&gt;</span> <span class="k">this</span><span class="p">.</span><span class="nx">setState</span><span class="p">({</span> <span class="nx">title</span> <span class="p">})}</span>
+              <span class="nx">onChangeText</span><span class="o">=</span><span class="p">{(</span><span class="nx">title</span><span class="p">)</span> <span class="o">=&gt;</span> <span class="k">this</span><span class="p">.</span><span class="nx">setState</span><span class="p">({</span> <span class="nx">title</span> <span class="p">})}</span>
               <span class="nx">value</span><span class="o">=</span><span class="p">{</span><span class="k">this</span><span class="p">.</span><span class="nx">state</span><span class="p">.</span><span class="nx">title</span><span class="p">}</span>
               <span class="nx">placeholder</span><span class="o">=</span><span class="dl">"</span><span class="s2">today i will...</span><span class="dl">"</span>
             <span class="o">/&gt;</span>

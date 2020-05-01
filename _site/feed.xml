@@ -1,4 +1,152 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-30T17:07:31+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Project Minimal</title><entry><title type="html">Chapter 1: Primary School</title><link href="http://localhost:4000/login/2020/04/17/login.html" rel="alternate" type="text/html" title="Chapter 1: Primary School" /><published>2020-04-17T15:00:04+08:00</published><updated>2020-04-17T15:00:04+08:00</updated><id>http://localhost:4000/login/2020/04/17/login</id><content type="html" xml:base="http://localhost:4000/login/2020/04/17/login.html">&lt;p&gt;I am starting a new series! Yes, no more code snippets or tutorials. (Well only for a while.) I realized most of my readers aren’t interested in coding so I decided to change up the content. I am going to tell stories about myself.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-01T22:47:09+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Project Minimal</title><entry><title type="html">2019 Summer Internship</title><link href="http://localhost:4000/journal/2020/05/01/middleschool.html" rel="alternate" type="text/html" title="2019 Summer Internship" /><published>2020-05-01T08:48:04+08:00</published><updated>2020-05-01T08:48:04+08:00</updated><id>http://localhost:4000/journal/2020/05/01/middleschool</id><content type="html" xml:base="http://localhost:4000/journal/2020/05/01/middleschool.html">&lt;p&gt;Last summer, I did a summer internship in a tech startup, MeeOpp.&lt;/p&gt;
+
+&lt;h2 id=&quot;brief-introduction&quot;&gt;Brief Introduction&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/meeopp/logo.png&quot; alt=&quot;logo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;MeeOpp is an educational technology start up that provide tailored personalized learning system for students to learn Mandarin. Leveraging technology they are seeking to enhance student’s learning experience.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-did-i-get-in&quot;&gt;How did I get in?&lt;/h2&gt;
+
+&lt;p&gt;My school hosted a job fair where people from different organizations, companies come to our school to introduce their jobs. I attended a few of them, and one of them was a tech startup co-founder. I was very excited as this was and is my dream job. I wanted to start my own company, change the world and be in fortune 500. During the talk, she mentioned internship oppurtunities for high school students. I really wanted to attend this mainly because I have nothing else to do during summer but also I would like to have a platform to work on my computer coding skills and meet some new people who’s good at tech and coding.&lt;/p&gt;
+
+&lt;p&gt;After the fair, I asked for her contact. Long story short, after a few emails and phone calls, I got the internship.😄🎉&lt;/p&gt;
+
+&lt;h2 id=&quot;6-weeks&quot;&gt;6 weeks&lt;/h2&gt;
+
+&lt;p&gt;I did the internship for 6 full weeks, Monday to Friday and ended the day before school starts. In the beginning, I was extremely nervous as this was my first internship program, but also because I was the youngest member in the whole team.😱&lt;/p&gt;
+
+&lt;p&gt;Throughout this 6 week experience, I participated in meetings, redesigned their current profile page and reprogramed their vocabulary flashcard. I learned a lot about frontend development: frameworks, libaries, languages and many more. Throughout this 6 weeks, I realized that coding buddies are really important especially when you faced bugs, they will give you support and feedbacks to help you out. I also got to talk with many developers in the team who has been working in the company for years. They also gave me some advice and a brief introduction on their role in the dev team.&lt;/p&gt;
+
+&lt;h1 id=&quot;profile-page&quot;&gt;Profile page&lt;/h1&gt;
+
+&lt;p&gt;First project I worked on was the profile page redesign. Lets be honest I was a complete beginner at the start, knowing little to nothing about UX/UI designs, I did a few design versions on the profile page. They were decent but still lacking a few professional touches. The page size was incorrect, format was wrong, color scheme was messy and all sort of beginner issues.😂&lt;/p&gt;
+
+&lt;h4 id=&quot;here-is-the-first-version&quot;&gt;Here is the first version:&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/meeopp/v1.png&quot; alt=&quot;v1&quot; width=&quot;700&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;However, throughout the 6 weeks Dawid (not a typo), a UX/UI designer who gave me feedbacks on the format, helped me simplify my profile page, and taught me some tips and tricks in Adobe XD.&lt;/p&gt;
+
+&lt;h4 id=&quot;here-is-the-final-version-much-neater&quot;&gt;Here is the final version (much neater):&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/meeopp/profile.png&quot; alt=&quot;v1&quot; width=&quot;700&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;vocabulary-flashcard&quot;&gt;Vocabulary Flashcard&lt;/h1&gt;
+
+&lt;p&gt;The second project I worked on was the vocabulary flashcard. I used HTML, CSS and Vanilla Javascript to build the simple easy to use flashcard system. I decided to make it user friendly so I added key press, which is switching slides by simply pressing left arrow, or right arrow key.&lt;/p&gt;
+
+&lt;p&gt;There were day I felt super stressed and unmotivated because I spent a lot of time debugging. But still can’t manage to debug it after many days. Often times going home frustrated, however the other day when I asked William (a more experienced developer than me), he could solve the bug within minutes.&lt;/p&gt;
+
+&lt;p&gt;But there were also days which I felt extremely proud because the flashcard is finally working. I would say my mood changes a lot throughout the day. I think many developers would agree with me because debugging is a really stressful process.&lt;/p&gt;
+
+&lt;h4 id=&quot;final-vocabulary-flashcard-yes-i-managed-to-complete-the-redesign&quot;&gt;Final vocabulary flashcard: (Yes, I managed to complete the redesign)&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/meeopp/v2.png&quot; alt=&quot;v1&quot; width=&quot;700&quot; /&gt;
+&lt;img src=&quot;/img/meeopp/v3.png&quot; alt=&quot;v1&quot; width=&quot;700&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h1&gt;
+
+&lt;p&gt;I really enjoyed this internship experience, not only did I met some amazing talented people, but I got some insight on how to run a startup company, how a company is slipt into 2 department.&lt;/p&gt;
+
+&lt;h3 id=&quot;i-took-away-a-few-lessons&quot;&gt;I took away a few lessons.&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Ask for help&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;When I faced a bug and couldn’t debug it after many tries, asking for help is a quick way to reduce the time of mindless scrolling on stackoverflow. But it also helps you to think in ways that you’ve never thought of, especially when you ask people who are more experienced than you.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;EXPECTATIONS doesn’t equal to REALITY&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Over the past 6 weeks, I feel like coding everyday isn’t my cup of tea as I tend to get impatient about the bugs and I don’t seem to enjoy the process of debugging that much. I realized that my dream career has slightly shifted after this internship oppurtunity as I got the chance to physically experience the process. So I would advice people to experiment with their options instead of just going online and reseach.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Work on something that you are passionate about&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;From this internship, I truly experienced why everyone should work in something they are truely passionate and inspired on. As adults, they go to work everyday, working in something they are passionate about just make &lt;strong&gt;work&lt;/strong&gt; feel less sad. As work covers more than 50% of our life time, working in something you like just makes the effort and time spent more worthwhile.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;do-i-recommend-doing-summer-internship&quot;&gt;Do I recommend doing summer internship?&lt;/h3&gt;
+
+&lt;h1 id=&quot;yes-definety&quot;&gt;YES, definety.&lt;/h1&gt;
+
+&lt;p&gt;I highly encourage people to do summer interns because they learn and experiment with things that was never taught in school such as technical skills like React and Adobe XD, but you also gain friendship afterwards. (This is what I called networking 😆)&lt;/p&gt;
+
+&lt;p&gt;This year, 2020, I would like to intern in big companies such as Google, Alibaba, Huawei etc. Big companies and startups often have a lot of differences, mainly because one is big with hundreds of employees, and the latter one just began their journey. But I also wanted to meet like-minded people who is passionate about tech, and also they have cooler products.😆&lt;/p&gt;
+
+&lt;h1 id=&quot;end&quot;&gt;END&lt;/h1&gt;
+
+&lt;p&gt;If you have any further question you can always email me at &lt;a href=&quot;mailto:melanie@melaniehsieh.com&quot;&gt;melanie@melaniehsieh.com&lt;/a&gt; or find me on &lt;a href=&quot;https://github.com/melaniehsieh&quot;&gt;Github&lt;/a&gt; or &lt;a href=&quot;https://twitter.com/melaniehsieh&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Please subscibe to my weekly blog to get the latest updates.&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name></name></author><summary type="html">Last summer, I did a summer internship in a tech startup, MeeOpp.</summary></entry><entry><title type="html">Chapter 2: Middle School</title><link href="http://localhost:4000/journal/2020/04/17/hackathon.html" rel="alternate" type="text/html" title="Chapter 2: Middle School" /><published>2020-04-17T15:00:04+08:00</published><updated>2020-04-17T15:00:04+08:00</updated><id>http://localhost:4000/journal/2020/04/17/hackathon</id><content type="html" xml:base="http://localhost:4000/journal/2020/04/17/hackathon.html">&lt;p&gt;As Melanie Hsieh once said:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Big things must start from small things, and small things are usually simple things.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;(That’s a lot of “things” repeated in the same quote. 😂)&lt;/p&gt;
+
+&lt;p&gt;In the first year of Middle School, I saw a friend of mine coding. When I looked at his computer, I was blowned away. From my primary school experiences I thought coding was just block codes, with a cat hovering on a screen. But he was writing script codes. He was coding in simple HTML and a bit of CSS. This was my first experience in actual real coding. 👩‍💻️&lt;/p&gt;
+
+&lt;p&gt;That sparked my curiosity in understanding and exploring tech and coding more in depth. I was getting serious abount this hobby. 😁&lt;/p&gt;
+
+&lt;h1 id=&quot;hackathon&quot;&gt;Hackathon&lt;/h1&gt;
+
+&lt;p&gt;Around November, our school hosted a Hackathon. Hackathon is basically a 2-day event where students participate this event to get exposure to different coding possivility and a 1-day build day where we present our business ideas to judges about our product.&lt;/p&gt;
+
+&lt;p&gt;Back then I just started pure, simple HTML. I only know how to add headings, text and simple styling to my website. Basically &lt;strong&gt;zero&lt;/strong&gt; experience in coding.&lt;/p&gt;
+
+&lt;h1 id=&quot;day-1-workshop&quot;&gt;Day 1: Workshop&lt;/h1&gt;
+
+&lt;p&gt;It was a Friday and I forced two of my friends to join me in this Hackathon. The only reason why they joined this event wasn’t because they are interested in coding but because we get to skip school.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/hackathon/esf.jpg&quot; alt=&quot;esf&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Every big event starts with a speech. It was kinda long to be honest, one hour (I have short patience span). But after the boring bit, the fun part begins – &lt;strong&gt;the workshop&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;We got to choose 6 workshops to participate over the course, hosted by different coding organizations in Hong Kong. Ranging from simple tutorials on creating a web or app, to making a game from scratch. It didn’t go in depth as every session only took an hour, but there’s one workshop that blew my mind 🤯, it was a tutorial on making an app with Javascript.&lt;/p&gt;
+
+&lt;p&gt;It was a pokemon app, (yes, back then pokemon go was still a big trend) that simply shows images of pokemons when you tap the screen. I didn’t learn much from this workshop session as everything is still brand new to me, but it made me feel cooler than I was before. When I showed my app to my friends, I felt a sense of accomplishment. Because I know how to code and they don’t.&lt;/p&gt;
+
+&lt;p&gt;At that time, I would consider myself as a &lt;strong&gt;nerd&lt;/strong&gt; 🤓 (I think I still am). I enjoyed everything related to tech. So I find this new hobby, coding extremely suitable to my interest.&lt;/p&gt;
+
+&lt;h1 id=&quot;day-2-coding-time-️&quot;&gt;Day 2: Coding time 👩‍💻️&lt;/h1&gt;
+
+&lt;p&gt;In groups of 4, we started our actual &lt;strong&gt;Hackathon&lt;/strong&gt;. We came up with a business idea and started to work on it. Someone is responisible on the presentation, someone is responsible on the app design, and someone is responisble on the marketing side.&lt;/p&gt;
+
+&lt;p&gt;Not knowing anything related to marketing and economics/business, my main focus was the marketing side. I made a simple website to promote our business idea, which was a platform that allows users to share items between each other. Spare the details cause I simply can’t remember any of them.&lt;/p&gt;
+
+&lt;p&gt;Let’s talk about the website, it was the first website I’ve ever made. 👏 It was a blue background web page that has 2 sentences explaining our business idea, and a huge section introducing members of our team, and a &lt;strong&gt;Terms and Condition Section&lt;/strong&gt; made up on the spot by my friend Gemma.&lt;/p&gt;
+
+&lt;p&gt;Things never go the way as we planned, and during the hackathon we faced a lot of problems. Especially as a beginner, with zero experience and knowledge. There were times where we got distracted in Papa’s Pizzeria, there were times where we have no clue what we were doing, and there were times where we were demotivated when other teams got a better product, a more professional website than our team. But I still enjoyed the process on working with different people, and comes up with a business idea in one single day.&lt;/p&gt;
+
+&lt;h1 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h1&gt;
+
+&lt;p&gt;In the end, surprisingly we won an award on best idea. Each of us won a gift voucher for a free course from one of the coding org. But after this event, I gained a lot more insights on tech, especially when I realized that coding is much wider and deeper than I thought originially.&lt;/p&gt;
+
+&lt;p&gt;In the future, I will build up my skills on coding and join more competitve Hackathons where teams have to come up with a product and a plan in a certain amount of time period. Most importantly, have better prizes other than vouchers that is only limited to their company.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/hackathon/group.jpg&quot; alt=&quot;group&quot; width=&quot;700&quot; /&gt;
+See if you can find me…🤣&lt;/p&gt;
+
+&lt;h1 id=&quot;end&quot;&gt;END&lt;/h1&gt;
+
+&lt;p&gt;If you have any further question you can always email me at &lt;a href=&quot;mailto:melanie@melaniehsieh.com&quot;&gt;melanie@melaniehsieh.com&lt;/a&gt; or find me on &lt;a href=&quot;https://github.com/melaniehsieh&quot;&gt;Github&lt;/a&gt; or &lt;a href=&quot;https://twitter.com/melaniehsieh&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Please subscibe to my weekly blog to get the latest updates.&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name></name></author><summary type="html">As Melanie Hsieh once said:</summary></entry><entry><title type="html">Chapter 1: Primary School</title><link href="http://localhost:4000/journal/2020/04/17/login.html" rel="alternate" type="text/html" title="Chapter 1: Primary School" /><published>2020-04-17T15:00:04+08:00</published><updated>2020-04-17T15:00:04+08:00</updated><id>http://localhost:4000/journal/2020/04/17/login</id><content type="html" xml:base="http://localhost:4000/journal/2020/04/17/login.html">&lt;p&gt;I am starting a new series! Yes, no more code snippets or tutorials. (Well only for a while.) I realized most of my readers aren’t interested in coding so I decided to change up the content. I am going to tell stories about myself.&lt;/p&gt;
 
 &lt;h1 id=&quot;primary-school&quot;&gt;Primary School&lt;/h1&gt;
 
@@ -30,66 +178,7 @@
 
 &lt;p&gt;Please subscibe to my weekly blog to get the latest updates.&lt;/p&gt;
 
-&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name></name></author><summary type="html">I am starting a new series! Yes, no more code snippets or tutorials. (Well only for a while.) I realized most of my readers aren’t interested in coding so I decided to change up the content. I am going to tell stories about myself.</summary></entry><entry><title type="html">Chapter 2: Middle School</title><link href="http://localhost:4000/login/2020/04/17/hackathon.html" rel="alternate" type="text/html" title="Chapter 2: Middle School" /><published>2020-04-17T15:00:04+08:00</published><updated>2020-04-17T15:00:04+08:00</updated><id>http://localhost:4000/login/2020/04/17/hackathon</id><content type="html" xml:base="http://localhost:4000/login/2020/04/17/hackathon.html">&lt;p&gt;As Melanie Hsieh once said:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Big things must start from small things, and small things are usually simple things.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;(That’s a lot of “things” repeated in the same quote. 😂)&lt;/p&gt;
-
-&lt;p&gt;In the first year of Middle School, I saw a friend of mine coding. When I looked at his computer, I was blowned away. From my primary school experiences I thought coding was just block codes, with a cat hovering on a screen. But he was writing script codes. He was coding in simple HTML and a bit of CSS. This was my first experience in actual real coding. 👩‍💻️&lt;/p&gt;
-
-&lt;p&gt;That sparked my curiosity in understanding and exploring tech and coding more in depth. I was getting serious abount this hobby. 😁&lt;/p&gt;
-
-&lt;h1 id=&quot;hackathon&quot;&gt;Hackathon&lt;/h1&gt;
-
-&lt;p&gt;Around November, our school hosted a Hackathon. Hackathon is basically a 2-day event where students participate this event to get exposure to different coding possivility and a 1-day build day where we present our business ideas to judges about our product.&lt;/p&gt;
-
-&lt;p&gt;Back then I just started pure, simple HTML. I only know how to add headings, text and simple styling to my website. Basically &lt;strong&gt;zero&lt;/strong&gt; experience in coding.&lt;/p&gt;
-
-&lt;h1 id=&quot;day-1-workshop&quot;&gt;Day 1: Workshop&lt;/h1&gt;
-
-&lt;p&gt;It was a Friday and I forced two of my friends to join me in this Hackathon. The only reason why they joined this event wasn’t because they are interested in coding but because we get to skip school.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/esf.jpg&quot; alt=&quot;esf&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Every big event starts with a speech. It was kinda long to be honest, one hour (I have short patience span). But after the boring bit, the fun part begins – &lt;strong&gt;the workshop&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;We got to choose 6 workshops to participate over the course, hosted by different coding organizations in Hong Kong. Ranging from simple tutorials on creating a web or app, to making a game from scratch. It didn’t go in depth as every session only took an hour, but there’s one workshop that blew my mind 🤯, it was a tutorial on making an app with Javascript.&lt;/p&gt;
-
-&lt;p&gt;It was a pokemon app, (yes, back then pokemon go was still a big trend) that simply shows images of pokemons when you tap the screen. I didn’t learn much from this workshop session as everything is still brand new to me, but it made me feel cooler than I was before. When I showed my app to my friends, I felt a sense of accomplishment. Because I know how to code and they don’t.&lt;/p&gt;
-
-&lt;p&gt;At that time, I would consider myself as a &lt;strong&gt;nerd&lt;/strong&gt; 🤓 (I think I still am). I enjoyed everything related to tech. So I find this new hobby, coding extremely suitable to my interest.&lt;/p&gt;
-
-&lt;h1 id=&quot;day-2-coding-time-️&quot;&gt;Day 2: Coding time 👩‍💻️&lt;/h1&gt;
-
-&lt;p&gt;In groups of 4, we started our actual &lt;strong&gt;Hackathon&lt;/strong&gt;. We came up with a business idea and started to work on it. Someone is responisible on the presentation, someone is responsible on the app design, and someone is responisble on the marketing side.&lt;/p&gt;
-
-&lt;p&gt;Not knowing anything related to marketing and economics/business, my main focus was the marketing side. I made a simple website to promote our business idea, which was a platform that allows users to share items between each other. Spare the details cause I simply can’t remember any of them.&lt;/p&gt;
-
-&lt;p&gt;Let’s talk about the website, it was the first website I’ve ever made. 👏 It was a blue background web page that has 2 sentences explaining our business idea, and a huge section introducing members of our team, and a &lt;strong&gt;Terms and Condition Section&lt;/strong&gt; made up on the spot by my friend Gemma.&lt;/p&gt;
-
-&lt;p&gt;Things never go the way as we planned, and during the hackathon we faced a lot of problems. Especially as a beginner, with zero experience and knowledge. There were times where we got distracted in Papa’s Pizzeria, there were times where we have no clue what we were doing, and there were times where we were demotivated when other teams got a better product, a more professional website than our team. But I still enjoyed the process on working with different people, and comes up with a business idea in one single day.&lt;/p&gt;
-
-&lt;h1 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h1&gt;
-
-&lt;p&gt;In the end, surprisingly we won an award on best idea. Each of us won a gift voucher for a free course from one of the coding org. But after this event, I gained a lot more insights on tech, especially when I realized that coding is much wider and deeper than I thought originially.&lt;/p&gt;
-
-&lt;p&gt;In the future, I will build up my skills on coding and join more competitve Hackathons where teams have to come up with a product and a plan in a certain amount of time period. Most importantly, have better prizes other than vouchers that is only limited to their company.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/group.jpg&quot; alt=&quot;group&quot; width=&quot;700&quot; /&gt;
-See if you can find me…🤣&lt;/p&gt;
-
-&lt;h1 id=&quot;end&quot;&gt;END&lt;/h1&gt;
-
-&lt;p&gt;If you have any further question you can always email me at &lt;a href=&quot;mailto:melanie@melaniehsieh.com&quot;&gt;melanie@melaniehsieh.com&lt;/a&gt; or find me on &lt;a href=&quot;https://github.com/melaniehsieh&quot;&gt;Github&lt;/a&gt; or &lt;a href=&quot;https://twitter.com/melaniehsieh&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Please subscibe to my weekly blog to get the latest updates.&lt;/p&gt;
-
-&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name></name></author><summary type="html">As Melanie Hsieh once said:</summary></entry><entry><title type="html">Debugging</title><link href="http://localhost:4000/coding/2020/04/10/debug.html" rel="alternate" type="text/html" title="Debugging" /><published>2020-04-10T13:00:04+08:00</published><updated>2020-04-10T13:00:04+08:00</updated><id>http://localhost:4000/coding/2020/04/10/debug</id><content type="html" xml:base="http://localhost:4000/coding/2020/04/10/debug.html">&lt;h3 id=&quot;quick-updates&quot;&gt;Quick Updates&lt;/h3&gt;
-
-&lt;p&gt;During the COVID-19 pandemic, schools ended early (but students still need to go to lessons online via Zoom). In April, starting this week, I have an Easter Break that lasts for 2 full weeks. Initially, it was meant to be a break so people can go outside and relax, but now everything seems to change. No one could go outside, go on vacations as most countries are in &lt;em&gt;lock-down mode&lt;/em&gt;, hangout with friends. So the only option is to stay at home. During the break I continued on my project - Subtle, the Todo App.&lt;/p&gt;
+&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name></name></author><summary type="html">I am starting a new series! Yes, no more code snippets or tutorials. (Well only for a while.) I realized most of my readers aren’t interested in coding so I decided to change up the content. I am going to tell stories about myself.</summary></entry><entry><title type="html">Debugging</title><link href="http://localhost:4000/coding/2020/04/10/debug.html" rel="alternate" type="text/html" title="Debugging" /><published>2020-04-10T13:00:04+08:00</published><updated>2020-04-10T13:00:04+08:00</updated><id>http://localhost:4000/coding/2020/04/10/debug</id><content type="html" xml:base="http://localhost:4000/coding/2020/04/10/debug.html">&lt;p&gt;During the COVID-19 pandemic, schools ended early (but students still need to go to lessons online via Zoom). In April, starting this week, I have an Easter Break that lasts for 2 full weeks. Initially, it was meant to be a break so people can go outside and relax, but now everything seems to change. No one could go outside, go on vacations as most countries are in &lt;em&gt;lock-down mode&lt;/em&gt;, hangout with friends. So the only option is to stay at home. During the break I continued on my project - Subtle, the Todo App.&lt;/p&gt;
 
 &lt;h1 id=&quot;bugs&quot;&gt;Bugs&lt;/h1&gt;
 
@@ -155,7 +244,7 @@ See if you can find me…🤣&lt;/p&gt;
 
 &lt;p&gt;If you have any further question or any other methods you can always email me at &lt;a href=&quot;mailto:melanie@melaniehsieh.com&quot;&gt;melanie@melaniehsieh.com&lt;/a&gt; or find me on &lt;a href=&quot;https://github.com/melaniehsieh&quot;&gt;Github&lt;/a&gt; or &lt;a href=&quot;https://twitter.com/melaniehsieh&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name></name></author><summary type="html">Quick Updates</summary></entry><entry><title type="html">Week 2 Todo App</title><link href="http://localhost:4000/coding/2020/04/03/todoapp2.html" rel="alternate" type="text/html" title="Week 2 Todo App" /><published>2020-04-03T20:00:04+08:00</published><updated>2020-04-03T20:00:04+08:00</updated><id>http://localhost:4000/coding/2020/04/03/todoapp2</id><content type="html" xml:base="http://localhost:4000/coding/2020/04/03/todoapp2.html">&lt;p&gt;From last week’s blog, we introduced the front end design of the app. This week we will be going through the back end of the app.&lt;/p&gt;
+&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name></name></author><summary type="html">During the COVID-19 pandemic, schools ended early (but students still need to go to lessons online via Zoom). In April, starting this week, I have an Easter Break that lasts for 2 full weeks. Initially, it was meant to be a break so people can go outside and relax, but now everything seems to change. No one could go outside, go on vacations as most countries are in lock-down mode, hangout with friends. So the only option is to stay at home. During the break I continued on my project - Subtle, the Todo App.</summary></entry><entry><title type="html">Week 2 Todo App</title><link href="http://localhost:4000/coding/2020/04/03/todoapp2.html" rel="alternate" type="text/html" title="Week 2 Todo App" /><published>2020-04-03T20:00:04+08:00</published><updated>2020-04-03T20:00:04+08:00</updated><id>http://localhost:4000/coding/2020/04/03/todoapp2</id><content type="html" xml:base="http://localhost:4000/coding/2020/04/03/todoapp2.html">&lt;p&gt;From last week’s blog, we introduced the front end design of the app. This week we will be going through the back end of the app.&lt;/p&gt;
 
 &lt;h1 id=&quot;part-1-back-end&quot;&gt;Part 1: Back End&lt;/h1&gt;
 
@@ -361,14 +450,14 @@ See if you can find me…🤣&lt;/p&gt;
   &lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;todo&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
     &lt;span class=&quot;na&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;state&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
     &lt;span class=&quot;na&quot;&gt;status&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;state&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;status&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-    &lt;span class=&quot;na&quot;&gt;date&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;state&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;date&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;date&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;state&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;date&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
   &lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
 
   &lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;todo&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
 
   &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;setState&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt;
     &lt;span class=&quot;na&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-    &lt;span class=&quot;na&quot;&gt;visible&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;!&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;state&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;visible&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;visible&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;!&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;state&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;visible&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
   &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
 &lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
@@ -389,7 +478,7 @@ See if you can find me…🤣&lt;/p&gt;
           &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;View&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;
             &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;TextInput&lt;/span&gt;
               &lt;span class=&quot;nx&quot;&gt;style&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;styles&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-              &lt;span class=&quot;nx&quot;&gt;onChangeText&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;title&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;setState&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;title&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;})}&lt;/span&gt;
+              &lt;span class=&quot;nx&quot;&gt;onChangeText&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;setState&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;title&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;})}&lt;/span&gt;
               &lt;span class=&quot;nx&quot;&gt;value&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;state&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
               &lt;span class=&quot;nx&quot;&gt;placeholder&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;today i will...&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
             &lt;span class=&quot;o&quot;&gt;/&amp;gt;&lt;/span&gt;

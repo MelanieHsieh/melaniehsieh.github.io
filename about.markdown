@@ -69,7 +69,6 @@ March 2020 - Present<br/>
 - Write weekly blogs on different technology fields to promote women in tech
 - Read by over 50 people
 - Built from scratch, using Markdown, HTML and CSS
-  <https://melaniehsieh.com/>
 
 **John Ying Wah Gibson Humanitarian and Environmental Award**<br/>
 December 2019<br/>

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "PROJECT MINIMAL"
+subtitle: "Purpose behind this blog"
 date: 2020-03-13 20:00:01 +0800
 background: "/img/4wall.jpg"
 categories: General

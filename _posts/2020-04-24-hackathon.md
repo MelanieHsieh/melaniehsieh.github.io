@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "Chapter 2: Middle School"
+subtitle: "2 Day Hackathon"
 date: 2020-04-17 15:00:04 +0800
 background: "/img/4wall.jpg"
-categories: Login
+categories: Journal
 ---
 
 As Melanie Hsieh once said:
@@ -26,7 +27,7 @@ Back then I just started pure, simple HTML. I only know how to add headings, tex
 
 It was a Friday and I forced two of my friends to join me in this Hackathon. The only reason why they joined this event wasn't because they are interested in coding but because we get to skip school.
 
-<img src="/img/esf.jpg" alt="esf">
+<img src="/img/hackathon/esf.jpg" alt="esf">
 
 Every big event starts with a speech. It was kinda long to be honest, one hour (I have short patience span). But after the boring bit, the fun part begins -- **the workshop**.
 
@@ -52,7 +53,7 @@ In the end, surprisingly we won an award on best idea. Each of us won a gift vou
 
 In the future, I will build up my skills on coding and join more competitve Hackathons where teams have to come up with a product and a plan in a certain amount of time period. Most importantly, have better prizes other than vouchers that is only limited to their company.
 
-<img src="/img/group.jpg" alt="group" width='700'>
+<img src="/img/hackathon/group.jpg" alt="group" width='700'>
 See if you can find me...🤣
 
 # END
