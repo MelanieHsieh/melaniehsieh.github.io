@@ -5,6 +5,7 @@ subtitle: "Stay Safe and Healthy"
 date: 2020-03-20 7:03:58 +0800
 background: "/img/4wall.jpg"
 categories: General
+comments: true
 ---
 
 In _Decemeber 31st, 2019_ I thought 2020 is going to be a good start.
