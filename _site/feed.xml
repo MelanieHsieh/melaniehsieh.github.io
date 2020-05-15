@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-08T18:51:37+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Project Minimal</title><entry><title type="html">My journey on learning to code</title><link href="http://localhost:4000/journal/2020/05/08/howilearntocode.html" rel="alternate" type="text/html" title="My journey on learning to code" /><published>2020-05-08T09:48:04+08:00</published><updated>2020-05-08T09:48:04+08:00</updated><id>http://localhost:4000/journal/2020/05/08/howilearntocode</id><content type="html" xml:base="http://localhost:4000/journal/2020/05/08/howilearntocode.html">&lt;p&gt;Starting from a young age I developed a huge interest in tech. But many might ask how did I learn to code, do I recommend coding bootcamps, why did I start and is coding easy?&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-15T18:08:17+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Project Minimal</title><entry><title type="html">My journey on learning to code</title><link href="http://localhost:4000/journal/2020/05/08/howilearntocode.html" rel="alternate" type="text/html" title="My journey on learning to code" /><published>2020-05-08T09:48:04+08:00</published><updated>2020-05-08T09:48:04+08:00</updated><id>http://localhost:4000/journal/2020/05/08/howilearntocode</id><content type="html" xml:base="http://localhost:4000/journal/2020/05/08/howilearntocode.html">&lt;p&gt;Starting from a young age I developed a huge interest in tech. But many might ask how did I learn to code, do I recommend coding bootcamps, why did I start and is coding easy?&lt;/p&gt;
 
 &lt;p&gt;Everything must date back after the hackathon ended. If you haven’t read my &lt;a href=&quot;https://melaniehsieh.com/journal/2020/04/17/hackathon.html&quot;&gt;Hackathon&lt;/a&gt; blog feel free to go back and read it.&lt;/p&gt;
 
@@ -80,7 +80,41 @@
 
 &lt;p&gt;Please subscibe to my weekly blog to get the latest updates.&lt;/p&gt;
 
-&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name></name></author><summary type="html">Starting from a young age I developed a huge interest in tech. But many might ask how did I learn to code, do I recommend coding bootcamps, why did I start and is coding easy?</summary></entry><entry><title type="html">2019 Summer Internship</title><link href="http://localhost:4000/journal/2020/05/01/intern.html" rel="alternate" type="text/html" title="2019 Summer Internship" /><published>2020-05-01T08:48:04+08:00</published><updated>2020-05-01T08:48:04+08:00</updated><id>http://localhost:4000/journal/2020/05/01/intern</id><content type="html" xml:base="http://localhost:4000/journal/2020/05/01/intern.html">&lt;p&gt;Last summer, I did a summer internship in a tech startup, MeeOpp.&lt;/p&gt;
+&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name></name></author><summary type="html">Starting from a young age I developed a huge interest in tech. But many might ask how did I learn to code, do I recommend coding bootcamps, why did I start and is coding easy?</summary></entry><entry><title type="html">42 Days | 6 weeks</title><link href="http://localhost:4000/projects/2020/05/08/42daychallenge.html" rel="alternate" type="text/html" title="42 Days | 6 weeks" /><published>2020-05-08T09:48:04+08:00</published><updated>2020-05-08T09:48:04+08:00</updated><id>http://localhost:4000/projects/2020/05/08/42daychallenge</id><content type="html" xml:base="http://localhost:4000/projects/2020/05/08/42daychallenge.html">&lt;p&gt;I have started many projects including a todo app, a weekly blog, an attendance app etc. However many of the projects were abandoned half-way through such as the todo app. Because I find it boring, or I couldn’t move past the bugs. Then I stopped working on that project and pushing it back, like super back.&lt;/p&gt;
+
+&lt;p&gt;That’s not a great solution as nothing is getting finished and achieved. The cycle keeps repeating. Start a new project, code, debug, give up, and over again. I need a better option to change my cycle so I can actually finish a project.&lt;/p&gt;
+
+&lt;p&gt;Yesterday, I read an article about &lt;a href=&quot;https://basecamp.com/shapeup/2.2-chapter-08#six-week-cycles&quot;&gt;Six Week Cycles&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Basically in 6 weeks, 42 days, 1008 hours, 60480 minutes, 3628800 seconds you focus on &lt;strong&gt;ONE THING&lt;/strong&gt;. That one thing could be a project you wanted to start, a hobbie you want to expand, an interest you want to understand and dwell into more in depth etc.&lt;/p&gt;
+
+&lt;p&gt;Why 6 weeks, well it’s a short period of time that only takes up 1 month and a half. But long enough to finish the whole progress, including build, launch, test, debug etc and actually see the end result. Not only does it give you a period of time to experiment, play around with your project, but it also motivates and pushes you to finish the project you have set to yourself before the deadline.&lt;/p&gt;
+
+&lt;p&gt;Even if the project succeeded or failed in the end, it only took 6 weeks of your time. Not only it gave you feedback (end result) of the project you are working on, but lets you experiment with creating different projects, exploring different interests and try different hobbies.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/42days/42days.png&quot; alt=&quot;42&quot; width=&quot;700&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Starting next Wednesday, the 21st of May, I will use this 6 weeks and work on one thing. I am going to plan, start, code, build and launch a website. I chose this specific date to begin with so the last day will be the 30th of June.&lt;/p&gt;
+
+&lt;p&gt;For the next 6 weeks, I will update my progress here in this weekly blog. Not only will this keep track on my progress, give an in depth summary on what I’m doing but also share some thoughts and tips whilst doing this challenge.&lt;/p&gt;
+
+&lt;p&gt;Doing this 6 weeks, 42 days challenge is very challenging for me, as I still need to go to lessons and do homeworks. But through this challenge, I want to familiarize with my web development skills and get some extra insights on database server.&lt;/p&gt;
+
+&lt;p&gt;If you are like me who still needs to go to school or work, I suggest to block a few hours every day to work on your one thing. For me, it would be in the afternoon. If you want to join this challenge with me, feel free to comment on the bottom and tell me what project/hobby/interest are you planning to do.&lt;/p&gt;
+
+&lt;h5 id=&quot;the-project-im-making-is&quot;&gt;The project I’m making is:&lt;/h5&gt;
+
+&lt;p&gt;A website platform to keep track of monthly, annual cashflow.&lt;/p&gt;
+
+&lt;p&gt;By the way, I created a &lt;a href=&quot;https://www.linkedin.com/in/melanie-hsieh-0749a91a9/&quot;&gt;Linkedin Account&lt;/a&gt;. Check it out!&lt;/p&gt;
+
+&lt;h1 id=&quot;end&quot;&gt;END&lt;/h1&gt;
+
+&lt;p&gt;If you have any further question you can always email me at &lt;a href=&quot;mailto:melanie@melaniehsieh.com&quot;&gt;melanie@melaniehsieh.com&lt;/a&gt; or find me on &lt;a href=&quot;https://github.com/melaniehsieh&quot;&gt;Github&lt;/a&gt; or &lt;a href=&quot;https://twitter.com/melaniehsieh&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Please subscibe to my weekly blog to get the latest updates.&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name></name></author><summary type="html">I have started many projects including a todo app, a weekly blog, an attendance app etc. However many of the projects were abandoned half-way through such as the todo app. Because I find it boring, or I couldn’t move past the bugs. Then I stopped working on that project and pushing it back, like super back.</summary></entry><entry><title type="html">2019 Summer Internship</title><link href="http://localhost:4000/journal/2020/05/01/intern.html" rel="alternate" type="text/html" title="2019 Summer Internship" /><published>2020-05-01T08:48:04+08:00</published><updated>2020-05-01T08:48:04+08:00</updated><id>http://localhost:4000/journal/2020/05/01/intern</id><content type="html" xml:base="http://localhost:4000/journal/2020/05/01/intern.html">&lt;p&gt;Last summer, I did a summer internship in a tech startup, MeeOpp.&lt;/p&gt;
 
 &lt;h2 id=&quot;brief-introduction&quot;&gt;Brief Introduction&lt;/h2&gt;
 
