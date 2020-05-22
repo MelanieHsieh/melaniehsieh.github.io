@@ -1,4 +1,38 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-15T18:08:17+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Project Minimal</title><entry><title type="html">My journey on learning to code</title><link href="http://localhost:4000/journal/2020/05/08/howilearntocode.html" rel="alternate" type="text/html" title="My journey on learning to code" /><published>2020-05-08T09:48:04+08:00</published><updated>2020-05-08T09:48:04+08:00</updated><id>http://localhost:4000/journal/2020/05/08/howilearntocode</id><content type="html" xml:base="http://localhost:4000/journal/2020/05/08/howilearntocode.html">&lt;p&gt;Starting from a young age I developed a huge interest in tech. But many might ask how did I learn to code, do I recommend coding bootcamps, why did I start and is coding easy?&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-22T17:50:20+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Project Minimal</title><entry><title type="html">42 Days | 6 weeks</title><link href="http://localhost:4000/projects/2020/05/08/42daychallenge.html" rel="alternate" type="text/html" title="42 Days | 6 weeks" /><published>2020-05-08T09:48:04+08:00</published><updated>2020-05-08T09:48:04+08:00</updated><id>http://localhost:4000/projects/2020/05/08/42daychallenge</id><content type="html" xml:base="http://localhost:4000/projects/2020/05/08/42daychallenge.html">&lt;p&gt;I have started many projects including a todo app, a weekly blog, an attendance app etc. However many of the projects were abandoned half-way through such as the todo app. Because I find it boring, or I couldn’t move past the bugs. Then I stopped working on that project and pushing it back, like super back.&lt;/p&gt;
+
+&lt;p&gt;That’s not a great solution as nothing is getting finished and achieved. The cycle keeps repeating. Start a new project, code, debug, give up, and over again. I need a better option to change my cycle so I can actually finish a project.&lt;/p&gt;
+
+&lt;p&gt;Yesterday, I read an article about &lt;a href=&quot;https://basecamp.com/shapeup/2.2-chapter-08#six-week-cycles&quot;&gt;Six Week Cycles&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Basically in 6 weeks, 42 days, 1008 hours, 60480 minutes, 3628800 seconds you focus on &lt;strong&gt;ONE THING&lt;/strong&gt;. That one thing could be a project you wanted to start, a hobbie you want to expand, an interest you want to understand and dwell into more in depth etc.&lt;/p&gt;
+
+&lt;p&gt;Why 6 weeks, well it’s a short period of time that only takes up 1 month and a half. But long enough to finish the whole progress, including build, launch, test, debug etc and actually see the end result. Not only does it give you a period of time to experiment, play around with your project, but it also motivates and pushes you to finish the project you have set to yourself before the deadline.&lt;/p&gt;
+
+&lt;p&gt;Even if the project succeeded or failed in the end, it only took 6 weeks of your time. Not only it gave you feedback (end result) of the project you are working on, but lets you experiment with creating different projects, exploring different interests and try different hobbies.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/42days/42days.png&quot; alt=&quot;42&quot; width=&quot;700&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Starting next Wednesday, the 21st of May, I will use this 6 weeks and work on one thing. I am going to plan, start, code, build and launch a website. I chose this specific date to begin with so the last day will be the 30th of June.&lt;/p&gt;
+
+&lt;p&gt;For the next 6 weeks, I will update my progress here in this weekly blog. Not only will this keep track on my progress, give an in depth summary on what I’m doing but also share some thoughts and tips whilst doing this challenge.&lt;/p&gt;
+
+&lt;p&gt;Doing this 6 weeks, 42 days challenge is very challenging for me, as I still need to go to lessons and do homeworks. But through this challenge, I want to familiarize with my web development skills and get some extra insights on database server.&lt;/p&gt;
+
+&lt;p&gt;If you are like me who still needs to go to school or work, I suggest to block a few hours every day to work on your one thing. For me, it would be in the afternoon. If you want to join this challenge with me, feel free to comment on the bottom and tell me what project/hobby/interest are you planning to do.&lt;/p&gt;
+
+&lt;h5 id=&quot;the-project-im-making-is&quot;&gt;The project I’m making is:&lt;/h5&gt;
+
+&lt;p&gt;A website platform to keep track of monthly, annual cashflow.&lt;/p&gt;
+
+&lt;p&gt;By the way, I created a &lt;a href=&quot;https://www.linkedin.com/in/melanie-hsieh-0749a91a9/&quot;&gt;Linkedin Account&lt;/a&gt;. Check it out!&lt;/p&gt;
+
+&lt;h1 id=&quot;end&quot;&gt;END&lt;/h1&gt;
+
+&lt;p&gt;If you have any further question you can always email me at &lt;a href=&quot;mailto:melanie@melaniehsieh.com&quot;&gt;melanie@melaniehsieh.com&lt;/a&gt; or find me on &lt;a href=&quot;https://github.com/melaniehsieh&quot;&gt;Github&lt;/a&gt; or &lt;a href=&quot;https://twitter.com/melaniehsieh&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Please subscibe to my weekly blog to get the latest updates.&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name></name></author><summary type="html">I have started many projects including a todo app, a weekly blog, an attendance app etc. However many of the projects were abandoned half-way through such as the todo app. Because I find it boring, or I couldn’t move past the bugs. Then I stopped working on that project and pushing it back, like super back.</summary></entry><entry><title type="html">My journey on learning to code</title><link href="http://localhost:4000/journal/2020/05/08/howilearntocode.html" rel="alternate" type="text/html" title="My journey on learning to code" /><published>2020-05-08T09:48:04+08:00</published><updated>2020-05-08T09:48:04+08:00</updated><id>http://localhost:4000/journal/2020/05/08/howilearntocode</id><content type="html" xml:base="http://localhost:4000/journal/2020/05/08/howilearntocode.html">&lt;p&gt;Starting from a young age I developed a huge interest in tech. But many might ask how did I learn to code, do I recommend coding bootcamps, why did I start and is coding easy?&lt;/p&gt;
 
 &lt;p&gt;Everything must date back after the hackathon ended. If you haven’t read my &lt;a href=&quot;https://melaniehsieh.com/journal/2020/04/17/hackathon.html&quot;&gt;Hackathon&lt;/a&gt; blog feel free to go back and read it.&lt;/p&gt;
 
@@ -80,33 +114,70 @@
 
 &lt;p&gt;Please subscibe to my weekly blog to get the latest updates.&lt;/p&gt;
 
-&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name></name></author><summary type="html">Starting from a young age I developed a huge interest in tech. But many might ask how did I learn to code, do I recommend coding bootcamps, why did I start and is coding easy?</summary></entry><entry><title type="html">42 Days | 6 weeks</title><link href="http://localhost:4000/projects/2020/05/08/42daychallenge.html" rel="alternate" type="text/html" title="42 Days | 6 weeks" /><published>2020-05-08T09:48:04+08:00</published><updated>2020-05-08T09:48:04+08:00</updated><id>http://localhost:4000/projects/2020/05/08/42daychallenge</id><content type="html" xml:base="http://localhost:4000/projects/2020/05/08/42daychallenge.html">&lt;p&gt;I have started many projects including a todo app, a weekly blog, an attendance app etc. However many of the projects were abandoned half-way through such as the todo app. Because I find it boring, or I couldn’t move past the bugs. Then I stopped working on that project and pushing it back, like super back.&lt;/p&gt;
+&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name></name></author><summary type="html">Starting from a young age I developed a huge interest in tech. But many might ask how did I learn to code, do I recommend coding bootcamps, why did I start and is coding easy?</summary></entry><entry><title type="html">Week 1</title><link href="http://localhost:4000/projects/2020/05/08/week1.html" rel="alternate" type="text/html" title="Week 1" /><published>2020-05-08T09:48:04+08:00</published><updated>2020-05-08T09:48:04+08:00</updated><id>http://localhost:4000/projects/2020/05/08/week1</id><content type="html" xml:base="http://localhost:4000/projects/2020/05/08/week1.html">&lt;p&gt;From last week’s blog, I started and initiated a challenge – 42 days 6 weeks. Within the next 6 weeks, from 20th of May to 30th of June, I will be focusing on one project which is a website that tracks cashflow.&lt;/p&gt;
 
-&lt;p&gt;That’s not a great solution as nothing is getting finished and achieved. The cycle keeps repeating. Start a new project, code, debug, give up, and over again. I need a better option to change my cycle so I can actually finish a project.&lt;/p&gt;
+&lt;h1 id=&quot;stage-1-planning-phase&quot;&gt;Stage 1: Planning phase&lt;/h1&gt;
 
-&lt;p&gt;Yesterday, I read an article about &lt;a href=&quot;https://basecamp.com/shapeup/2.2-chapter-08#six-week-cycles&quot;&gt;Six Week Cycles&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I used the first 2 days to plan out the week. Having a clear vision and purpose in the early stage can highly improve the effiency of the work flow, not only does it give clarity to the work I’m doing but it also motivates me to check off tasks from my list of todos.&lt;/p&gt;
 
-&lt;p&gt;Basically in 6 weeks, 42 days, 1008 hours, 60480 minutes, 3628800 seconds you focus on &lt;strong&gt;ONE THING&lt;/strong&gt;. That one thing could be a project you wanted to start, a hobbie you want to expand, an interest you want to understand and dwell into more in depth etc.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/42days/design.png&quot; alt=&quot;design&quot; width=&quot;700&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Why 6 weeks, well it’s a short period of time that only takes up 1 month and a half. But long enough to finish the whole progress, including build, launch, test, debug etc and actually see the end result. Not only does it give you a period of time to experiment, play around with your project, but it also motivates and pushes you to finish the project you have set to yourself before the deadline.&lt;/p&gt;
+&lt;h3 id=&quot;visualize&quot;&gt;Visualize&lt;/h3&gt;
 
-&lt;p&gt;Even if the project succeeded or failed in the end, it only took 6 weeks of your time. Not only it gave you feedback (end result) of the project you are working on, but lets you experiment with creating different projects, exploring different interests and try different hobbies.&lt;/p&gt;
+&lt;p&gt;I like to visualize the outcome and structure of the website. I created this framwork structure that clearly displays the bare bone of my website. From this skeleton framework, it shows how many pages are there on the website, how are they linked and which section needs access to the database.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/42days/42days.png&quot; alt=&quot;42&quot; width=&quot;700&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;I’m a visual person 👀. Before starting any project, I need to have a broad image of the product in my head. What are the key functions, what does it look like and what special features that makes the application interesting. Creating this design framework above, simply makes me visualize the image of the product clearer. Fun fact, I used different colors to represent different sections: blue = navigation bar, turquoise = algorithms, yellow = sheets etc, so it will look less boring.&lt;/p&gt;
 
-&lt;p&gt;Starting next Wednesday, the 21st of May, I will use this 6 weeks and work on one thing. I am going to plan, start, code, build and launch a website. I chose this specific date to begin with so the last day will be the 30th of June.&lt;/p&gt;
+&lt;h3 id=&quot;be-careful-not-to-get-stuck-in-the-planning-loop&quot;&gt;Be careful not to get stuck in the Planning Loop&lt;/h3&gt;
 
-&lt;p&gt;For the next 6 weeks, I will update my progress here in this weekly blog. Not only will this keep track on my progress, give an in depth summary on what I’m doing but also share some thoughts and tips whilst doing this challenge.&lt;/p&gt;
+&lt;p&gt;Many people might want to have the perfect plan, however a perfect plan doesn’t exist in my case. Because I’m still a very inexperienced programmer who has been coding for the past 2 years only (sort of, took a few breaks in between).&lt;/p&gt;
 
-&lt;p&gt;Doing this 6 weeks, 42 days challenge is very challenging for me, as I still need to go to lessons and do homeworks. But through this challenge, I want to familiarize with my web development skills and get some extra insights on database server.&lt;/p&gt;
+&lt;p&gt;Planning is important, but not the most important thing when needed to finish a project. I like to experiment with things. When I did some testing and researches on databases, it broadens my knowledge and view on them. Instead of planning every single step I much prefer experimenting and trying out new features.&lt;/p&gt;
 
-&lt;p&gt;If you are like me who still needs to go to school or work, I suggest to block a few hours every day to work on your one thing. For me, it would be in the afternoon. If you want to join this challenge with me, feel free to comment on the bottom and tell me what project/hobby/interest are you planning to do.&lt;/p&gt;
+&lt;h1 id=&quot;stage-2-start-building&quot;&gt;Stage 2: Start building&lt;/h1&gt;
 
-&lt;h5 id=&quot;the-project-im-making-is&quot;&gt;The project I’m making is:&lt;/h5&gt;
+&lt;p&gt;After planning the broad looks and functions of the website, I began to code. First of all, I started adding components. A create new sheet page, login and signup pages for adding new users and a bit of styling to make the page more colorful. (Actually from the design framework above, all the rectangles which are filled in are finished, and the small squares on the top left are database. If I add those squares on specific component, it means they need access to the database.)&lt;/p&gt;
 
-&lt;p&gt;A website platform to keep track of monthly, annual cashflow.&lt;/p&gt;
+&lt;p&gt;Today will be the end of 3rd day. I still have 4 days to go until the first week is over.&lt;/p&gt;
 
-&lt;p&gt;By the way, I created a &lt;a href=&quot;https://www.linkedin.com/in/melanie-hsieh-0749a91a9/&quot;&gt;Linkedin Account&lt;/a&gt;. Check it out!&lt;/p&gt;
+&lt;h5 id=&quot;here-is-my-plan-so-hear-me-out&quot;&gt;Here is my plan, so hear me out&lt;/h5&gt;
+
+&lt;p&gt;&lt;strong&gt;Saturday&lt;/strong&gt;, I will be adding a new component – tabs. This will allow the user to edit and add the name of each tab in the google spreadsheet to the platform. &lt;em&gt;If there’s extra time, I hope to sync the tabs to the database.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sunday&lt;/strong&gt;, I will be taking a break. Hopefully able to go on a hike with my mates if the weather is good, preferably sunny and windy day (opitimal hiking weather).☀️💨&lt;/p&gt;
+
+&lt;p&gt;Taking a break is necessary, not only does it frees up your brain from all the clutter you have been stacking up from the week, but it is also good for your mental wellbeing.&lt;/p&gt;
+
+&lt;p&gt;So no work is getting done on Sunday. 😃&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Monday &amp;amp; Tuesday&lt;/strong&gt;, debugging time. When adding new features to my website I am pretty sure some unecessary issues and bugs will pop up. I like to leave myself a day or two just to check on the code to see if it runs smoothly.&lt;/p&gt;
+
+&lt;p&gt;I get stressed when things bugs are popping up, especially when the deadline is closing by. So leaving extra time to double check just makes me feel more relaxed on the other hand feeling stressful is an unpleasant feeling and I will do my best to avoid it.&lt;/p&gt;
+
+&lt;h1 id=&quot;progress-update-week-1-&quot;&gt;Progress Update: Week 1 📊&lt;/h1&gt;
+
+&lt;p&gt;I am really proud of what I did, part of it were already finished before hand such as the user authentication. I wouldn’t totally agree that it is cheating but I have a slight advantage. 😂&lt;/p&gt;
+
+&lt;h3 id=&quot;planning-phase-&quot;&gt;Planning Phase ✅&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Design Framework Completed&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;user-authentication-&quot;&gt;User Authentication ✅&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Login user&lt;/li&gt;
+  &lt;li&gt;Signup user&lt;/li&gt;
+  &lt;li&gt;User created auto syncs to Database&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;create-new-sheet-&quot;&gt;Create New Sheet ✅&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Add New Sheet&lt;/li&gt;
+  &lt;li&gt;Sheet created auto syncs to Database&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h1 id=&quot;end&quot;&gt;END&lt;/h1&gt;
 
@@ -114,7 +185,7 @@
 
 &lt;p&gt;Please subscibe to my weekly blog to get the latest updates.&lt;/p&gt;
 
-&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name></name></author><summary type="html">I have started many projects including a todo app, a weekly blog, an attendance app etc. However many of the projects were abandoned half-way through such as the todo app. Because I find it boring, or I couldn’t move past the bugs. Then I stopped working on that project and pushing it back, like super back.</summary></entry><entry><title type="html">2019 Summer Internship</title><link href="http://localhost:4000/journal/2020/05/01/intern.html" rel="alternate" type="text/html" title="2019 Summer Internship" /><published>2020-05-01T08:48:04+08:00</published><updated>2020-05-01T08:48:04+08:00</updated><id>http://localhost:4000/journal/2020/05/01/intern</id><content type="html" xml:base="http://localhost:4000/journal/2020/05/01/intern.html">&lt;p&gt;Last summer, I did a summer internship in a tech startup, MeeOpp.&lt;/p&gt;
+&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name></name></author><summary type="html">From last week’s blog, I started and initiated a challenge – 42 days 6 weeks. Within the next 6 weeks, from 20th of May to 30th of June, I will be focusing on one project which is a website that tracks cashflow.</summary></entry><entry><title type="html">2019 Summer Internship</title><link href="http://localhost:4000/journal/2020/05/01/intern.html" rel="alternate" type="text/html" title="2019 Summer Internship" /><published>2020-05-01T08:48:04+08:00</published><updated>2020-05-01T08:48:04+08:00</updated><id>http://localhost:4000/journal/2020/05/01/intern</id><content type="html" xml:base="http://localhost:4000/journal/2020/05/01/intern.html">&lt;p&gt;Last summer, I did a summer internship in a tech startup, MeeOpp.&lt;/p&gt;
 
 &lt;h2 id=&quot;brief-introduction&quot;&gt;Brief Introduction&lt;/h2&gt;
 
@@ -661,30 +732,4 @@ See if you can find me…🤣&lt;/p&gt;
 
 &lt;p&gt;Today’s blog gave you some tips and tricks on how to be less bored, and how deadly Covid-19 is. Stay Safe. If you have any further question or netflix shows you want to recommend me, you can always email me at &lt;a href=&quot;mailto:melanie@melaniehsieh.com&quot;&gt;melanie@melaniehsieh.com&lt;/a&gt; or find me on &lt;a href=&quot;https://github.com/melaniehsieh&quot;&gt;Github&lt;/a&gt; or &lt;a href=&quot;https://twitter.com/melaniehsieh&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Thanks for reading 👀&lt;/p&gt;</content><author><name></name></author><summary type="html">In Decemeber 31st, 2019 I thought 2020 is going to be a good start.</summary></entry><entry><title type="html">PROJECT MINIMAL</title><link href="http://localhost:4000/general/2020/03/13/projectminimal.html" rel="alternate" type="text/html" title="PROJECT MINIMAL" /><published>2020-03-13T20:00:01+08:00</published><updated>2020-03-13T20:00:01+08:00</updated><id>http://localhost:4000/general/2020/03/13/projectminimal</id><content type="html" xml:base="http://localhost:4000/general/2020/03/13/projectminimal.html">&lt;p&gt;Starting 2020 off with a bang 🎉, even though I’m late to the game for 3 months but whatever. The purpose of this weekly blog is simple, I want to share my tips and tricks on programming and some day to day experiences.&lt;/p&gt;
-
-&lt;p&gt;As this is the first time I tried blogging, it is still in experimenting phrase, which means this website will change often times.&lt;/p&gt;
-
-&lt;h1 id=&quot;why&quot;&gt;WHY&lt;/h1&gt;
-
-&lt;p&gt;As Melanie Hsieh once said:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Every project must start with a &lt;strong&gt;Why&lt;/strong&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;(I’m pretty sure someone famous said that, but since this is my blog I can say whatever I want. 😂)&lt;/p&gt;
-
-&lt;p&gt;My &lt;strong&gt;WHY&lt;/strong&gt; is to inspire other girls to pursue engineering or tech, pursue might not be the word but introduce them to &lt;em&gt;The World of Technology&lt;/em&gt;. The number of &lt;em&gt;Women in Tech&lt;/em&gt; 👩‍💻️ is still low, and the future world defenitely need more engineers. So why not combine the two together?&lt;/p&gt;
-
-&lt;p&gt;And this is why &lt;strong&gt;Project Minimal&lt;/strong&gt; is created. (I don’t even know how I came up with this name but someday sometime this name just poped up in my brain so I’m sticking with my gut.)&lt;/p&gt;
-
-&lt;p&gt;This is a minimal website which I decided to create to document my experiences in tech (coding/programming) and share my thoughts and feelings.&lt;/p&gt;
-
-&lt;p&gt;Establishing the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;#projectminimal&lt;/code&gt; community, the main purpose is to inspire others to get into technology.&lt;/p&gt;
-
-&lt;h1 id=&quot;end&quot;&gt;END&lt;/h1&gt;
-
-&lt;p&gt;This blog gave you some insight on my weekly blog. If you have any further question you can always email me at &lt;a href=&quot;mailto:melanie@melaniehsieh.com&quot;&gt;melanie@melaniehsieh.com&lt;/a&gt; or find me on &lt;a href=&quot;https://github.com/melaniehsieh&quot;&gt;Github&lt;/a&gt; or &lt;a href=&quot;https://twitter.com/melaniehsieh&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Thanks for reading 👀&lt;/p&gt;</content><author><name></name></author><summary type="html">Starting 2020 off with a bang 🎉, even though I’m late to the game for 3 months but whatever. The purpose of this weekly blog is simple, I want to share my tips and tricks on programming and some day to day experiences.</summary></entry></feed>
+&lt;p&gt;Thanks for reading 👀&lt;/p&gt;</content><author><name></name></author><summary type="html">In Decemeber 31st, 2019 I thought 2020 is going to be a good start.</summary></entry></feed>
