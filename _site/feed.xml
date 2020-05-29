@@ -1,4 +1,75 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-22T17:50:20+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Project Minimal</title><entry><title type="html">42 Days | 6 weeks</title><link href="http://localhost:4000/projects/2020/05/08/42daychallenge.html" rel="alternate" type="text/html" title="42 Days | 6 weeks" /><published>2020-05-08T09:48:04+08:00</published><updated>2020-05-08T09:48:04+08:00</updated><id>http://localhost:4000/projects/2020/05/08/42daychallenge</id><content type="html" xml:base="http://localhost:4000/projects/2020/05/08/42daychallenge.html">&lt;p&gt;I have started many projects including a todo app, a weekly blog, an attendance app etc. However many of the projects were abandoned half-way through such as the todo app. Because I find it boring, or I couldn’t move past the bugs. Then I stopped working on that project and pushing it back, like super back.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-29T20:05:50+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Project Minimal</title><entry><title type="html">Week 1</title><link href="http://localhost:4000/projects/2020/05/08/week1.html" rel="alternate" type="text/html" title="Week 1" /><published>2020-05-08T09:48:04+08:00</published><updated>2020-05-08T09:48:04+08:00</updated><id>http://localhost:4000/projects/2020/05/08/week1</id><content type="html" xml:base="http://localhost:4000/projects/2020/05/08/week1.html">&lt;p&gt;From last week’s blog, I started and initiated a challenge – 42 days 6 weeks. Within the next 6 weeks, from 20th of May to 30th of June, I will be focusing on one project which is a website that tracks cashflow.&lt;/p&gt;
+
+&lt;h1 id=&quot;stage-1-planning-phase&quot;&gt;Stage 1: Planning phase&lt;/h1&gt;
+
+&lt;p&gt;I used the first 2 days to plan out the week. Having a clear vision and purpose in the early stage can highly improve the effiency of the work flow, not only does it give clarity to the work I’m doing but it also motivates me to check off tasks from my list of todos.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/42days/design.png&quot; alt=&quot;design&quot; width=&quot;700&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;visualize&quot;&gt;Visualize&lt;/h3&gt;
+
+&lt;p&gt;I like to visualize the outcome and structure of the website. I created this framwork structure that clearly displays the bare bone of my website. From this skeleton framework, it shows how many pages are there on the website, how are they linked and which section needs access to the database.&lt;/p&gt;
+
+&lt;p&gt;I’m a visual person 👀. Before starting any project, I need to have a broad image of the product in my head. What are the key functions, what does it look like and what special features that makes the application interesting. Creating this design framework above, simply makes me visualize the image of the product clearer. Fun fact, I used different colors to represent different sections: blue = navigation bar, turquoise = algorithms, yellow = sheets etc, so it will look less boring.&lt;/p&gt;
+
+&lt;h3 id=&quot;be-careful-not-to-get-stuck-in-the-planning-loop&quot;&gt;Be careful not to get stuck in the Planning Loop&lt;/h3&gt;
+
+&lt;p&gt;Many people might want to have the perfect plan, however a perfect plan doesn’t exist in my case. Because I’m still a very inexperienced programmer who has been coding for the past 2 years only (sort of, took a few breaks in between).&lt;/p&gt;
+
+&lt;p&gt;Planning is important, but not the most important thing when needed to finish a project. I like to experiment with things. When I did some testing and researches on databases, it broadens my knowledge and view on them. Instead of planning every single step I much prefer experimenting and trying out new features.&lt;/p&gt;
+
+&lt;h1 id=&quot;stage-2-start-building&quot;&gt;Stage 2: Start building&lt;/h1&gt;
+
+&lt;p&gt;After planning the broad looks and functions of the website, I began to code. First of all, I started adding components. A create new sheet page, login and signup pages for adding new users and a bit of styling to make the page more colorful. (Actually from the design framework above, all the rectangles which are filled in are finished, and the small squares on the top left are database. If I add those squares on specific component, it means they need access to the database.)&lt;/p&gt;
+
+&lt;p&gt;Today will be the end of 3rd day. I still have 4 days to go until the first week is over.&lt;/p&gt;
+
+&lt;h5 id=&quot;here-is-my-plan-so-hear-me-out&quot;&gt;Here is my plan, so hear me out&lt;/h5&gt;
+
+&lt;p&gt;&lt;strong&gt;Saturday&lt;/strong&gt;, I will be adding a new component – tabs. This will allow the user to edit and add the name of each tab in the google spreadsheet to the platform. &lt;em&gt;If there’s extra time, I hope to sync the tabs to the database.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sunday&lt;/strong&gt;, I will be taking a break. Hopefully able to go on a hike with my mates if the weather is good, preferably sunny and windy day (opitimal hiking weather).☀️💨&lt;/p&gt;
+
+&lt;p&gt;Taking a break is necessary, not only does it frees up your brain from all the clutter you have been stacking up from the week, but it is also good for your mental wellbeing.&lt;/p&gt;
+
+&lt;p&gt;So no work is getting done on Sunday. 😃&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Monday &amp;amp; Tuesday&lt;/strong&gt;, debugging time. When adding new features to my website I am pretty sure some unecessary issues and bugs will pop up. I like to leave myself a day or two just to check on the code to see if it runs smoothly.&lt;/p&gt;
+
+&lt;p&gt;I get stressed when things bugs are popping up, especially when the deadline is closing by. So leaving extra time to double check just makes me feel more relaxed on the other hand feeling stressful is an unpleasant feeling and I will do my best to avoid it.&lt;/p&gt;
+
+&lt;h1 id=&quot;progress-update-week-1-&quot;&gt;Progress Update: Week 1 📊&lt;/h1&gt;
+
+&lt;p&gt;I am really proud of what I did, part of it were already finished before hand such as the user authentication. I wouldn’t totally agree that it is cheating but I have a slight advantage. 😂&lt;/p&gt;
+
+&lt;h3 id=&quot;planning-phase-&quot;&gt;Planning Phase ✅&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Design Framework Completed&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;user-authentication-&quot;&gt;User Authentication ✅&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Login user&lt;/li&gt;
+  &lt;li&gt;Signup user&lt;/li&gt;
+  &lt;li&gt;User created auto syncs to Database&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;create-new-sheet-&quot;&gt;Create New Sheet ✅&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Add New Sheet&lt;/li&gt;
+  &lt;li&gt;Sheet created auto syncs to Database&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;end&quot;&gt;END&lt;/h1&gt;
+
+&lt;p&gt;If you have any further question you can always email me at &lt;a href=&quot;mailto:melanie@melaniehsieh.com&quot;&gt;melanie@melaniehsieh.com&lt;/a&gt; or find me on &lt;a href=&quot;https://github.com/melaniehsieh&quot;&gt;Github&lt;/a&gt; or &lt;a href=&quot;https://twitter.com/melaniehsieh&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Please subscibe to my weekly blog to get the latest updates.&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name></name></author><summary type="html">From last week’s blog, I started and initiated a challenge – 42 days 6 weeks. Within the next 6 weeks, from 20th of May to 30th of June, I will be focusing on one project which is a website that tracks cashflow.</summary></entry><entry><title type="html">42 Days | 6 weeks</title><link href="http://localhost:4000/projects/2020/05/08/42daychallenge.html" rel="alternate" type="text/html" title="42 Days | 6 weeks" /><published>2020-05-08T09:48:04+08:00</published><updated>2020-05-08T09:48:04+08:00</updated><id>http://localhost:4000/projects/2020/05/08/42daychallenge</id><content type="html" xml:base="http://localhost:4000/projects/2020/05/08/42daychallenge.html">&lt;p&gt;I have started many projects including a todo app, a weekly blog, an attendance app etc. However many of the projects were abandoned half-way through such as the todo app. Because I find it boring, or I couldn’t move past the bugs. Then I stopped working on that project and pushing it back, like super back.&lt;/p&gt;
 
 &lt;p&gt;That’s not a great solution as nothing is getting finished and achieved. The cycle keeps repeating. Start a new project, code, debug, give up, and over again. I need a better option to change my cycle so I can actually finish a project.&lt;/p&gt;
 
@@ -114,69 +185,43 @@
 
 &lt;p&gt;Please subscibe to my weekly blog to get the latest updates.&lt;/p&gt;
 
-&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name></name></author><summary type="html">Starting from a young age I developed a huge interest in tech. But many might ask how did I learn to code, do I recommend coding bootcamps, why did I start and is coding easy?</summary></entry><entry><title type="html">Week 1</title><link href="http://localhost:4000/projects/2020/05/08/week1.html" rel="alternate" type="text/html" title="Week 1" /><published>2020-05-08T09:48:04+08:00</published><updated>2020-05-08T09:48:04+08:00</updated><id>http://localhost:4000/projects/2020/05/08/week1</id><content type="html" xml:base="http://localhost:4000/projects/2020/05/08/week1.html">&lt;p&gt;From last week’s blog, I started and initiated a challenge – 42 days 6 weeks. Within the next 6 weeks, from 20th of May to 30th of June, I will be focusing on one project which is a website that tracks cashflow.&lt;/p&gt;
+&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name></name></author><summary type="html">Starting from a young age I developed a huge interest in tech. But many might ask how did I learn to code, do I recommend coding bootcamps, why did I start and is coding easy?</summary></entry><entry><title type="html">Week 2</title><link href="http://localhost:4000/projects/2020/05/08/week2.html" rel="alternate" type="text/html" title="Week 2" /><published>2020-05-08T09:48:04+08:00</published><updated>2020-05-08T09:48:04+08:00</updated><id>http://localhost:4000/projects/2020/05/08/week2</id><content type="html" xml:base="http://localhost:4000/projects/2020/05/08/week2.html">&lt;p&gt;Week Number Two.&lt;/p&gt;
 
-&lt;h1 id=&quot;stage-1-planning-phase&quot;&gt;Stage 1: Planning phase&lt;/h1&gt;
+&lt;p&gt;Today is Day 10 of my challenge, to be honest it has been tough since school started and homeworks have been piling up. 😵 I didn’t achieve as much as I intended to, sort of struggling between balancing school and personal projects. But still glad to see my friends again.&lt;/p&gt;
 
-&lt;p&gt;I used the first 2 days to plan out the week. Having a clear vision and purpose in the early stage can highly improve the effiency of the work flow, not only does it give clarity to the work I’m doing but it also motivates me to check off tasks from my list of todos.&lt;/p&gt;
+&lt;p&gt;Basically, this week’s progress was bad. On a scale from 1 - 10, I will say it is a solid 3.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/42days/design.png&quot; alt=&quot;design&quot; width=&quot;700&quot; /&gt;&lt;/p&gt;
+&lt;h1 id=&quot;purpose&quot;&gt;Purpose&lt;/h1&gt;
 
-&lt;h3 id=&quot;visualize&quot;&gt;Visualize&lt;/h3&gt;
+&lt;p&gt;From the very beginning I have always aimed for consistency. But after these 10 Days, things have gotten harder and harder. More bugs, less motivation, more homework (worst thing ever, can’t believe they still exist). Needless to say, this week was stressful and daunting.&lt;/p&gt;
 
-&lt;p&gt;I like to visualize the outcome and structure of the website. I created this framwork structure that clearly displays the bare bone of my website. From this skeleton framework, it shows how many pages are there on the website, how are they linked and which section needs access to the database.&lt;/p&gt;
+&lt;p&gt;Even with these troublesome problems, I am glad that I still managed to keep my streak of crosses running. Although somedays I only did a short 10 minutes programming session but I kept myself accountable and didn’t give up. 👏👏&lt;/p&gt;
 
-&lt;p&gt;I’m a visual person 👀. Before starting any project, I need to have a broad image of the product in my head. What are the key functions, what does it look like and what special features that makes the application interesting. Creating this design framework above, simply makes me visualize the image of the product clearer. Fun fact, I used different colors to represent different sections: blue = navigation bar, turquoise = algorithms, yellow = sheets etc, so it will look less boring.&lt;/p&gt;
+&lt;p&gt;Although it is way easier to give up then to continue, but I just want to have a complete product. &lt;strong&gt;Just One Single Complete Project&lt;/strong&gt;. Although erros and bugs are unavoidable but having a clear purpose forced me or even kicked me to continue working on this project.&lt;/p&gt;
 
-&lt;h3 id=&quot;be-careful-not-to-get-stuck-in-the-planning-loop&quot;&gt;Be careful not to get stuck in the Planning Loop&lt;/h3&gt;
+&lt;p&gt;This website might not be used by anyone, but completeing a project means a lot to me. So have a strong clear purpose, a purpose that will someday push or kick you when you feel low and stressful.&lt;/p&gt;
 
-&lt;p&gt;Many people might want to have the perfect plan, however a perfect plan doesn’t exist in my case. Because I’m still a very inexperienced programmer who has been coding for the past 2 years only (sort of, took a few breaks in between).&lt;/p&gt;
+&lt;h2 id=&quot;plan-for-the-upcoming-week&quot;&gt;Plan for the upcoming week&lt;/h2&gt;
 
-&lt;p&gt;Planning is important, but not the most important thing when needed to finish a project. I like to experiment with things. When I did some testing and researches on databases, it broadens my knowledge and view on them. Instead of planning every single step I much prefer experimenting and trying out new features.&lt;/p&gt;
+&lt;h3 id=&quot;1-category-algorithm&quot;&gt;1. Category algorithm&lt;/h3&gt;
 
-&lt;h1 id=&quot;stage-2-start-building&quot;&gt;Stage 2: Start building&lt;/h1&gt;
+&lt;p&gt;It is a bit more complicated than the other 2 algorithms because it consists of two data source instead of one. I have been pushing this feature back for a while so I hope to finish this as soon as possible so it won’t delay my schedule. (not saying that I have a busy schedule.)&lt;/p&gt;
 
-&lt;p&gt;After planning the broad looks and functions of the website, I began to code. First of all, I started adding components. A create new sheet page, login and signup pages for adding new users and a bit of styling to make the page more colorful. (Actually from the design framework above, all the rectangles which are filled in are finished, and the small squares on the top left are database. If I add those squares on specific component, it means they need access to the database.)&lt;/p&gt;
+&lt;h3 id=&quot;2-input-sheet&quot;&gt;2. Input Sheet&lt;/h3&gt;
 
-&lt;p&gt;Today will be the end of 3rd day. I still have 4 days to go until the first week is over.&lt;/p&gt;
+&lt;p&gt;I will add more features on the Create New Sheet page. I want to allow users to control the data-output so it is tailor-made. Not only that, but have a friendly user interface. (probably adding that near the end, when every main components are working together) 🤞&lt;/p&gt;
 
-&lt;h5 id=&quot;here-is-my-plan-so-hear-me-out&quot;&gt;Here is my plan, so hear me out&lt;/h5&gt;
+&lt;p&gt;&lt;img src=&quot;/img/42days/dataformat.png&quot; alt=&quot;dataformat&quot; width=&quot;700&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Saturday&lt;/strong&gt;, I will be adding a new component – tabs. This will allow the user to edit and add the name of each tab in the google spreadsheet to the platform. &lt;em&gt;If there’s extra time, I hope to sync the tabs to the database.&lt;/em&gt;&lt;/p&gt;
+&lt;h1 id=&quot;progress-update-week-2-&quot;&gt;Progress Update: Week 2 📊&lt;/h1&gt;
 
-&lt;p&gt;&lt;strong&gt;Sunday&lt;/strong&gt;, I will be taking a break. Hopefully able to go on a hike with my mates if the weather is good, preferably sunny and windy day (opitimal hiking weather).☀️💨&lt;/p&gt;
+&lt;p&gt;Finally finished one of the key features which is the algorithm section that fetches data and return a summary of it.&lt;/p&gt;
 
-&lt;p&gt;Taking a break is necessary, not only does it frees up your brain from all the clutter you have been stacking up from the week, but it is also good for your mental wellbeing.&lt;/p&gt;
-
-&lt;p&gt;So no work is getting done on Sunday. 😃&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Monday &amp;amp; Tuesday&lt;/strong&gt;, debugging time. When adding new features to my website I am pretty sure some unecessary issues and bugs will pop up. I like to leave myself a day or two just to check on the code to see if it runs smoothly.&lt;/p&gt;
-
-&lt;p&gt;I get stressed when things bugs are popping up, especially when the deadline is closing by. So leaving extra time to double check just makes me feel more relaxed on the other hand feeling stressful is an unpleasant feeling and I will do my best to avoid it.&lt;/p&gt;
-
-&lt;h1 id=&quot;progress-update-week-1-&quot;&gt;Progress Update: Week 1 📊&lt;/h1&gt;
-
-&lt;p&gt;I am really proud of what I did, part of it were already finished before hand such as the user authentication. I wouldn’t totally agree that it is cheating but I have a slight advantage. 😂&lt;/p&gt;
-
-&lt;h3 id=&quot;planning-phase-&quot;&gt;Planning Phase ✅&lt;/h3&gt;
+&lt;h3 id=&quot;algorithms-&quot;&gt;Algorithms ✅&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Design Framework Completed&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;user-authentication-&quot;&gt;User Authentication ✅&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Login user&lt;/li&gt;
-  &lt;li&gt;Signup user&lt;/li&gt;
-  &lt;li&gt;User created auto syncs to Database&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;create-new-sheet-&quot;&gt;Create New Sheet ✅&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Add New Sheet&lt;/li&gt;
-  &lt;li&gt;Sheet created auto syncs to Database&lt;/li&gt;
+  &lt;li&gt;Revenue algorithm&lt;/li&gt;
+  &lt;li&gt;Expense algorithm&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&quot;end&quot;&gt;END&lt;/h1&gt;
@@ -185,7 +230,7 @@
 
 &lt;p&gt;Please subscibe to my weekly blog to get the latest updates.&lt;/p&gt;
 
-&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name></name></author><summary type="html">From last week’s blog, I started and initiated a challenge – 42 days 6 weeks. Within the next 6 weeks, from 20th of May to 30th of June, I will be focusing on one project which is a website that tracks cashflow.</summary></entry><entry><title type="html">2019 Summer Internship</title><link href="http://localhost:4000/journal/2020/05/01/intern.html" rel="alternate" type="text/html" title="2019 Summer Internship" /><published>2020-05-01T08:48:04+08:00</published><updated>2020-05-01T08:48:04+08:00</updated><id>http://localhost:4000/journal/2020/05/01/intern</id><content type="html" xml:base="http://localhost:4000/journal/2020/05/01/intern.html">&lt;p&gt;Last summer, I did a summer internship in a tech startup, MeeOpp.&lt;/p&gt;
+&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name></name></author><summary type="html">Week Number Two.</summary></entry><entry><title type="html">2019 Summer Internship</title><link href="http://localhost:4000/journal/2020/05/01/intern.html" rel="alternate" type="text/html" title="2019 Summer Internship" /><published>2020-05-01T08:48:04+08:00</published><updated>2020-05-01T08:48:04+08:00</updated><id>http://localhost:4000/journal/2020/05/01/intern</id><content type="html" xml:base="http://localhost:4000/journal/2020/05/01/intern.html">&lt;p&gt;Last summer, I did a summer internship in a tech startup, MeeOpp.&lt;/p&gt;
 
 &lt;h2 id=&quot;brief-introduction&quot;&gt;Brief Introduction&lt;/h2&gt;
 
@@ -685,51 +730,4 @@ See if you can find me…🤣&lt;/p&gt;
 
 &lt;p&gt;If you have any further question you can always email me at &lt;a href=&quot;mailto:melanie@melaniehsieh.com&quot;&gt;melanie@melaniehsieh.com&lt;/a&gt; or find me on &lt;a href=&quot;https://github.com/melaniehsieh&quot;&gt;Github&lt;/a&gt; or &lt;a href=&quot;https://twitter.com/melaniehsieh&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name></name></author><summary type="html">One of the project this year is to make a Todo App. If you search todo app in the app store or play store there are a lot of options. However I tried a few of them, and often they are either too complicated to use, or they are just missing some functions I want. So this upcoming month, I am planning to launch my Todo App called Subtle from scratch.</summary></entry><entry><title type="html">COVID-19</title><link href="http://localhost:4000/general/2020/03/20/corona.html" rel="alternate" type="text/html" title="COVID-19" /><published>2020-03-20T07:03:58+08:00</published><updated>2020-03-20T07:03:58+08:00</updated><id>http://localhost:4000/general/2020/03/20/corona</id><content type="html" xml:base="http://localhost:4000/general/2020/03/20/corona.html">&lt;p&gt;In &lt;em&gt;Decemeber 31st, 2019&lt;/em&gt; I thought 2020 is going to be a good start.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Number ONE:&lt;/strong&gt; It’s a new decade. &lt;strong&gt;2020&lt;/strong&gt; means new goals, new commitment and most importantly, new ME. It’s a year where I want to improve myself &lt;em&gt;exponentially&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Number TWO:&lt;/strong&gt; I turned 16. 🎂🎉&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Number THREE:&lt;/strong&gt; I have a list of projects I want to achieve and build this year. (You can find them on my &lt;em&gt;Project Page&lt;/em&gt;)&lt;/p&gt;
-
-&lt;h1 id=&quot;covid-19-in-hong-kong&quot;&gt;Covid-19 in Hong Kong&lt;/h1&gt;
-
-&lt;p&gt;As I am currently living in Hong Kong. Since the spread of COVID-19 near the end of January, more than 100 countries are infected. This made all the schools closed and holiday extension. I am not complaninig about the extra few days of holidays, but not able to go outside freely sucks.&lt;/p&gt;
-
-&lt;p&gt;Many schools including mine has started online school with tools like zoom, google hangout just to name a few. At first, I felt overwhelmed of all the homework and assignment piling up. Especially my exam in May is coming soon, teachers gave us extra work to catchup. It was very tiring and made me feel &lt;strong&gt;SchoolSick&lt;/strong&gt;. (I know it may sound weird)&lt;/p&gt;
-
-&lt;h1 id=&quot;staying-at-home&quot;&gt;Staying at Home&lt;/h1&gt;
-
-&lt;p&gt;Due to the outbreak, we had to stay at home. Usually on Saturdays and Sundays I go to church and join some extra activies to fill up my time. But now all of them are cancelled 😢.&lt;/p&gt;
-
-&lt;h2 id=&quot;tips-to-be-less-bored&quot;&gt;Tips to be LESS BORED&lt;/h2&gt;
-
-&lt;p&gt;Below are some methods I tried over the &lt;em&gt;stay-at-home&lt;/em&gt; period.&lt;/p&gt;
-
-&lt;h3 id=&quot;1-find-a-project-to-do&quot;&gt;1. Find a project to do&lt;/h3&gt;
-
-&lt;p&gt;I decided to start a project to fill in the time. I am currently making an app, (if you are interested check out the next blog.) It doesn’t have to be a big project, it could be something small e.g. finish this Netflix show, bake something, draw…&lt;/p&gt;
-
-&lt;h3 id=&quot;netflix-shows-here-are-some-shows-my-friends-recommended-to-me&quot;&gt;Netflix shows (Here are some shows my friends recommended to me)&lt;/h3&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Itaewon class (Korean Drama)&lt;/li&gt;
-  &lt;li&gt;The Dictator&lt;/li&gt;
-  &lt;li&gt;Money Heist (Season 1 &amp;amp; 2 &amp;amp; 3) ❤️ &lt;em&gt;all-time favorite&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;You (Both Season 1 &amp;amp; 2)&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;2-call-your-friends&quot;&gt;2. Call your friends&lt;/h3&gt;
-
-&lt;p&gt;Every Saturday evening, I hangout with my friends in church with &lt;em&gt;zoom or skype&lt;/em&gt; just to check in with each other. It is a great way to relax and just socialize.&lt;/p&gt;
-
-&lt;p&gt;Remember to wear a mask when you are going outside. It is very important especially these days, as the corona virus is deadly 🦠.&lt;/p&gt;
-
-&lt;h3 id=&quot;many-thanks-to-all-the-doctors-nurses-and-people-who-are-working-to-solve-this-problem-thank-you-and-wish-you-guys-the-best&quot;&gt;Many thanks to all the Doctors, Nurses, and people who are working to solve this problem. Thank you, and wish you guys the best.&lt;/h3&gt;
-
-&lt;h1 id=&quot;end&quot;&gt;END&lt;/h1&gt;
-
-&lt;p&gt;Today’s blog gave you some tips and tricks on how to be less bored, and how deadly Covid-19 is. Stay Safe. If you have any further question or netflix shows you want to recommend me, you can always email me at &lt;a href=&quot;mailto:melanie@melaniehsieh.com&quot;&gt;melanie@melaniehsieh.com&lt;/a&gt; or find me on &lt;a href=&quot;https://github.com/melaniehsieh&quot;&gt;Github&lt;/a&gt; or &lt;a href=&quot;https://twitter.com/melaniehsieh&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Thanks for reading 👀&lt;/p&gt;</content><author><name></name></author><summary type="html">In Decemeber 31st, 2019 I thought 2020 is going to be a good start.</summary></entry></feed>
+&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name></name></author><summary type="html">One of the project this year is to make a Todo App. If you search todo app in the app store or play store there are a lot of options. However I tried a few of them, and often they are either too complicated to use, or they are just missing some functions I want. So this upcoming month, I am planning to launch my Todo App called Subtle from scratch.</summary></entry></feed>
