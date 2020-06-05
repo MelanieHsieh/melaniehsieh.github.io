@@ -1,4 +1,42 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-29T20:05:50+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Project Minimal</title><entry><title type="html">Week 1</title><link href="http://localhost:4000/projects/2020/05/08/week1.html" rel="alternate" type="text/html" title="Week 1" /><published>2020-05-08T09:48:04+08:00</published><updated>2020-05-08T09:48:04+08:00</updated><id>http://localhost:4000/projects/2020/05/08/week1</id><content type="html" xml:base="http://localhost:4000/projects/2020/05/08/week1.html">&lt;p&gt;From last week’s blog, I started and initiated a challenge – 42 days 6 weeks. Within the next 6 weeks, from 20th of May to 30th of June, I will be focusing on one project which is a website that tracks cashflow.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-06-05T15:48:07+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Project Minimal</title><entry><title type="html">Week 3</title><link href="http://localhost:4000/projects/2020/05/08/week3.html" rel="alternate" type="text/html" title="Week 3" /><published>2020-05-08T09:48:04+08:00</published><updated>2020-05-08T09:48:04+08:00</updated><id>http://localhost:4000/projects/2020/05/08/week3</id><content type="html" xml:base="http://localhost:4000/projects/2020/05/08/week3.html">&lt;p&gt;Week 3. Halfway through and 3 more weeks to go!&lt;/p&gt;
+
+&lt;p&gt;I am delighted to say I have successfully launched a new feature. &lt;strong&gt;Categories algorithm&lt;/strong&gt;, this algorithm is the most difficult algorithm to code out of the other 2. I have been coding this particular section for a few weeks. Many times I was stucked in the infinie loop of bugs, but I am happy to announce the first version of Revenue, Expense, Categories algorithm is successfullly running. 👏👏&lt;/p&gt;
+
+&lt;h1 id=&quot;version-10-features&quot;&gt;Version 1.0 features&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/42days/layout.png&quot; alt=&quot;layout&quot; width=&quot;700&quot; /&gt;
+Version 1.0 is a bare bone framework and feature of Cashrithm. This will include 3 algorithms that sums up the data, categorize data based on Vender name and filter unecessary data value out based on the google sheet url which the user will input in a given input box.&lt;/p&gt;
+
+&lt;p&gt;However, this version is not scalable as the algorithm is only limited to a few data sheet, and the run time is quite slow. In order to make my life simplier and easier in the future, I have decided to convert them into functions. A function for summing up all the value of a given column, a function that categorize value based on the Vender name and many more. In the future, if I wanted to add new algorithms, I can just simply add a few lines of code and Voila the algorithm is running. 👍&lt;/p&gt;
+
+&lt;p&gt;From my self-taught coding journey, I’ve learned that &lt;strong&gt;write once run anywhere&lt;/strong&gt; is a super important hack that could save me a ton of time.&lt;/p&gt;
+
+&lt;h1 id=&quot;version-11&quot;&gt;Version 1.1&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/42days/summary.png&quot; alt=&quot;summary&quot; width=&quot;700&quot; /&gt;
+Since Version 1.0 is the bare bone skeleton of the structure of the program, Version 1.1 should be the fun stuff that gets implemented. I’m still confused by the numbering of the versions, some have 3 digits. I’ll just stick with 2 for now. 😂&lt;/p&gt;
+
+&lt;p&gt;In the next 3 weeks, I will be working on version 1.1. Hopefully improving the user experience when they go on my website. But I will also fix some bugs I’ve been avoiding lately (mainly because debugging is a stressful and boring process, let’s hope in the future someone created a machine that could rewrite my code and make it bug-free).&lt;/p&gt;
+
+&lt;p&gt;I’m extremely excited, and hopefully the outcome after 6 weeks could wow myself as this is big milestone for me, personally. 🎯&lt;/p&gt;
+
+&lt;h1 id=&quot;progress-update-week-3-&quot;&gt;Progress Update: Week 3 📊&lt;/h1&gt;
+
+&lt;p&gt;Next week, I will continue coding the input area where users can control what they want to see in the final summary sheet. On the other hand, I would convert all algorithms into functions that could be called easily.&lt;/p&gt;
+
+&lt;h3 id=&quot;algorithms-&quot;&gt;Algorithms ✅&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Category algorithm&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;end&quot;&gt;END&lt;/h1&gt;
+
+&lt;p&gt;If you have any further question you can always email me at &lt;a href=&quot;mailto:melanie@melaniehsieh.com&quot;&gt;melanie@melaniehsieh.com&lt;/a&gt; or find me on &lt;a href=&quot;https://github.com/melaniehsieh&quot;&gt;Github&lt;/a&gt; or &lt;a href=&quot;https://twitter.com/melaniehsieh&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Please subscibe to my weekly blog to get the latest updates.&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name></name></author><summary type="html">Week 3. Halfway through and 3 more weeks to go!</summary></entry><entry><title type="html">Week 1</title><link href="http://localhost:4000/projects/2020/05/08/week1.html" rel="alternate" type="text/html" title="Week 1" /><published>2020-05-08T09:48:04+08:00</published><updated>2020-05-08T09:48:04+08:00</updated><id>http://localhost:4000/projects/2020/05/08/week1</id><content type="html" xml:base="http://localhost:4000/projects/2020/05/08/week1.html">&lt;p&gt;From last week’s blog, I started and initiated a challenge – 42 days 6 weeks. Within the next 6 weeks, from 20th of May to 30th of June, I will be focusing on one project which is a website that tracks cashflow.&lt;/p&gt;
 
 &lt;h1 id=&quot;stage-1-planning-phase&quot;&gt;Stage 1: Planning phase&lt;/h1&gt;
 
@@ -321,7 +359,39 @@
 
 &lt;p&gt;Please subscibe to my weekly blog to get the latest updates.&lt;/p&gt;
 
-&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name></name></author><summary type="html">Last summer, I did a summer internship in a tech startup, MeeOpp.</summary></entry><entry><title type="html">Chapter 2: Middle School</title><link href="http://localhost:4000/journal/2020/04/17/hackathon.html" rel="alternate" type="text/html" title="Chapter 2: Middle School" /><published>2020-04-17T15:00:04+08:00</published><updated>2020-04-17T15:00:04+08:00</updated><id>http://localhost:4000/journal/2020/04/17/hackathon</id><content type="html" xml:base="http://localhost:4000/journal/2020/04/17/hackathon.html">&lt;p&gt;As Melanie Hsieh once said:&lt;/p&gt;
+&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name></name></author><summary type="html">Last summer, I did a summer internship in a tech startup, MeeOpp.</summary></entry><entry><title type="html">Chapter 1: Primary School</title><link href="http://localhost:4000/journal/2020/04/17/login.html" rel="alternate" type="text/html" title="Chapter 1: Primary School" /><published>2020-04-17T15:00:04+08:00</published><updated>2020-04-17T15:00:04+08:00</updated><id>http://localhost:4000/journal/2020/04/17/login</id><content type="html" xml:base="http://localhost:4000/journal/2020/04/17/login.html">&lt;p&gt;I am starting a new series! Yes, no more code snippets or tutorials. (Well only for a while.) I realized most of my readers aren’t interested in coding so I decided to change up the content. I am going to tell stories about myself.&lt;/p&gt;
+
+&lt;h1 id=&quot;primary-school&quot;&gt;Primary School&lt;/h1&gt;
+
+&lt;p&gt;Exactly 10 years ago, I started primary school. Back then, my favorite subjects were Art and ICT (basically computer class). Mainly because there weren’t any tests and exams. To clarify I’m not the kid with straight A’s, or the kid who’s talented in sports. But I am the kid who hated exams and tests especially dictations.&lt;/p&gt;
+
+&lt;h3 id=&quot;art-class&quot;&gt;Art class&lt;/h3&gt;
+
+&lt;p&gt;I like art because it was fun. I remembered once I made a cardboard robot with red pockets with my friends. I enjoyed the process of making something physical from start to finish.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Everything is Art&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I saw a youtube video explaining how someone put a blank white painting in an art gallery and sold it for millions of dollars. So I thought it would be easy to score an A, as there are a lot of empty white pages in my sketchbook. Well expectations never equal to reality. I learned that from the hard way.&lt;/p&gt;
+
+&lt;p&gt;In reality my art grades were C’s.&lt;/p&gt;
+
+&lt;h2 id=&quot;computer-class&quot;&gt;Computer class&lt;/h2&gt;
+
+&lt;p&gt;In the beginning, I hated computer classes. They were so boring and repetive, each lesson teachers just explain some basic functions of the computer such as what is copy and paste.&lt;/p&gt;
+
+&lt;p&gt;But, as we started to learn scratch I started to build up my curiosity on writing simple block codes. It was extremely fun as I could basically control the cat, what it does, where it goes. Later on I participated in competitions to enhance my skills. I even won a few awards.&lt;/p&gt;
+
+&lt;p&gt;The awards I got might be small comparing them to other people’s. But these small achievements sparked joy, because someone verified my product, they think it’s good. Now that’s something big.&lt;/p&gt;
+
+&lt;h1 id=&quot;end&quot;&gt;END&lt;/h1&gt;
+
+&lt;p&gt;If you have any further question you can always email me at &lt;a href=&quot;mailto:melanie@melaniehsieh.com&quot;&gt;melanie@melaniehsieh.com&lt;/a&gt; or find me on &lt;a href=&quot;https://github.com/melaniehsieh&quot;&gt;Github&lt;/a&gt; or &lt;a href=&quot;https://twitter.com/melaniehsieh&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Please subscibe to my weekly blog to get the latest updates.&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name></name></author><summary type="html">I am starting a new series! Yes, no more code snippets or tutorials. (Well only for a while.) I realized most of my readers aren’t interested in coding so I decided to change up the content. I am going to tell stories about myself.</summary></entry><entry><title type="html">Chapter 2: Middle School</title><link href="http://localhost:4000/journal/2020/04/17/hackathon.html" rel="alternate" type="text/html" title="Chapter 2: Middle School" /><published>2020-04-17T15:00:04+08:00</published><updated>2020-04-17T15:00:04+08:00</updated><id>http://localhost:4000/journal/2020/04/17/hackathon</id><content type="html" xml:base="http://localhost:4000/journal/2020/04/17/hackathon.html">&lt;p&gt;As Melanie Hsieh once said:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Big things must start from small things, and small things are usually simple things.&lt;/p&gt;
@@ -378,39 +448,7 @@ See if you can find me…🤣&lt;/p&gt;
 
 &lt;p&gt;Please subscibe to my weekly blog to get the latest updates.&lt;/p&gt;
 
-&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name></name></author><summary type="html">As Melanie Hsieh once said:</summary></entry><entry><title type="html">Chapter 1: Primary School</title><link href="http://localhost:4000/journal/2020/04/17/login.html" rel="alternate" type="text/html" title="Chapter 1: Primary School" /><published>2020-04-17T15:00:04+08:00</published><updated>2020-04-17T15:00:04+08:00</updated><id>http://localhost:4000/journal/2020/04/17/login</id><content type="html" xml:base="http://localhost:4000/journal/2020/04/17/login.html">&lt;p&gt;I am starting a new series! Yes, no more code snippets or tutorials. (Well only for a while.) I realized most of my readers aren’t interested in coding so I decided to change up the content. I am going to tell stories about myself.&lt;/p&gt;
-
-&lt;h1 id=&quot;primary-school&quot;&gt;Primary School&lt;/h1&gt;
-
-&lt;p&gt;Exactly 10 years ago, I started primary school. Back then, my favorite subjects were Art and ICT (basically computer class). Mainly because there weren’t any tests and exams. To clarify I’m not the kid with straight A’s, or the kid who’s talented in sports. But I am the kid who hated exams and tests especially dictations.&lt;/p&gt;
-
-&lt;h3 id=&quot;art-class&quot;&gt;Art class&lt;/h3&gt;
-
-&lt;p&gt;I like art because it was fun. I remembered once I made a cardboard robot with red pockets with my friends. I enjoyed the process of making something physical from start to finish.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Everything is Art&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;I saw a youtube video explaining how someone put a blank white painting in an art gallery and sold it for millions of dollars. So I thought it would be easy to score an A, as there are a lot of empty white pages in my sketchbook. Well expectations never equal to reality. I learned that from the hard way.&lt;/p&gt;
-
-&lt;p&gt;In reality my art grades were C’s.&lt;/p&gt;
-
-&lt;h2 id=&quot;computer-class&quot;&gt;Computer class&lt;/h2&gt;
-
-&lt;p&gt;In the beginning, I hated computer classes. They were so boring and repetive, each lesson teachers just explain some basic functions of the computer such as what is copy and paste.&lt;/p&gt;
-
-&lt;p&gt;But, as we started to learn scratch I started to build up my curiosity on writing simple block codes. It was extremely fun as I could basically control the cat, what it does, where it goes. Later on I participated in competitions to enhance my skills. I even won a few awards.&lt;/p&gt;
-
-&lt;p&gt;The awards I got might be small comparing them to other people’s. But these small achievements sparked joy, because someone verified my product, they think it’s good. Now that’s something big.&lt;/p&gt;
-
-&lt;h1 id=&quot;end&quot;&gt;END&lt;/h1&gt;
-
-&lt;p&gt;If you have any further question you can always email me at &lt;a href=&quot;mailto:melanie@melaniehsieh.com&quot;&gt;melanie@melaniehsieh.com&lt;/a&gt; or find me on &lt;a href=&quot;https://github.com/melaniehsieh&quot;&gt;Github&lt;/a&gt; or &lt;a href=&quot;https://twitter.com/melaniehsieh&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Please subscibe to my weekly blog to get the latest updates.&lt;/p&gt;
-
-&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name></name></author><summary type="html">I am starting a new series! Yes, no more code snippets or tutorials. (Well only for a while.) I realized most of my readers aren’t interested in coding so I decided to change up the content. I am going to tell stories about myself.</summary></entry><entry><title type="html">Debugging</title><link href="http://localhost:4000/coding/2020/04/10/debug.html" rel="alternate" type="text/html" title="Debugging" /><published>2020-04-10T13:00:04+08:00</published><updated>2020-04-10T13:00:04+08:00</updated><id>http://localhost:4000/coding/2020/04/10/debug</id><content type="html" xml:base="http://localhost:4000/coding/2020/04/10/debug.html">&lt;p&gt;During the COVID-19 pandemic, schools ended early (but students still need to go to lessons online via Zoom). In April, starting this week, I have an Easter Break that lasts for 2 full weeks. Initially, it was meant to be a break so people can go outside and relax, but now everything seems to change. No one could go outside, go on vacations as most countries are in &lt;em&gt;lock-down mode&lt;/em&gt;, hangout with friends. So the only option is to stay at home. During the break I continued on my project - Subtle, the Todo App.&lt;/p&gt;
+&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name></name></author><summary type="html">As Melanie Hsieh once said:</summary></entry><entry><title type="html">Debugging</title><link href="http://localhost:4000/coding/2020/04/10/debug.html" rel="alternate" type="text/html" title="Debugging" /><published>2020-04-10T13:00:04+08:00</published><updated>2020-04-10T13:00:04+08:00</updated><id>http://localhost:4000/coding/2020/04/10/debug</id><content type="html" xml:base="http://localhost:4000/coding/2020/04/10/debug.html">&lt;p&gt;During the COVID-19 pandemic, schools ended early (but students still need to go to lessons online via Zoom). In April, starting this week, I have an Easter Break that lasts for 2 full weeks. Initially, it was meant to be a break so people can go outside and relax, but now everything seems to change. No one could go outside, go on vacations as most countries are in &lt;em&gt;lock-down mode&lt;/em&gt;, hangout with friends. So the only option is to stay at home. During the break I continued on my project - Subtle, the Todo App.&lt;/p&gt;
 
 &lt;h1 id=&quot;bugs&quot;&gt;Bugs&lt;/h1&gt;
 
@@ -616,118 +654,4 @@ See if you can find me…🤣&lt;/p&gt;
 
 &lt;p&gt;If you have any further question you can always email me at &lt;a href=&quot;mailto:melanie@melaniehsieh.com&quot;&gt;melanie@melaniehsieh.com&lt;/a&gt; or find me on &lt;a href=&quot;https://github.com/melaniehsieh&quot;&gt;Github&lt;/a&gt; or &lt;a href=&quot;https://twitter.com/melaniehsieh&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name></name></author><summary type="html">From last week’s blog, we introduced the front end design of the app. This week we will be going through the back end of the app.</summary></entry><entry><title type="html">Week 1 Todo App</title><link href="http://localhost:4000/coding/2020/03/27/todoapp.html" rel="alternate" type="text/html" title="Week 1 Todo App" /><published>2020-03-27T20:00:04+08:00</published><updated>2020-03-27T20:00:04+08:00</updated><id>http://localhost:4000/coding/2020/03/27/todoapp</id><content type="html" xml:base="http://localhost:4000/coding/2020/03/27/todoapp.html">&lt;p&gt;One of the project this year is to make a Todo App. If you search &lt;em&gt;todo app&lt;/em&gt; in the app store or play store there are a lot of options. However I tried a few of them, and often they are either too complicated to use, or they are just missing some functions I want. So this upcoming month, I am planning to launch my Todo App called &lt;strong&gt;Subtle&lt;/strong&gt; from scratch.&lt;/p&gt;
-
-&lt;h1 id=&quot;part-1-planning-phase&quot;&gt;Part 1: Planning Phase&lt;/h1&gt;
-
-&lt;p&gt;For the planning I used &lt;strong&gt;Adobe XD&lt;/strong&gt; to help me finalize the design. Adobe XD is a free app that helps you design the &lt;strong&gt;UI (User Interface)&lt;/strong&gt; of the app.&lt;/p&gt;
-
-&lt;p&gt;Here are a few snap shots of my app (in planning phase). I am aiming for a minimalistic app, which is simple and clean.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/todo/zoomin.png&quot; alt=&quot;zoomin&quot; width=&quot;800&quot; height=&quot;450&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;After you finalize the UI of the app, let’s move on to the code. 😉&lt;/p&gt;
-
-&lt;h1 id=&quot;part-2-front-end&quot;&gt;Part 2: Front End&lt;/h1&gt;
-
-&lt;p&gt;When creating an app there is &lt;strong&gt;Front End&lt;/strong&gt; and &lt;strong&gt;Back End&lt;/strong&gt;. Front End is the client side, where it consists of &lt;em&gt;UI&lt;/em&gt;, &lt;em&gt;color scheme&lt;/em&gt;, &lt;em&gt;UX&lt;/em&gt;. Back End is the database side, where it consists of &lt;em&gt;database&lt;/em&gt;, &lt;em&gt;schemas&lt;/em&gt;, &lt;em&gt;authentication&lt;/em&gt; and many more.&lt;/p&gt;
-
-&lt;p&gt;We will start with the &lt;strong&gt;Front End&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;tools&quot;&gt;Tools&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;React Native (A programming language developed by &lt;em&gt;Facebook&lt;/em&gt;, it isn’t a native language which means it doesn’t use &lt;em&gt;Swift&lt;/em&gt;, &lt;em&gt;Java&lt;/em&gt; or &lt;em&gt;Kotlin&lt;/em&gt;. But it uses &lt;em&gt;Javascript&lt;/em&gt; and &lt;em&gt;Typescript&lt;/em&gt; to build apps that are available for both IOS and Android devices 😀 )&lt;/li&gt;
-  &lt;li&gt;VS Code (Code Editor, I want to switch to &lt;em&gt;Vim&lt;/em&gt; but I don’t have time to learn and install all the bundles and depencies, so I am sticking with VS Code)&lt;/li&gt;
-  &lt;li&gt;iTerm (Terminal)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;part-3-setting-up&quot;&gt;Part 3: Setting Up&lt;/h1&gt;
-
-&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nx&quot;&gt;npm&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;install&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;expo&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;cli&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;--&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;global&lt;/span&gt;
-&lt;span class=&quot;nx&quot;&gt;expo&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;init&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;newProject&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;//your project name&lt;/span&gt;
-&lt;span class=&quot;nx&quot;&gt;cd&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;newProject&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;//your project name&lt;/span&gt;
-&lt;span class=&quot;nx&quot;&gt;expo&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;start&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;I used expo to setup my project. Expo is a tool that can help you build a React Native app quickly, there is also an app (Expo) which you can install on your phone to render your app live.&lt;/p&gt;
-
-&lt;h2 id=&quot;doubletap&quot;&gt;DoubleTap&lt;/h2&gt;
-
-&lt;p&gt;I replaced the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;TouchableOpacity&lt;/code&gt; button with &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DoubleTap&lt;/code&gt;. So when you double tap the screen it will submit the todo item to the database.&lt;/p&gt;
-
-&lt;div class=&quot;language-typescript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;DoubleTapButton&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;onDoubleTap&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;children&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;})&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;onHandlerStateChange&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;({&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;nativeEvent&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;})&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;nativeEvent&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;state&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;===&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;State&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;ACTIVE&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-      &lt;span class=&quot;nx&quot;&gt;onDoubleTap&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;onDoubleTap&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
-    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-  &lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
-
-  &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
-    &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;TapGestureHandler&lt;/span&gt;
-      &lt;span class=&quot;nx&quot;&gt;onHandlerStateChange&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;onHandlerStateChange&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-      &lt;span class=&quot;nx&quot;&gt;numberOfTaps&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-    &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;
-      &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;children&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-    &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;/TapGestureHandler&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;&amp;gt;
-&lt;/span&gt;  &lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;onsubmit&quot;&gt;onSubmit&lt;/h2&gt;
-
-&lt;p&gt;Create a simple &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;TextInput&lt;/code&gt; and call &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DoubleTap&lt;/code&gt;. When you double tap the screen, the item in the text input should call a function &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;this.onSubmit&lt;/code&gt;. It should console log the item on your terminal.&lt;/p&gt;
-
-&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nx&quot;&gt;onSubmit&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;todo&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;na&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;state&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-    &lt;span class=&quot;na&quot;&gt;status&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;state&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;status&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-    &lt;span class=&quot;na&quot;&gt;date&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;state&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;date&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-  &lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
-
-  &lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;todo&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-
-  &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;setState&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt;
-    &lt;span class=&quot;na&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-    &lt;span class=&quot;na&quot;&gt;visible&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;!&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;state&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;visible&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-  &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;addtodo&quot;&gt;AddTodo&lt;/h2&gt;
-
-&lt;p&gt;I added an &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;if...else&lt;/code&gt; statement so it could switch pages easily. Not sure if this is the most effective way. I am planning to use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Routes&lt;/code&gt; next time just to test different methods out.&lt;/p&gt;
-
-&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;DoubleTapButton&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;onDoubleTap&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;onSubmit&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;View&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;style&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;styles&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;container&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;state&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;fontLoaded&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;?&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
-      &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;View&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;
-        &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;state&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;visible&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;?&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
-          &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;View&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;
-            &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;Text&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;Welcome&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;/Text&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;&amp;gt;
-&lt;/span&gt;          &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;/View&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;&amp;gt;
-&lt;/span&gt;        &lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
-          &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;View&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;
-            &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;TextInput&lt;/span&gt;
-              &lt;span class=&quot;nx&quot;&gt;style&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;styles&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-              &lt;span class=&quot;nx&quot;&gt;onChangeText&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;setState&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;title&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;})}&lt;/span&gt;
-              &lt;span class=&quot;nx&quot;&gt;value&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;state&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-              &lt;span class=&quot;nx&quot;&gt;placeholder&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;today i will...&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
-            &lt;span class=&quot;o&quot;&gt;/&amp;gt;&lt;/span&gt;
-          &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;/View&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;&amp;gt;
-&lt;/span&gt;        &lt;span class=&quot;p&quot;&gt;)}&lt;/span&gt;
-      &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;/View&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;&amp;gt;
-&lt;/span&gt;    &lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;null&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-  &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;/View&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;&amp;gt;
-&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;/DoubleTapButton&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;&amp;gt;
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h1 id=&quot;end&quot;&gt;END&lt;/h1&gt;
-
-&lt;p&gt;This blog gave you a simple tutorial on starting and adding features to your Todo App.&lt;/p&gt;
-
-&lt;p&gt;I have put the full source code for this week’s tutorial on &lt;strong&gt;&lt;a href=&quot;https://github.com/melaniehsieh/subtle&quot;&gt;Github&lt;/a&gt;&lt;/strong&gt;. Good Luck!&lt;/p&gt;
-
-&lt;p&gt;If you have any further question you can always email me at &lt;a href=&quot;mailto:melanie@melaniehsieh.com&quot;&gt;melanie@melaniehsieh.com&lt;/a&gt; or find me on &lt;a href=&quot;https://github.com/melaniehsieh&quot;&gt;Github&lt;/a&gt; or &lt;a href=&quot;https://twitter.com/melaniehsieh&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name></name></author><summary type="html">One of the project this year is to make a Todo App. If you search todo app in the app store or play store there are a lot of options. However I tried a few of them, and often they are either too complicated to use, or they are just missing some functions I want. So this upcoming month, I am planning to launch my Todo App called Subtle from scratch.</summary></entry></feed>
+&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name></name></author><summary type="html">From last week’s blog, we introduced the front end design of the app. This week we will be going through the back end of the app.</summary></entry></feed>
