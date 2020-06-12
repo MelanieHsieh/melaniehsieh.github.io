@@ -2,7 +2,7 @@
 layout: post
 title: "42 Days | 6 weeks"
 subtitle: "My 42 Days challenge to start an launch a project."
-date: 2020-05-08 09:48:04 +0800
+date: 2020-05-15 09:48:04 +0800
 background: "/img/4wall.jpg"
 categories: Projects
 comments: true
