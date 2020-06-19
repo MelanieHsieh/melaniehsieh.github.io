@@ -1,4 +1,59 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-06-12T20:24:23+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Project Minimal</title><entry><title type="html">Week 4</title><link href="http://localhost:4000/projects/2020/06/12/week4.html" rel="alternate" type="text/html" title="Week 4" /><published>2020-06-12T07:28:04+08:00</published><updated>2020-06-12T07:28:04+08:00</updated><id>http://localhost:4000/projects/2020/06/12/week4</id><content type="html" xml:base="http://localhost:4000/projects/2020/06/12/week4.html">&lt;p&gt;This week’s been productive!&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-06-19T20:41:36+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Project Minimal</title><entry><title type="html">Week 5</title><link href="http://localhost:4000/projects/2020/06/19/week5.html" rel="alternate" type="text/html" title="Week 5" /><published>2020-06-19T08:28:04+08:00</published><updated>2020-06-19T08:28:04+08:00</updated><id>http://localhost:4000/projects/2020/06/19/week5</id><content type="html" xml:base="http://localhost:4000/projects/2020/06/19/week5.html">&lt;p&gt;It’s now Week 5, time flew by and I only have less than 2 weeks to launch version 1 of &lt;strong&gt;Cashrithm&lt;/strong&gt;. As the deadline gets closer and closer, I can slowly feel the pressure. I’m blaming the pressure on the 42 days challenge I started. Not only do I have to keep the promise I made but also I really wanted to reach my milestone.&lt;/p&gt;
+
+&lt;p&gt;This week was not fun at all, not only do I need to balance my school works but debugging takes forever to get debugged… (Someday when I have the capacity to hire someone, I will definetly hire a debugger. Hear me out.)&lt;/p&gt;
+
+&lt;h1 id=&quot;mvp&quot;&gt;MVP&lt;/h1&gt;
+
+&lt;p&gt;This week I want to introduce a new concept – MVP. MVP stands for &lt;strong&gt;minimum viable product&lt;/strong&gt;, not most valuable player. As a high school programmer and engineerer my connections are pretty limited, let’s be honest I only have less than 10 connections on Linkedin.&lt;/p&gt;
+
+&lt;p&gt;Besides, that is not the main point. The main point is if you are the general public, &lt;em&gt;cough cough&lt;/em&gt; me included, you and I will not care about the process, but the outcome, the final product and is it useful.&lt;/p&gt;
+
+&lt;p&gt;On the other hand, as a 16 year old high schooler my resources are pretty limited. No experience, No team members (yes, I am a solo developer for now, if you want to help out please email me), No money. To sum it up, all I have is time and passion.&lt;/p&gt;
+
+&lt;p&gt;So how can I leverage my resources properly but also meet the market need (produce a product)?&lt;/p&gt;
+
+&lt;h2 id=&quot;step-1-list-out-all-the-must-have-features&quot;&gt;Step 1: List out all the must have features.&lt;/h2&gt;
+
+&lt;p&gt;Assuming you already have an idea in mind, I will recommend list out all the compulsory features. Make sure they are minimum, removing as many extra features, those aren’t that important for now because they can be added once your MVP is completed.&lt;/p&gt;
+
+&lt;p&gt;For example:
+In this project, one of the must-have feature is a database that could store user’s information and sheet information.&lt;/p&gt;
+
+&lt;h2 id=&quot;step-2-find-simple-open-source-tools&quot;&gt;Step 2: Find Simple Open-Source tools.&lt;/h2&gt;
+
+&lt;p&gt;Let’s say you want to make a chair there are 3 plans.&lt;/p&gt;
+
+&lt;p&gt;Plan A: You make the hammer by yourself by cutting down wood and finding a malleable rock. Then you use the hammer to build the chair.&lt;/p&gt;
+
+&lt;p&gt;Plan B: You purchase the hammer, and use it to build the chair.&lt;/p&gt;
+
+&lt;p&gt;Plan C: You purchase the chair. (But you don’t have enough money…)💸&lt;/p&gt;
+
+&lt;p&gt;Linking that back to coding, Plan B seems to work the best out of the three. So instead of building everything from scratch, the hammer, you use tools that are made prior to your project. In my case Open-Source, there are many open-source materials in the internet decreasing your production time by half but they are also easy to use and free.&lt;/p&gt;
+
+&lt;h2 id=&quot;step-3-test-run&quot;&gt;Step 3: Test Run&lt;/h2&gt;
+
+&lt;p&gt;Before submitting your project, test run your application. Do a final checkup on every single funciton and detail, make sure everything runs smoothly, before launching.&lt;/p&gt;
+
+&lt;h1 id=&quot;progress-update-week-5-&quot;&gt;Progress Update: Week 5 📊&lt;/h1&gt;
+
+&lt;p&gt;This week, I tackled a few of the boring tasks. Debugging, debugging and debugging. Simple but boring. Will be adding more MVP features in the upcoming weeks, including csv file upload and many more.&lt;/p&gt;
+
+&lt;h3 id=&quot;removed-previous-errors-and-bugs-&quot;&gt;Removed previous errors and bugs ✅&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The application can now add multiple sheet&lt;/li&gt;
+  &lt;li&gt;Link directly to the database, Firebase Firestore&lt;/li&gt;
+  &lt;li&gt;View data sheet by sheet id&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;end&quot;&gt;END&lt;/h1&gt;
+
+&lt;p&gt;If you have any further question you can always email me at &lt;a href=&quot;mailto:melanie@melaniehsieh.com&quot;&gt;melanie@melaniehsieh.com&lt;/a&gt; or find me on &lt;a href=&quot;https://github.com/melaniehsieh&quot;&gt;Github&lt;/a&gt; or &lt;a href=&quot;https://twitter.com/melaniehsieh&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Please subscibe to my weekly blog to get the latest updates.&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name></name></author><summary type="html">It’s now Week 5, time flew by and I only have less than 2 weeks to launch version 1 of Cashrithm. As the deadline gets closer and closer, I can slowly feel the pressure. I’m blaming the pressure on the 42 days challenge I started. Not only do I have to keep the promise I made but also I really wanted to reach my milestone.</summary></entry><entry><title type="html">Week 4</title><link href="http://localhost:4000/projects/2020/06/12/week4.html" rel="alternate" type="text/html" title="Week 4" /><published>2020-06-12T07:28:04+08:00</published><updated>2020-06-12T07:28:04+08:00</updated><id>http://localhost:4000/projects/2020/06/12/week4</id><content type="html" xml:base="http://localhost:4000/projects/2020/06/12/week4.html">&lt;p&gt;This week’s been productive!&lt;/p&gt;
 
 &lt;p&gt;Throughout this 7 days, I have been working and improving the design basically the user interface or user experience of my website. Although previously I’ve already designed the mockup, but after a bit of research and a bit of experimenting with the color schemes, I’ve decided to redo my design. It was a big commitment as I basically redo the whole entire website, which took me around 4+ hours to finish it!&lt;/p&gt;
 
@@ -485,70 +540,4 @@ See if you can find me…🤣&lt;/p&gt;
 
 &lt;p&gt;Please subscibe to my weekly blog to get the latest updates.&lt;/p&gt;
 
-&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name></name></author><summary type="html">As Melanie Hsieh once said:</summary></entry><entry><title type="html">Debugging</title><link href="http://localhost:4000/coding/2020/04/10/debug.html" rel="alternate" type="text/html" title="Debugging" /><published>2020-04-10T13:00:04+08:00</published><updated>2020-04-10T13:00:04+08:00</updated><id>http://localhost:4000/coding/2020/04/10/debug</id><content type="html" xml:base="http://localhost:4000/coding/2020/04/10/debug.html">&lt;p&gt;During the COVID-19 pandemic, schools ended early (but students still need to go to lessons online via Zoom). In April, starting this week, I have an Easter Break that lasts for 2 full weeks. Initially, it was meant to be a break so people can go outside and relax, but now everything seems to change. No one could go outside, go on vacations as most countries are in &lt;em&gt;lock-down mode&lt;/em&gt;, hangout with friends. So the only option is to stay at home. During the break I continued on my project - Subtle, the Todo App.&lt;/p&gt;
-
-&lt;h1 id=&quot;bugs&quot;&gt;Bugs&lt;/h1&gt;
-
-&lt;p&gt;This morning I was going on Instagram, and I saw a post about &lt;strong&gt;Types of people during Quarantine&lt;/strong&gt;. There are a few that caught my eye, such as &lt;em&gt;the introverts&lt;/em&gt;, &lt;em&gt;the freelancers&lt;/em&gt; and &lt;em&gt;the heros&lt;/em&gt;. But then I thought about programmers/developers.&lt;/p&gt;
-
-&lt;p&gt;As a beginner programmer, the ONE THING that ruins my day is &lt;strong&gt;BUG(s)&lt;/strong&gt;. They usually come in the color red, with a vague caption on the top that usually reads &lt;strong&gt;TypeError: Cannot read proprety ‘xxx’ of undefined&lt;/strong&gt;. Let me show you how &lt;strong&gt;BUGS&lt;/strong&gt; affect my daily mood. 😁😡&lt;/p&gt;
-
-&lt;h1 id=&quot;here-is-a-day-in-the-life-of-a-programmer-beginner-version-&quot;&gt;Here is A Day in the Life of a Programmer (beginner version) :&lt;/h1&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;😁 - I run the code, it runs smoothly 👏(congrats)&lt;/li&gt;
-  &lt;li&gt;😁 - I start to add new features&lt;/li&gt;
-  &lt;li&gt;😡 - I run the code again and something red pops up.&lt;/li&gt;
-  &lt;li&gt;😡 - I google the bug, look at my code and do some corrections&lt;/li&gt;
-  &lt;li&gt;😡 - Continue &lt;strong&gt;Step 5 and 6&lt;/strong&gt; over and over again until nothing red shows up, sometimes it might not be an error but the outcome isn’t what I was expecting. On average it takes me 2 hours to debug one singe bug. (Quite time consuming…)&lt;/li&gt;
-  &lt;li&gt;😑 - If I can’t debug the code, I usually do something else (i.e. Eat lunch, sleep, watch YouTube)&lt;/li&gt;
-  &lt;li&gt;😁 - Finally, I solved the bug&lt;/li&gt;
-  &lt;li&gt;😑 - I repeat the steps all over again&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;As you can see, my mood swings a lot. Quite drastically, from happy to mad, back to happy and back to mad. Often times I get demotivated as the code seems unsolvable. But I found a few tips and tricks to debug my code.&lt;/p&gt;
-
-&lt;h1 id=&quot;5-ways-to-debug-your-code&quot;&gt;5 Ways to Debug your code&lt;/h1&gt;
-
-&lt;h3 id=&quot;1-use-consolelog&quot;&gt;1. Use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;console.log()&lt;/code&gt;&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;In javascript it’s &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;console.log()&lt;/code&gt;, in python it’s &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;print&lt;/code&gt;.&lt;/li&gt;
-  &lt;li&gt;It prints out the value of a variable you’re declaring in the console&lt;/li&gt;
-  &lt;li&gt;It is an effective way to check your variables, methods, and function. Making sure they are working perfectly, if not it can also pinpoint the error.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;2-use-google&quot;&gt;2. Use Google&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Many programming languages have existed for a decade or longer, many problems you faced were also faced by many people&lt;/li&gt;
-  &lt;li&gt;Websites such as Stack Overflow, Github, MDN web docs (if you are using javascript) are great ways to find solutions for your bug&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;3-go-on-youtube&quot;&gt;3. Go on Youtube&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;On Youtube, you can find videos that teaches you how to code from scratch&lt;/li&gt;
-  &lt;li&gt;You can reference some of their codes to your project&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;4-ask-a-friend&quot;&gt;4. Ask a friend&lt;/h3&gt;
-
-&lt;p&gt;If you are like me who doesn’t have friends that code, use online platforms.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Discord, join public servers and ask questions. Many people in the server are more experienced than you.&lt;/li&gt;
-  &lt;li&gt;Reddit, post your question on specific categories or just search for similar bugs and see the responses.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;5-sleep&quot;&gt;5. Sleep&lt;/h3&gt;
-
-&lt;p&gt;Many times, I take breaks in between just to relax my brain cells (kinda). For me the best thing is just to take a break. Often times I think of alternative ways to solve the bug or even different ways to get the final results.&lt;/p&gt;
-
-&lt;h1 id=&quot;end&quot;&gt;END&lt;/h1&gt;
-
-&lt;p&gt;This blog gave you some simple tips and tricks on debugging when you face bugs.&lt;/p&gt;
-
-&lt;p&gt;If you have any further question or any other methods you can always email me at &lt;a href=&quot;mailto:melanie@melaniehsieh.com&quot;&gt;melanie@melaniehsieh.com&lt;/a&gt; or find me on &lt;a href=&quot;https://github.com/melaniehsieh&quot;&gt;Github&lt;/a&gt; or &lt;a href=&quot;https://twitter.com/melaniehsieh&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name></name></author><summary type="html">During the COVID-19 pandemic, schools ended early (but students still need to go to lessons online via Zoom). In April, starting this week, I have an Easter Break that lasts for 2 full weeks. Initially, it was meant to be a break so people can go outside and relax, but now everything seems to change. No one could go outside, go on vacations as most countries are in lock-down mode, hangout with friends. So the only option is to stay at home. During the break I continued on my project - Subtle, the Todo App.</summary></entry></feed>
+&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name></name></author><summary type="html">As Melanie Hsieh once said:</summary></entry></feed>
