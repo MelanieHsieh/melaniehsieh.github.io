@@ -1,4 +1,46 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-06-19T20:41:36+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Project Minimal</title><entry><title type="html">Week 5</title><link href="http://localhost:4000/projects/2020/06/19/week5.html" rel="alternate" type="text/html" title="Week 5" /><published>2020-06-19T08:28:04+08:00</published><updated>2020-06-19T08:28:04+08:00</updated><id>http://localhost:4000/projects/2020/06/19/week5</id><content type="html" xml:base="http://localhost:4000/projects/2020/06/19/week5.html">&lt;p&gt;It’s now Week 5, time flew by and I only have less than 2 weeks to launch version 1 of &lt;strong&gt;Cashrithm&lt;/strong&gt;. As the deadline gets closer and closer, I can slowly feel the pressure. I’m blaming the pressure on the 42 days challenge I started. Not only do I have to keep the promise I made but also I really wanted to reach my milestone.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-06-26T18:48:07+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Project Minimal</title><entry><title type="html">Week 6</title><link href="http://localhost:4000/projects/2020/06/26/week6.html" rel="alternate" type="text/html" title="Week 6" /><published>2020-06-26T08:42:43+08:00</published><updated>2020-06-26T08:42:43+08:00</updated><id>http://localhost:4000/projects/2020/06/26/week6</id><content type="html" xml:base="http://localhost:4000/projects/2020/06/26/week6.html">&lt;p&gt;Today is the 26th of June, 4 more days left until Cashrithm is launched.😬&lt;/p&gt;
+
+&lt;p&gt;It’s the final week and I haven’t explained the website thoroughly 😂. So this week I have decided to introduce the application I’ve been building for the last 38 days.&lt;/p&gt;
+
+&lt;h1 id=&quot;cashrithm&quot;&gt;Cashrithm&lt;/h1&gt;
+
+&lt;p&gt;Cashrithm, a mix of &lt;strong&gt;Cash&lt;/strong&gt; and &lt;strong&gt;algorithm&lt;/strong&gt; aims to support and help small and medium entreprises to track their cashflow using pre-written algorithms. Aiming to provide an accurate data analysis and feedback to the user, reduce their time and effort to track their expenses, or revenue but focus more on their customer or product.&lt;/p&gt;
+
+&lt;h1 id=&quot;overview&quot;&gt;Overview&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;How it works:&lt;/strong&gt; Cashrithm is a simple website that provides a platform for users to upload their data in csv format, process data with pre-written algorithms and functions then provide an accurate summary of the data such as summing up the Revenue, categorize the Expense and many more.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/42days/home.png&quot; alt=&quot;home&quot; width=&quot;700&quot; /&gt;
+&lt;em&gt;This is a minimal Dashboard that users will see after Login.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/42days/add.png&quot; alt=&quot;add&quot; width=&quot;700&quot; /&gt;
+&lt;em&gt;When you click on the plus button in the Dashboard page, it will direct you to the Add Data page which allow users to upload their csv files.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/42days/sheet.png&quot; alt=&quot;sheet&quot; width=&quot;700&quot; /&gt;
+&lt;em&gt;When you click on the created data item it will direct you to a page that displays all the data, categories. Currently this page is still the first version, I will update the UX/UI of this page later.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;why&quot;&gt;Why&lt;/h1&gt;
+
+&lt;p&gt;Why did I create this website? To be honest this idea came from my mom’s friend. It may seem obvious as I have zero experience and knowledge in accountant and finance. But the main reason why I have decided to make this website from scratch is for &lt;strong&gt;fun&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;In the beginning, I actually had the thought of earning a ton of money with this website, but as I started the coding journey the idea of earning money seemed a bit too far and stretched. So instead I took this challenge as a learning journey. I understood more in the backend side of the application such as database, user authentication.&lt;/p&gt;
+
+&lt;h1 id=&quot;progress-update-week-6-&quot;&gt;Progress Update: Week 6 📊&lt;/h1&gt;
+
+&lt;p&gt;Nothing new was added, but I made the application more scalable as I coded a few functions that could sum up the value, or categorize values when the functions are called.&lt;/p&gt;
+
+&lt;h3 id=&quot;function-algorithms-&quot;&gt;Function Algorithms ✅&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Sum Algorithm&lt;/li&gt;
+  &lt;li&gt;Category Algorithm based on Vender&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you have any further question you can always email me at &lt;a href=&quot;mailto:melanie@melaniehsieh.com&quot;&gt;melanie@melaniehsieh.com&lt;/a&gt; or find me on &lt;a href=&quot;https://github.com/melaniehsieh&quot;&gt;Github&lt;/a&gt; or &lt;a href=&quot;https://twitter.com/melaniehsieh&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Please subscibe to my weekly blog to get the latest updates.&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name></name></author><summary type="html">Today is the 26th of June, 4 more days left until Cashrithm is launched.😬</summary></entry><entry><title type="html">Week 5</title><link href="http://localhost:4000/projects/2020/06/19/week5.html" rel="alternate" type="text/html" title="Week 5" /><published>2020-06-19T08:28:04+08:00</published><updated>2020-06-19T08:28:04+08:00</updated><id>http://localhost:4000/projects/2020/06/19/week5</id><content type="html" xml:base="http://localhost:4000/projects/2020/06/19/week5.html">&lt;p&gt;It’s now Week 5, time flew by and I only have less than 2 weeks to launch version 1 of &lt;strong&gt;Cashrithm&lt;/strong&gt;. As the deadline gets closer and closer, I can slowly feel the pressure. I’m blaming the pressure on the 42 days challenge I started. Not only do I have to keep the promise I made but also I really wanted to reach my milestone.&lt;/p&gt;
 
 &lt;p&gt;This week was not fun at all, not only do I need to balance my school works but debugging takes forever to get debugged… (Someday when I have the capacity to hire someone, I will definetly hire a debugger. Hear me out.)&lt;/p&gt;
 
@@ -483,61 +525,4 @@ Since Version 1.0 is the bare bone skeleton of the structure of the program, Ver
 
 &lt;p&gt;Please subscibe to my weekly blog to get the latest updates.&lt;/p&gt;
 
-&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name></name></author><summary type="html">I am starting a new series! Yes, no more code snippets or tutorials. (Well only for a while.) I realized most of my readers aren’t interested in coding so I decided to change up the content. I am going to tell stories about myself.</summary></entry><entry><title type="html">Chapter 2: Middle School</title><link href="http://localhost:4000/journal/2020/04/17/hackathon.html" rel="alternate" type="text/html" title="Chapter 2: Middle School" /><published>2020-04-17T15:00:04+08:00</published><updated>2020-04-17T15:00:04+08:00</updated><id>http://localhost:4000/journal/2020/04/17/hackathon</id><content type="html" xml:base="http://localhost:4000/journal/2020/04/17/hackathon.html">&lt;p&gt;As Melanie Hsieh once said:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Big things must start from small things, and small things are usually simple things.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;(That’s a lot of “things” repeated in the same quote. 😂)&lt;/p&gt;
-
-&lt;p&gt;In the first year of Middle School, I saw a friend of mine coding. When I looked at his computer, I was blowned away. From my primary school experiences I thought coding was just block codes, with a cat hovering on a screen. But he was writing script codes. He was coding in simple HTML and a bit of CSS. This was my first experience in actual real coding. 👩‍💻️&lt;/p&gt;
-
-&lt;p&gt;That sparked my curiosity in understanding and exploring tech and coding more in depth. I was getting serious abount this hobby. 😁&lt;/p&gt;
-
-&lt;h1 id=&quot;hackathon&quot;&gt;Hackathon&lt;/h1&gt;
-
-&lt;p&gt;Around November, our school hosted a Hackathon. Hackathon is basically a 2-day event where students participate this event to get exposure to different coding possivility and a 1-day build day where we present our business ideas to judges about our product.&lt;/p&gt;
-
-&lt;p&gt;Back then I just started pure, simple HTML. I only know how to add headings, text and simple styling to my website. Basically &lt;strong&gt;zero&lt;/strong&gt; experience in coding.&lt;/p&gt;
-
-&lt;h1 id=&quot;day-1-workshop&quot;&gt;Day 1: Workshop&lt;/h1&gt;
-
-&lt;p&gt;It was a Friday and I forced two of my friends to join me in this Hackathon. The only reason why they joined this event wasn’t because they are interested in coding but because we get to skip school.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/hackathon/esf.jpg&quot; alt=&quot;esf&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Every big event starts with a speech. It was kinda long to be honest, one hour (I have short patience span). But after the boring bit, the fun part begins – &lt;strong&gt;the workshop&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;We got to choose 6 workshops to participate over the course, hosted by different coding organizations in Hong Kong. Ranging from simple tutorials on creating a web or app, to making a game from scratch. It didn’t go in depth as every session only took an hour, but there’s one workshop that blew my mind 🤯, it was a tutorial on making an app with Javascript.&lt;/p&gt;
-
-&lt;p&gt;It was a pokemon app, (yes, back then pokemon go was still a big trend) that simply shows images of pokemons when you tap the screen. I didn’t learn much from this workshop session as everything is still brand new to me, but it made me feel cooler than I was before. When I showed my app to my friends, I felt a sense of accomplishment. Because I know how to code and they don’t.&lt;/p&gt;
-
-&lt;p&gt;At that time, I would consider myself as a &lt;strong&gt;nerd&lt;/strong&gt; 🤓 (I think I still am). I enjoyed everything related to tech. So I find this new hobby, coding extremely suitable to my interest.&lt;/p&gt;
-
-&lt;h1 id=&quot;day-2-coding-time-️&quot;&gt;Day 2: Coding time 👩‍💻️&lt;/h1&gt;
-
-&lt;p&gt;In groups of 4, we started our actual &lt;strong&gt;Hackathon&lt;/strong&gt;. We came up with a business idea and started to work on it. Someone is responisible on the presentation, someone is responsible on the app design, and someone is responisble on the marketing side.&lt;/p&gt;
-
-&lt;p&gt;Not knowing anything related to marketing and economics/business, my main focus was the marketing side. I made a simple website to promote our business idea, which was a platform that allows users to share items between each other. Spare the details cause I simply can’t remember any of them.&lt;/p&gt;
-
-&lt;p&gt;Let’s talk about the website, it was the first website I’ve ever made. 👏 It was a blue background web page that has 2 sentences explaining our business idea, and a huge section introducing members of our team, and a &lt;strong&gt;Terms and Condition Section&lt;/strong&gt; made up on the spot by my friend Gemma.&lt;/p&gt;
-
-&lt;p&gt;Things never go the way as we planned, and during the hackathon we faced a lot of problems. Especially as a beginner, with zero experience and knowledge. There were times where we got distracted in Papa’s Pizzeria, there were times where we have no clue what we were doing, and there were times where we were demotivated when other teams got a better product, a more professional website than our team. But I still enjoyed the process on working with different people, and comes up with a business idea in one single day.&lt;/p&gt;
-
-&lt;h1 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h1&gt;
-
-&lt;p&gt;In the end, surprisingly we won an award on best idea. Each of us won a gift voucher for a free course from one of the coding org. But after this event, I gained a lot more insights on tech, especially when I realized that coding is much wider and deeper than I thought originially.&lt;/p&gt;
-
-&lt;p&gt;In the future, I will build up my skills on coding and join more competitve Hackathons where teams have to come up with a product and a plan in a certain amount of time period. Most importantly, have better prizes other than vouchers that is only limited to their company.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/hackathon/group.jpg&quot; alt=&quot;group&quot; width=&quot;700&quot; /&gt;
-See if you can find me…🤣&lt;/p&gt;
-
-&lt;h1 id=&quot;end&quot;&gt;END&lt;/h1&gt;
-
-&lt;p&gt;If you have any further question you can always email me at &lt;a href=&quot;mailto:melanie@melaniehsieh.com&quot;&gt;melanie@melaniehsieh.com&lt;/a&gt; or find me on &lt;a href=&quot;https://github.com/melaniehsieh&quot;&gt;Github&lt;/a&gt; or &lt;a href=&quot;https://twitter.com/melaniehsieh&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Please subscibe to my weekly blog to get the latest updates.&lt;/p&gt;
-
-&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name></name></author><summary type="html">As Melanie Hsieh once said:</summary></entry></feed>
+&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name></name></author><summary type="html">I am starting a new series! Yes, no more code snippets or tutorials. (Well only for a while.) I realized most of my readers aren’t interested in coding so I decided to change up the content. I am going to tell stories about myself.</summary></entry></feed>
