@@ -1,4 +1,50 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-06-26T18:48:07+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Project Minimal</title><entry><title type="html">Week 6</title><link href="http://localhost:4000/projects/2020/06/26/week6.html" rel="alternate" type="text/html" title="Week 6" /><published>2020-06-26T08:42:43+08:00</published><updated>2020-06-26T08:42:43+08:00</updated><id>http://localhost:4000/projects/2020/06/26/week6</id><content type="html" xml:base="http://localhost:4000/projects/2020/06/26/week6.html">&lt;p&gt;Today is the 26th of June, 4 more days left until Cashrithm is launched.😬&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-07-03T19:58:00+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Project Minimal</title><entry><title type="html">42 Days Challenge Complete</title><link href="http://localhost:4000/projects/2020/07/03/42complete.html" rel="alternate" type="text/html" title="42 Days Challenge Complete" /><published>2020-07-03T06:42:43+08:00</published><updated>2020-07-03T06:42:43+08:00</updated><id>http://localhost:4000/projects/2020/07/03/42complete</id><content type="html" xml:base="http://localhost:4000/projects/2020/07/03/42complete.html">&lt;p&gt;About 6 weeks ago, I started the 42 Days Challenge, and now the challenge has ended.&lt;/p&gt;
+
+&lt;p&gt;I still remebered on my 42 Days Challenge blog, I set myself a target: to launch Cashrithm. But sadly that didn’t go as planned.😢&lt;/p&gt;
+
+&lt;h1 id=&quot;here-is-what-i-learned&quot;&gt;Here is what I learned&lt;/h1&gt;
+
+&lt;h3 id=&quot;1-always-have-a-clear-plan&quot;&gt;1. Always have a clear plan&lt;/h3&gt;
+
+&lt;p&gt;Often times, in the middle of the challenge I would change my tech stack because eiter I found a better tool or I decided it was too hard to implement.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tech Stack I used for this challenge:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;React&lt;/li&gt;
+  &lt;li&gt;Firebase&lt;/li&gt;
+  &lt;li&gt;Node Express&lt;/li&gt;
+  &lt;li&gt;Git Github&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;2-research-research-research&quot;&gt;2. Research Research Research&lt;/h3&gt;
+
+&lt;p&gt;Research is extremely important especially when you are still new to this technology. See if you can find similar products from the open-source library or the internet in general and read their code. Not only will this save you time from debugging, but you can also learn from their code architect and see how you can make your program more efficient.&lt;/p&gt;
+
+&lt;h3 id=&quot;3-break-tasks-into-smaller-more-manageble-tasks&quot;&gt;3. Break tasks into smaller more manageble tasks&lt;/h3&gt;
+
+&lt;p&gt;Split the work flow into daily checklists, make them small and accomplishable. Remember your goal is to build up momentum, not finishe everything.&lt;/p&gt;
+
+&lt;h1 id=&quot;end&quot;&gt;End&lt;/h1&gt;
+
+&lt;h1 id=&quot;last-weekly-blog&quot;&gt;Last Weekly Blog&lt;/h1&gt;
+
+&lt;p&gt;This will be my last weekly blog.😢&lt;/p&gt;
+
+&lt;p&gt;Let me explain… The main reason why I decided to stop writing weekly blogs are because I need to prep for an upcoming exam. But also I’m getting bored of writing short paragraphs every week. I wouldn’t say my day-to-day life is interesting nor fun, it’s quite plain and repetitive.&lt;/p&gt;
+
+&lt;p&gt;So I’m switching up the flow. I will be doing monthly blogs instead.&lt;/p&gt;
+
+&lt;h2 id=&quot;monthly-blogs&quot;&gt;Monthly Blogs&lt;/h2&gt;
+
+&lt;p&gt;I realized monthly blogs are great alternatives. Not only will there be more content for me to write and talk about, but also I get to document the full progress of my challenging and fun projects; as they normally will be completed over a month or two. But also, I’m lazy. 😂&lt;/p&gt;
+
+&lt;p&gt;Without further a do, see you next month ~ August… 🍂🍂🍂&lt;/p&gt;
+
+&lt;p&gt;If you have any further question you can always email me at &lt;a href=&quot;mailto:melanie@melaniehsieh.com&quot;&gt;melanie@melaniehsieh.com&lt;/a&gt; or find me on &lt;a href=&quot;https://github.com/melaniehsieh&quot;&gt;Github&lt;/a&gt; or &lt;a href=&quot;https://twitter.com/melaniehsieh&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Please subscibe to my monthly blog to get the latest updates.&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading 👀. There will be a monthly blog every month on the first week of Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name></name></author><summary type="html">About 6 weeks ago, I started the 42 Days Challenge, and now the challenge has ended.</summary></entry><entry><title type="html">Week 6</title><link href="http://localhost:4000/projects/2020/06/26/week6.html" rel="alternate" type="text/html" title="Week 6" /><published>2020-06-26T08:42:43+08:00</published><updated>2020-06-26T08:42:43+08:00</updated><id>http://localhost:4000/projects/2020/06/26/week6</id><content type="html" xml:base="http://localhost:4000/projects/2020/06/26/week6.html">&lt;p&gt;Today is the 26th of June, 4 more days left until Cashrithm is launched.😬&lt;/p&gt;
 
 &lt;p&gt;It’s the final week and I haven’t explained the website thoroughly 😂. So this week I have decided to introduce the application I’ve been building for the last 38 days.&lt;/p&gt;
 
@@ -493,36 +539,4 @@ Since Version 1.0 is the bare bone skeleton of the structure of the program, Ver
 
 &lt;p&gt;Please subscibe to my weekly blog to get the latest updates.&lt;/p&gt;
 
-&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name></name></author><summary type="html">Last summer, I did a summer internship in a tech startup, MeeOpp.</summary></entry><entry><title type="html">Chapter 1: Primary School</title><link href="http://localhost:4000/journal/2020/04/17/login.html" rel="alternate" type="text/html" title="Chapter 1: Primary School" /><published>2020-04-17T15:00:04+08:00</published><updated>2020-04-17T15:00:04+08:00</updated><id>http://localhost:4000/journal/2020/04/17/login</id><content type="html" xml:base="http://localhost:4000/journal/2020/04/17/login.html">&lt;p&gt;I am starting a new series! Yes, no more code snippets or tutorials. (Well only for a while.) I realized most of my readers aren’t interested in coding so I decided to change up the content. I am going to tell stories about myself.&lt;/p&gt;
-
-&lt;h1 id=&quot;primary-school&quot;&gt;Primary School&lt;/h1&gt;
-
-&lt;p&gt;Exactly 10 years ago, I started primary school. Back then, my favorite subjects were Art and ICT (basically computer class). Mainly because there weren’t any tests and exams. To clarify I’m not the kid with straight A’s, or the kid who’s talented in sports. But I am the kid who hated exams and tests especially dictations.&lt;/p&gt;
-
-&lt;h3 id=&quot;art-class&quot;&gt;Art class&lt;/h3&gt;
-
-&lt;p&gt;I like art because it was fun. I remembered once I made a cardboard robot with red pockets with my friends. I enjoyed the process of making something physical from start to finish.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Everything is Art&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;I saw a youtube video explaining how someone put a blank white painting in an art gallery and sold it for millions of dollars. So I thought it would be easy to score an A, as there are a lot of empty white pages in my sketchbook. Well expectations never equal to reality. I learned that from the hard way.&lt;/p&gt;
-
-&lt;p&gt;In reality my art grades were C’s.&lt;/p&gt;
-
-&lt;h2 id=&quot;computer-class&quot;&gt;Computer class&lt;/h2&gt;
-
-&lt;p&gt;In the beginning, I hated computer classes. They were so boring and repetive, each lesson teachers just explain some basic functions of the computer such as what is copy and paste.&lt;/p&gt;
-
-&lt;p&gt;But, as we started to learn scratch I started to build up my curiosity on writing simple block codes. It was extremely fun as I could basically control the cat, what it does, where it goes. Later on I participated in competitions to enhance my skills. I even won a few awards.&lt;/p&gt;
-
-&lt;p&gt;The awards I got might be small comparing them to other people’s. But these small achievements sparked joy, because someone verified my product, they think it’s good. Now that’s something big.&lt;/p&gt;
-
-&lt;h1 id=&quot;end&quot;&gt;END&lt;/h1&gt;
-
-&lt;p&gt;If you have any further question you can always email me at &lt;a href=&quot;mailto:melanie@melaniehsieh.com&quot;&gt;melanie@melaniehsieh.com&lt;/a&gt; or find me on &lt;a href=&quot;https://github.com/melaniehsieh&quot;&gt;Github&lt;/a&gt; or &lt;a href=&quot;https://twitter.com/melaniehsieh&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Please subscibe to my weekly blog to get the latest updates.&lt;/p&gt;
-
-&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name></name></author><summary type="html">I am starting a new series! Yes, no more code snippets or tutorials. (Well only for a while.) I realized most of my readers aren’t interested in coding so I decided to change up the content. I am going to tell stories about myself.</summary></entry></feed>
+&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name></name></author><summary type="html">Last summer, I did a summer internship in a tech startup, MeeOpp.</summary></entry></feed>
