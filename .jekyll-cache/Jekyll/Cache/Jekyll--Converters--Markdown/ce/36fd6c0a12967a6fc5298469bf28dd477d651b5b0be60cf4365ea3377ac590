@@ -1,0 +1,131 @@
+I"C
+<h4 class="post-header" id="general">
+  general
+</h4>
+
+<article class="posts">
+  <span class="posts-date">May 08</span>
+  <header class="posts-header">
+    <h4 class="posts-title">
+      <a href="/howilearntocode/">My journey on learning to code</a>
+    </h4>
+  </header>
+</article>
+
+<article class="posts">
+  <span class="posts-date">May 01</span>
+  <header class="posts-header">
+    <h4 class="posts-title">
+      <a href="/intern/">2019 Summer Internship</a>
+    </h4>
+  </header>
+</article>
+
+<article class="posts">
+  <span class="posts-date">Apr 17</span>
+  <header class="posts-header">
+    <h4 class="posts-title">
+      <a href="/hackathon/">Chapter 2: Middle School</a>
+    </h4>
+  </header>
+</article>
+
+<article class="posts">
+  <span class="posts-date">Apr 17</span>
+  <header class="posts-header">
+    <h4 class="posts-title">
+      <a href="/login/">Chapter 1: Primary School</a>
+    </h4>
+  </header>
+</article>
+
+<article class="posts">
+  <span class="posts-date">Mar 19</span>
+  <header class="posts-header">
+    <h4 class="posts-title">
+      <a href="/corona/">COVID-19</a>
+    </h4>
+  </header>
+</article>
+
+<article class="posts">
+  <span class="posts-date">Mar 13</span>
+  <header class="posts-header">
+    <h4 class="posts-title">
+      <a href="/projectminimal/">PROJECT MINIMAL</a>
+    </h4>
+  </header>
+</article>
+
+<h4 class="post-header" id="code">
+  code
+</h4>
+
+<article class="posts">
+  <span class="posts-date">Apr 10</span>
+  <header class="posts-header">
+    <h4 class="posts-title">
+      <a href="/debug/">Debugging</a>
+    </h4>
+  </header>
+</article>
+
+<article class="posts">
+  <span class="posts-date">Apr 03</span>
+  <header class="posts-header">
+    <h4 class="posts-title">
+      <a href="/todoapp2/">Week 2 Todo App</a>
+    </h4>
+  </header>
+</article>
+
+<article class="posts">
+  <span class="posts-date">Mar 27</span>
+  <header class="posts-header">
+    <h4 class="posts-title">
+      <a href="/todoapp/">Week 1 Todo App</a>
+    </h4>
+  </header>
+</article>
+
+<h4 class="post-header" id="challenge">
+  challenge
+</h4>
+
+<article class="posts">
+  <span class="posts-date">Jul 02</span>
+  <header class="posts-header">
+    <h4 class="posts-title">
+      <a href="/42complete/">42 Days Challenge Complete</a>
+    </h4>
+  </header>
+</article>
+
+<article class="posts">
+  <span class="posts-date">May 29</span>
+  <header class="posts-header">
+    <h4 class="posts-title">
+      <a href="/week2/">Week 2</a>
+    </h4>
+  </header>
+</article>
+
+<article class="posts">
+  <span class="posts-date">May 22</span>
+  <header class="posts-header">
+    <h4 class="posts-title">
+      <a href="/week1/">Week 1</a>
+    </h4>
+  </header>
+</article>
+
+<article class="posts">
+  <span class="posts-date">May 15</span>
+  <header class="posts-header">
+    <h4 class="posts-title">
+      <a href="/42daychallenge/">42 Days | 6 weeks</a>
+    </h4>
+  </header>
+</article>
+
+:ET

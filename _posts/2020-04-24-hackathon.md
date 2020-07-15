@@ -1,10 +1,8 @@
 ---
 layout: post
 title: "Chapter 2: Middle School"
-subtitle: "2 Day Hackathon"
 date: 2020-04-17 15:00:04 +0800
-background: "/img/4wall.jpg"
-categories: Journal
+tags: general
 comments: true
 ---
 

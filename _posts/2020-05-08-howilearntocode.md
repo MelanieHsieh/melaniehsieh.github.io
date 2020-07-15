@@ -1,10 +1,8 @@
 ---
 layout: post
 title: "My journey on learning to code"
-subtitle: "How did I learn to code"
 date: 2020-05-08 09:48:04 +0800
-background: "/img/4wall.jpg"
-categories: Journal
+tags: general
 comments: true
 ---
 

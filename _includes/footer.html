@@ -1,43 +1,17 @@
-<!-- Footer -->
-
-<hr />
-
-<footer>
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-8 col-md-10 mx-auto">
-        <div class="d-flex justify-content-center mx-auto p-3">
-          <a
-            class="btn btn-warning"
-            href="https://melaniehsieh.us19.list-manage.com/subscribe/post?u=29cd64598bbfd2dc2703d73d4&amp;id=553b223153"
-            >Subscribe</a
-          >
-        </div>
-        <ul class="list-inline text-center">
-          {% if site.twitter_username %}
-          <li class="list-inline-item">
-            <a href="https://twitter.com/{{ site.twitter_username }}">
-              <span class="fa-stack fa-lg">
-                <i class="fas fa-circle fa-stack-2x"></i>
-                <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
-              </span>
-            </a>
-          </li>
-          {% endif %} {% if site.github_username %}
-          <li class="list-inline-item">
-            <a href="https://github.com/{{ site.github_username }}">
-              <span class="fa-stack fa-lg">
-                <i class="fas fa-circle fa-stack-2x"></i>
-                <i class="fab fa-github fa-stack-1x fa-inverse"></i>
-              </span>
-            </a>
-          </li>
-          {% endif %}
-        </ul>
-        <p class="copyright text-muted">
-          &copy; 2020 Melanie Hsieh. All rights reserved.
-        </p>
-      </div>
-    </div>
-  </div>
+<footer class="footer">
+  <small class="footer_theme-copyright">
+    <a
+      href="https://github.com/melaniehsieh"
+      target="_blank"
+      rel="noreferrer noopener"
+      >melaniehsieh</a
+    >
+    © 2020
+  </small>
 </footer>
+<script src="/assets/js/main.js" defer="defer"></script>
+<script src="/assets/js/galite.js"></script>
+<script>
+  var galite = galite || {};
+  galite.UA = "{{ site.google_analytics }}";
+</script>

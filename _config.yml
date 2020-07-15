@@ -1,23 +1,79 @@
+# Site settings
 title: Project Minimal
-email: melanie@melaniehsieh.com
-description: 
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://melaniehsieh.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: melaniehsieh
-github_username: melaniehsieh
+description: >-
+lang: en-US
+timezone: Asia/Hong Kong
+image: assets/img/ogp.png
+mode: dark
 
-remote_theme: BlackrockDigital/startbootstrap-clean-blog-jekyll
-plugins:
-  - jekyll-feed
+# Profile settings
+author:
+  name: Melanie Hsieh 
+  bio: >-
+    Simple & Minimal...
+  username: # author username
+  github: melainehsieh
+  twitter: melaniehsieh
+  email: melanie@melaniehsieh.com
+  avatar: /assets/img/avatar.gif
 
-# Add your google-analytics ID here to activate google analytics
-google_analytics:   UA-164930515-1 # out your google-analytics code
+# Url settings
+url: "https://melaniehsieh.com"
+baseurl: '/'
+permalink: /:title/
+google_analytics: UA-164930515-1
+fb_appid:
+
+# Collection setting
+collections:
+  posts:
+    output: true
+
+# Markdown settings
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  syntax_highlighter: rouge
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: post
+      comments: false
+
+# Jekyll Compose default front matter
+jekyll_compose:
+  post_default_front_matter:
+    modified:
+    tags: []
+    description:
+  draft_default_front_matter:
+    modified:
+    tags: []
+    description:
 
 # Build settings
-markdown:           kramdown
-paginate:           5
-paginate_path:      "/posts/page:num/"
+sass:
+  style: compressed
+
+include:
+  - _redirects
+  - .htaccess
+
+exclude:
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - CHANGELOG.md
+  - README.md
+  - node_modules
+  - CODE_OF_CONDUCT.md
+
+# Plugins
 plugins:
   - jekyll-feed
-  - jekyll-paginate
-  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+  - jekyll-sitemap
+  - jekyll-postfiles

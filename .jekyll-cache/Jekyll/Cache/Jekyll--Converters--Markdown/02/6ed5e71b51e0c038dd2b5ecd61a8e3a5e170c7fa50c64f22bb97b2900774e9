@@ -1,0 +1,142 @@
+I"�5<p>From last week’s blog, we introduced the front end design of the app. This week we will be going through the back end of the app.</p>
+
+<h1 id="part-1-back-end">Part 1: Back End</h1>
+
+<p>As mentioned from last week’s blog, front end is basically the user side. What the user sees and interact. The back end is the opposite, it is the the database side. It stores all the user’s data, the user won’t see it which is why it’s called <strong>back</strong> end.</p>
+
+<h1 id="part-2-installations">Part 2: Installations</h1>
+
+<h2 id="tools">Tools</h2>
+
+<ul>
+  <li>MongoDB (This is a free database I am using)</li>
+  <li>Mongoose (MongoDB framework)</li>
+  <li>Express (Node framework)</li>
+  <li>Node (Node links the database with your app)</li>
+  <li>Nodemon (Node framework that auto updates the terminal once you saved your code)</li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">npm i mongoose nodemon express axios --save</code></p>
+
+<h1 id="part-3-setting-up">Part 3: Setting Up</h1>
+
+<p>Create a new folder in the same todo app project as last week’s.</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nx">mkdir</span> <span class="nx">backend</span>
+<span class="nx">cd</span> <span class="nx">backend</span>
+</code></pre></div></div>
+
+<p>Then call git init and install all the dependencies.</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nx">git</span> <span class="nx">init</span>
+<span class="nx">npm</span> <span class="nx">i</span> <span class="nx">mongoose</span> <span class="nx">nodemon</span> <span class="nx">express</span> <span class="nx">axios</span> <span class="o">--</span><span class="nx">save</span>
+</code></pre></div></div>
+
+<p>Create a new file called <code class="language-plaintext highlighter-rouge">server.js</code>. Create a port that will host your server. You can type in any number but I usually use port 5000.</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">const</span> <span class="nx">port</span> <span class="o">=</span> <span class="nx">process</span><span class="p">.</span><span class="nx">env</span><span class="p">.</span><span class="nx">PORT</span> <span class="o">||</span> <span class="mi">5000</span><span class="p">;</span>
+<span class="nx">app</span><span class="p">.</span><span class="nx">listen</span><span class="p">(</span><span class="nx">port</span><span class="p">,</span> <span class="p">()</span> <span class="o">=&gt;</span> <span class="p">{</span>
+  <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="dl">"</span><span class="s2">Server connected to: </span><span class="dl">"</span> <span class="o">+</span> <span class="nx">port</span><span class="p">);</span>
+<span class="p">});</span>
+</code></pre></div></div>
+
+<p>To test run, simply type <code class="language-plaintext highlighter-rouge">nodemon server</code> to your terminal</p>
+
+<p><img src="/img/todo/localhost.png" alt="localhost" width="500" /></p>
+
+<p>Replace the <code class="language-plaintext highlighter-rouge">&lt;mongodb_url&gt;</code> with your url, you can find it in the connect section once you created your cluster. This will connect your MongoDB to the app. <em>Quick tip: Use the free cluster when you are starting a new project in MongoDB</em></p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">const</span> <span class="nx">url</span> <span class="o">=</span> <span class="o">&lt;</span><span class="nx">mongodb_url</span><span class="o">&gt;</span>
+<span class="nx">mongoose</span><span class="p">.</span><span class="nx">connect</span><span class="p">(</span><span class="nx">url</span><span class="p">,</span> <span class="p">{</span>
+<span class="na">useNewUrlParser</span><span class="p">:</span> <span class="kc">true</span><span class="p">,</span>
+<span class="na">useCreateIndex</span><span class="p">:</span> <span class="kc">true</span><span class="p">,</span>
+<span class="na">useUnifiedTopology</span><span class="p">:</span> <span class="kc">true</span>
+<span class="p">});</span>
+
+<span class="kd">const</span> <span class="nx">connection</span> <span class="o">=</span> <span class="nx">mongoose</span><span class="p">.</span><span class="nx">connection</span><span class="p">;</span>
+<span class="nx">connection</span><span class="p">.</span><span class="nx">once</span><span class="p">(</span><span class="dl">"</span><span class="s2">open</span><span class="dl">"</span><span class="p">,</span> <span class="p">()</span> <span class="o">=&gt;</span> <span class="p">{</span>
+<span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="dl">"</span><span class="s2">Connected to MongoDB</span><span class="dl">"</span><span class="p">);</span>
+<span class="p">});</span>
+
+</code></pre></div></div>
+
+<p><img src="/img/todo/mongo.png" alt="mongo" width="500" /></p>
+
+<h2 id="model">Model</h2>
+
+<p>After setting up the server, we will create a <strong>Model</strong>. It will create objects to be declared, so basically columns that is used to locate and store the data.</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">const</span> <span class="nx">TodoSchema</span> <span class="o">=</span> <span class="k">new</span> <span class="nx">Schema</span><span class="p">(</span>
+  <span class="p">{</span>
+    <span class="na">title</span><span class="p">:</span> <span class="p">{</span> <span class="na">type</span><span class="p">:</span> <span class="nb">String</span><span class="p">,</span> <span class="na">required</span><span class="p">:</span> <span class="kc">true</span> <span class="p">},</span>
+    <span class="na">description</span><span class="p">:</span> <span class="p">{</span> <span class="na">type</span><span class="p">:</span> <span class="nb">String</span><span class="p">,</span> <span class="na">required</span><span class="p">:</span> <span class="kc">true</span> <span class="p">},</span>
+    <span class="na">status</span><span class="p">:</span> <span class="p">{</span> <span class="na">type</span><span class="p">:</span> <span class="nb">Boolean</span><span class="p">,</span> <span class="na">required</span><span class="p">:</span> <span class="kc">true</span> <span class="p">},</span>
+    <span class="na">date</span><span class="p">:</span> <span class="p">{</span> <span class="na">type</span><span class="p">:</span> <span class="nb">Date</span><span class="p">,</span> <span class="na">required</span><span class="p">:</span> <span class="kc">true</span> <span class="p">}</span>
+  <span class="p">},</span>
+  <span class="p">{</span>
+    <span class="na">timestamps</span><span class="p">:</span> <span class="kc">true</span>
+  <span class="p">}</span>
+<span class="p">);</span>
+</code></pre></div></div>
+
+<h2 id="router">Router</h2>
+
+<h3 id="get-request">Get Request</h3>
+
+<p>This will get all the available data that is saved into the database.</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nx">router</span><span class="p">.</span><span class="nx">route</span><span class="p">(</span><span class="dl">"</span><span class="s2">/</span><span class="dl">"</span><span class="p">).</span><span class="kd">get</span><span class="p">((</span><span class="nx">req</span><span class="p">,</span> <span class="nx">res</span><span class="p">)</span> <span class="o">=&gt;</span> <span class="p">{</span>
+  <span class="nx">Todo</span><span class="p">.</span><span class="nx">find</span><span class="p">()</span>
+    <span class="p">.</span><span class="nx">then</span><span class="p">(</span><span class="nx">todos</span> <span class="o">=&gt;</span> <span class="nx">res</span><span class="p">.</span><span class="nx">json</span><span class="p">(</span><span class="nx">todos</span><span class="p">))</span>
+    <span class="p">.</span><span class="k">catch</span><span class="p">(</span><span class="nx">err</span> <span class="o">=&gt;</span> <span class="nx">res</span><span class="p">.</span><span class="nx">status</span><span class="p">(</span><span class="mi">400</span><span class="p">).</span><span class="nx">json</span><span class="p">(</span><span class="dl">"</span><span class="s2">Errors: </span><span class="dl">"</span> <span class="o">+</span> <span class="nx">err</span><span class="p">));</span>
+<span class="p">});</span>
+</code></pre></div></div>
+
+<h3 id="post-request">Post Request</h3>
+
+<p>This will send data to MongoDB once it is called. It will create a new todo row for the <code class="language-plaintext highlighter-rouge">newTodo</code>.</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nx">router</span><span class="p">.</span><span class="nx">route</span><span class="p">(</span><span class="dl">"</span><span class="s2">/</span><span class="dl">"</span><span class="p">).</span><span class="nx">post</span><span class="p">((</span><span class="nx">req</span><span class="p">,</span> <span class="nx">res</span><span class="p">)</span> <span class="o">=&gt;</span> <span class="p">{</span>
+  <span class="kd">const</span> <span class="nx">title</span> <span class="o">=</span> <span class="nx">req</span><span class="p">.</span><span class="nx">body</span><span class="p">.</span><span class="nx">title</span><span class="p">;</span>
+  <span class="kd">const</span> <span class="nx">description</span> <span class="o">=</span> <span class="nx">req</span><span class="p">.</span><span class="nx">body</span><span class="p">.</span><span class="nx">description</span><span class="p">;</span>
+  <span class="kd">const</span> <span class="nx">status</span> <span class="o">=</span> <span class="nb">Boolean</span><span class="p">(</span><span class="nx">req</span><span class="p">.</span><span class="nx">body</span><span class="p">.</span><span class="nx">status</span><span class="p">);</span>
+  <span class="kd">const</span> <span class="nx">date</span> <span class="o">=</span> <span class="nb">Date</span><span class="p">.</span><span class="nx">parse</span><span class="p">(</span><span class="nx">req</span><span class="p">.</span><span class="nx">body</span><span class="p">.</span><span class="nx">date</span><span class="p">);</span>
+
+  <span class="kd">const</span> <span class="nx">newTodo</span> <span class="o">=</span> <span class="k">new</span> <span class="nx">Todo</span><span class="p">({</span>
+    <span class="nx">title</span><span class="p">,</span>
+    <span class="nx">description</span><span class="p">,</span>
+    <span class="nx">status</span><span class="p">,</span>
+    <span class="nx">date</span>
+  <span class="p">});</span>
+
+  <span class="nx">newTodo</span>
+    <span class="p">.</span><span class="nx">save</span><span class="p">()</span>
+    <span class="p">.</span><span class="nx">then</span><span class="p">(()</span> <span class="o">=&gt;</span> <span class="nx">res</span><span class="p">.</span><span class="nx">json</span><span class="p">(</span><span class="dl">"</span><span class="s2">Todo added!</span><span class="dl">"</span><span class="p">))</span>
+    <span class="p">.</span><span class="k">catch</span><span class="p">(</span><span class="nx">err</span> <span class="o">=&gt;</span> <span class="nx">res</span><span class="p">.</span><span class="nx">status</span><span class="p">(</span><span class="mi">400</span><span class="p">).</span><span class="nx">json</span><span class="p">(</span><span class="dl">"</span><span class="s2">Errors: </span><span class="dl">"</span> <span class="o">+</span> <span class="nx">err</span><span class="p">));</span>
+<span class="p">});</span>
+</code></pre></div></div>
+
+<h2 id="testing">Testing</h2>
+
+<p>Testing is a very important step, as it determines whether your backend server and the MongoDB work. You need to install <strong>Postman</strong> in google web store. It is an extension. Then paste in your localhost (remember to add the url in your router behind the localhost).</p>
+
+<p>Here is an example <code class="language-plaintext highlighter-rouge">http://localhost:5000/todos/</code>.</p>
+
+<p><img src="/img/todo/postman.png" alt="localhost" width="800" /></p>
+
+<p>Then click the <strong>POST</strong> button on the left and enter value in <strong>body</strong>. When you press submit, it should say <code class="language-plaintext highlighter-rouge">Todo Added</code>.</p>
+
+<p>If you change the button to <strong>GET</strong> on the left hand side menu. When you press submit, it should say list out the todo you added before hand. In my case it would be ‘Clean Room’.</p>
+
+<p>Your Backend is Working.🎉🎉🎉</p>
+
+<h1 id="end">END</h1>
+
+<p>This blog gave you a simple tutorial on adding your backend to the existing Todo App. Next week we will look at how to connect frontend to backend.</p>
+
+<p>I have put the full source code for this week’s tutorial on <strong><a href="https://github.com/melaniehsieh/subtle">Github</a></strong>. Good Luck!</p>
+
+<p>If you have any further question you can always email me at <a href="mailto:melanie@melaniehsieh.com">melanie@melaniehsieh.com</a> or find me on <a href="https://github.com/melaniehsieh">Github</a> or <a href="https://twitter.com/melaniehsieh">Twitter</a>.</p>
+
+<p>Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉</p>
+:ET

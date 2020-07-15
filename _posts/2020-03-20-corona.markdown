@@ -1,10 +1,8 @@
 ---
 layout: post
 title: "COVID-19"
-subtitle: "Stay Safe and Healthy"
 date: 2020-03-20 7:03:58 +0800
-background: "/img/4wall.jpg"
-categories: General
+tags: general
 comments: true
 ---
 

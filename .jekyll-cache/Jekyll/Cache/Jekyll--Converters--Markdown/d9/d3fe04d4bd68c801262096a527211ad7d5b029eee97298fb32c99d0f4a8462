@@ -1,0 +1,93 @@
+I"�<p>Last summer, I did a summer internship in a tech startup, MeeOpp.</p>
+
+<h2 id="brief-introduction">Brief Introduction</h2>
+
+<p><img src="/img/meeopp/logo.png" alt="logo" /></p>
+
+<p>MeeOpp is an educational technology start up that provide tailored personalized learning system for students to learn Mandarin. Leveraging technology they are seeking to enhance student’s learning experience.</p>
+
+<h2 id="how-did-i-get-in">How did I get in?</h2>
+
+<p>My school hosted a job fair where people from different organizations, companies come to our school to introduce their jobs. I attended a few of them, and one of them was a tech startup co-founder. I was very excited as this was and is my dream job. I wanted to start my own company, change the world and be in fortune 500. During the talk, she mentioned internship oppurtunities for high school students. I really wanted to attend this mainly because I have nothing else to do during summer but also I would like to have a platform to work on my computer coding skills and meet some new people who’s good at tech and coding.</p>
+
+<p>After the fair, I asked for her contact. Long story short, after a few emails and phone calls, I got the internship.😄🎉</p>
+
+<h2 id="6-weeks">6 weeks</h2>
+
+<p>I did the internship for 6 full weeks, Monday to Friday and ended the day before school starts. In the beginning, I was extremely nervous as this was my first internship program, but also because I was the youngest member in the whole team.😱</p>
+
+<p>Throughout this 6 week experience, I participated in meetings, redesigned their current profile page and reprogramed their vocabulary flashcard. I learned a lot about frontend development: frameworks, libaries, languages and many more. Throughout this 6 weeks, I realized that coding buddies are really important especially when you faced bugs, they will give you support and feedbacks to help you out. I also got to talk with many developers in the team who has been working in the company for years. They also gave me some advice and a brief introduction on their role in the dev team.</p>
+
+<h1 id="profile-page">Profile page</h1>
+
+<p>First project I worked on was the profile page redesign. Lets be honest I was a complete beginner at the start, knowing little to nothing about UX/UI designs, I did a few design versions on the profile page. They were decent but still lacking a few professional touches. The page size was incorrect, format was wrong, color scheme was messy and all sort of beginner issues.😂</p>
+
+<h4 id="here-is-the-first-version">Here is the first version:</h4>
+
+<p><img src="/img/meeopp/v1.png" alt="v1" width="700" /></p>
+
+<p>However, throughout the 6 weeks Dawid (not a typo), a UX/UI designer who gave me feedbacks on the format, helped me simplify my profile page, and taught me some tips and tricks in Adobe XD.</p>
+
+<h4 id="here-is-the-final-version-much-neater">Here is the final version (much neater):</h4>
+
+<p><img src="/img/meeopp/profile.png" alt="v1" width="700" /></p>
+
+<h1 id="vocabulary-flashcard">Vocabulary Flashcard</h1>
+
+<p>The second project I worked on was the vocabulary flashcard. I used HTML, CSS and Vanilla Javascript to build the simple easy to use flashcard system. I decided to make it user friendly so I added key press, which is switching slides by simply pressing left arrow, or right arrow key.</p>
+
+<p>There were day I felt super stressed and unmotivated because I spent a lot of time debugging. But still can’t manage to debug it after many days. Often times going home frustrated, however the other day when I asked William (a more experienced developer than me), he could solve the bug within minutes.</p>
+
+<p>But there were also days which I felt extremely proud because the flashcard is finally working. I would say my mood changes a lot throughout the day. I think many developers would agree with me because debugging is a really stressful process.</p>
+
+<h4 id="final-vocabulary-flashcard-yes-i-managed-to-complete-the-redesign">Final vocabulary flashcard: (Yes, I managed to complete the redesign)</h4>
+
+<p><img src="/img/meeopp/v2.png" alt="v1" width="700" />
+<img src="/img/meeopp/v3.png" alt="v1" width="700" /></p>
+
+<h1 id="conclusion">Conclusion</h1>
+
+<p>I really enjoyed this internship experience, not only did I met some amazing talented people, but I got some insight on how to run a startup company, how a company is slipt into 2 department.</p>
+
+<h3 id="i-took-away-a-few-lessons">I took away a few lessons.</h3>
+
+<ol>
+  <li>
+    <p>Ask for help</p>
+
+    <ul>
+      <li>When I faced a bug and couldn’t debug it after many tries, asking for help is a quick way to reduce the time of mindless scrolling on stackoverflow. But it also helps you to think in ways that you’ve never thought of, especially when you ask people who are more experienced than you.</li>
+    </ul>
+  </li>
+  <li>
+    <p>EXPECTATIONS doesn’t equal to REALITY</p>
+
+    <ul>
+      <li>Over the past 6 weeks, I feel like coding everyday isn’t my cup of tea as I tend to get impatient about the bugs and I don’t seem to enjoy the process of debugging that much. I realized that my dream career has slightly shifted after this internship oppurtunity as I got the chance to physically experience the process. So I would advice people to experiment with their options instead of just going online and reseach.</li>
+    </ul>
+  </li>
+  <li>
+    <p>Work on something that you are passionate about</p>
+
+    <ul>
+      <li>From this internship, I truly experienced why everyone should work in something they are truely passionate and inspired on. As adults, they go to work everyday, working in something they are passionate about just make <strong>work</strong> feel less sad. As work covers more than 50% of our life time, working in something you like just makes the effort and time spent more worthwhile.</li>
+    </ul>
+  </li>
+</ol>
+
+<h3 id="do-i-recommend-doing-summer-internship">Do I recommend doing summer internship?</h3>
+
+<h1 id="yes-definitely">YES, definitely.</h1>
+
+<p>I highly encourage people to do summer interns because they learn and experiment with things that was never taught in school such as technical skills like React and Adobe XD, but you also gain friendship afterwards. (This is what I called networking 😆)</p>
+
+<p>This year, 2020, I would like to intern in big companies such as Google, Alibaba, Huawei etc. Big companies and startups often have a lot of differences, mainly because one is big with hundreds of employees, and the latter one just began their journey. But I also wanted to meet like-minded people who is passionate about tech, and also they have cooler products.😆</p>
+
+<h1 id="end">END</h1>
+
+<p>If you have any further question you can always email me at <a href="mailto:melanie@melaniehsieh.com">melanie@melaniehsieh.com</a> or find me on <a href="https://github.com/melaniehsieh">Github</a> or <a href="https://twitter.com/melaniehsieh">Twitter</a>.</p>
+
+<p>Please subscibe to my weekly blog to get the latest updates.</p>
+
+<p>Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉</p>
+:ET

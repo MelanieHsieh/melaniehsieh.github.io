@@ -1,0 +1,35 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html>
+  {% include header.html %}
+
+  <body data-theme="{{ site.mode }}">
+    {% include navbar.html %}
+    <div class="wrapper">
+      <header class="header">
+        <h1 class="header-title center" itemprop="headline">
+          {{ page.title | escape }}.
+        </h1>
+      </header>
+      <br />
+      <h3 class="posts-item-note">Recent Blogs</h3>
+      {% for post in site.posts %}
+      <article class="post-item">
+        <span class="post-item-date">{{ post.date | date: "%b %d, %Y" }}</span>
+        <h4 class="post-item-title">
+          <a href="{{ post.url }}">{{ post.title | escape }}</a>
+        </h4>
+      </article>
+      {% endfor %}
+
+      <main class="page-content" aria-label="Content">
+        {% include anchor_headings.html html=content anchorClass="anchor-head"
+        beforeHeading=true h_min=4 h_max=4 %}
+      </main>
+      {% include footer.html %}
+    </div>
+  </body>
+</html>
