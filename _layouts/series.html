@@ -1,0 +1,33 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html>
+  {% include header.html %}
+  <body>
+    {% include navbar.html %}
+    <div class="wrapper">
+      <header class="header">
+        <h1 class="header-title center" itemprop="headline">
+          {{ page.title | escape }}.
+        </h1>
+      </header>
+      <br />
+      {% for tag in site.tags %} {% capture name %}{{ tag | first }}{%
+      endcapture %}
+      <h2 class="post-header" id="{{ name | downcase | slugify }}">
+        {{ name }}
+      </h2>
+      {% for post in site.tags[name] %}
+      <article class="posts">
+        <header class="posts-header">
+          <p class="posts-title">
+            <a href="{{ post.url }}">{{ post.title | escape }}</a>
+          </p>
+        </header>
+      </article>
+      {% endfor %} {% endfor %} {% include footer.html %}
+    </div>
+  </body>
+</html>

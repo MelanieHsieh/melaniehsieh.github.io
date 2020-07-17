@@ -8,9 +8,13 @@
 
 - title: blog
   url: /blog/
-  external: false # set true if you using external link, see bellow
-
+  external: false 
+  
+- title: series
+  url: /series/
+  external: false 
+  
 # Example:
 # - title: github
 #   url: https://github.com/piharpi/jekyll-klise
-#   external: true
+#   external: true   # set true if you using external link, see bellow
