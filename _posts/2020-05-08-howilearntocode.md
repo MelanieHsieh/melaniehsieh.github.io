@@ -71,7 +71,7 @@ Good luck best wishes, and most importantly have **fun**.
 
 # END
 
-If you have any further question you can always email me at <melanie@melaniehsieh.com> or find me on [Github](https://github.com/melaniehsieh) or [Twitter](https://twitter.com/melaniehsieh).
+If you have any further question you can always email me at <mpwh2004@gmail.com> or find me on [Github](https://github.com/melaniehsieh) or [Twitter](https://twitter.com/melaniehsieh).
 
 Please subscibe to my weekly blog to get the latest updates.
 

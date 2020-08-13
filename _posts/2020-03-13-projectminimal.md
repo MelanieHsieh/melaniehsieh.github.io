@@ -28,6 +28,6 @@ Establishing the `#projectminimal` community, the main purpose is to inspire oth
 
 # END
 
-This blog gave you some insight on my weekly blog. If you have any further question you can always email me at <melanie@melaniehsieh.com> or find me on [Github](https://github.com/melaniehsieh) or [Twitter](https://twitter.com/melaniehsieh).
+This blog gave you some insight on my weekly blog. If you have any further question you can always email me at <mpwh2004@gmail.com> or find me on [Github](https://github.com/melaniehsieh) or [Twitter](https://twitter.com/melaniehsieh).
 
 Thanks for reading 👀
