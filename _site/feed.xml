@@ -1,68 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2020-09-01T01:08:23+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Project Minimal</title><subtitle></subtitle><author><name>Melanie Hsieh</name><email>mpwh2004@gmail.com</email></author><entry><title type="html">Using ML models to improve monitoring of PD’s patients - Part 1</title><link href="http://localhost:4000/nung/" rel="alternate" type="text/html" title="Using ML models to improve monitoring of PD's patients - Part 1" /><published>2020-08-29T22:42:43+00:00</published><updated>2020-08-29T22:42:43+00:00</updated><id>http://localhost:4000/nung</id><content type="html" xml:base="http://localhost:4000/nung/">&lt;p&gt;More than &lt;strong&gt;10 million people&lt;/strong&gt; worldwide are living with Parkinson’s disease (PD). A progressive nervous system disorder that causes stiffness and affects the movement of the patient. In simpler terms, many people suffered from Parkinson’s disease but it is not curable. &lt;em&gt;If deep brain stimulation (DBS) is mature enough then there’s a chance for PD to be curable.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;By addressing this problem, I will be creating a tech device that could possibly help hospitals to offer PD patients more accurate and pratical medications.&lt;/p&gt;
-
-&lt;h1 id=&quot;product&quot;&gt;Product&lt;/h1&gt;
-
-&lt;p&gt;I created a wearable tech device – &lt;strong&gt;Nung&lt;/strong&gt;. It can accurately capture patient’s vibration value throughout the day. Tracking and analyzing recurring pattern to help hospitals make better medication decisions for each patient.&lt;/p&gt;
-
-&lt;p&gt;Not only does it provide accurate data to hospitals, it also brings convieniences to PD patients when they revisit their doctors. Usually, patients will &lt;strong&gt;recall&lt;/strong&gt; their past symptoms and ask doctor for further medication adjustment. However, it is difficult to recall every single detail, thus making the medication adjustment inaccurate, and inefficient. But with the use of this wearable tech device, hospitals can identify the vibration pattern with ease.&lt;/p&gt;
-
-&lt;h1 id=&quot;electronics&quot;&gt;Electronics&lt;/h1&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/nung/structure.png&quot; alt=&quot;s&quot; width=&quot;700&quot; /&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;ESP8266 (wifi module)&lt;/li&gt;
-  &lt;li&gt;SW420 (vibration sensor)&lt;/li&gt;
-  &lt;li&gt;Breadboard&lt;/li&gt;
-  &lt;li&gt;Jumper wires&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;setup&quot;&gt;Setup&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/nung/assembled.jpg&quot; alt=&quot;a&quot; width=&quot;700&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I’ve decided to switch from Arduino Uno/Nano to ESP8266. The main reason is because it can post the data to the database without the need to connect the electronics with an usb cable.&lt;/p&gt;
-
-&lt;h1 id=&quot;how&quot;&gt;How?&lt;/h1&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;SW420 captures the vibration data from the user&lt;/li&gt;
-  &lt;li&gt;Save the time and vibration data to a database (I’m using Firebase)&lt;/li&gt;
-  &lt;li&gt;The website will get the data stored in the database&lt;/li&gt;
-  &lt;li&gt;Output a linear graph&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h1 id=&quot;output&quot;&gt;Output&lt;/h1&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/nung/graph.png&quot; alt=&quot;g&quot; width=&quot;700&quot; /&gt;
-By graphing this out, hospitals can visualize patient’s condition &lt;strong&gt;live&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;X-Axis - Time in seconds. (Haven’t changed the x-axis)&lt;/li&gt;
-  &lt;li&gt;Y-Axis - Vibration value.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;demo&quot;&gt;Demo&lt;/h1&gt;
-
-&lt;iframe width=&quot;700&quot; height=&quot;720&quot; src=&quot;https://youtu.be/6g_iw-_pTKI&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;h1 id=&quot;this-month&quot;&gt;This Month…&lt;/h1&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Use a ML model to analyze the dataset&lt;/li&gt;
-  &lt;li&gt;Identify certain time period that has the highest average vibration value&lt;/li&gt;
-  &lt;li&gt;Adding a battery so the electronic can go full &lt;em&gt;wireless&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;User test&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;em&gt;A kind reminder: this product is not FDA approved, nor professionally made. It’s just me being bored.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;If you have any further question you can always email me at &lt;a href=&quot;mailto:melanie@melaniehsieh.com&quot;&gt;melanie@melaniehsieh.com&lt;/a&gt; or find me on &lt;a href=&quot;https://github.com/melaniehsieh&quot;&gt;Github&lt;/a&gt; or &lt;a href=&quot;https://twitter.com/melaniehsieh&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Please subscibe to my monthly blog to get the latest updates.&lt;/p&gt;
-
-&lt;p&gt;Thanks for reading 👀. There will be a monthly blog every month on the first week of Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name>Melanie Hsieh</name><email>mpwh2004@gmail.com</email></author><category term="Nung" /><summary type="html">More than 10 million people worldwide are living with Parkinson’s disease (PD). A progressive nervous system disorder that causes stiffness and affects the movement of the patient. In simpler terms, many people suffered from Parkinson’s disease but it is not curable. If deep brain stimulation (DBS) is mature enough then there’s a chance for PD to be curable.</summary></entry><entry><title type="html">2020 internship at Evident</title><link href="http://localhost:4000/evident/" rel="alternate" type="text/html" title="2020 internship at Evident" /><published>2020-08-07T05:43:43+00:00</published><updated>2020-08-07T05:43:43+00:00</updated><id>http://localhost:4000/evident</id><content type="html" xml:base="http://localhost:4000/evident/">&lt;blockquote&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2020-09-01T01:57:40+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Project Minimal</title><subtitle></subtitle><author><name>Melanie Hsieh</name><email>mpwh2004@gmail.com</email></author><entry><title type="html">2020 internship at Evident</title><link href="http://localhost:4000/evident/" rel="alternate" type="text/html" title="2020 internship at Evident" /><published>2020-08-07T05:43:43+00:00</published><updated>2020-08-07T05:43:43+00:00</updated><id>http://localhost:4000/evident</id><content type="html" xml:base="http://localhost:4000/evident/">&lt;blockquote&gt;
   &lt;p&gt;I don’t like writing, I would much rather spend the time building…&lt;/p&gt;
 &lt;/blockquote&gt;
 
@@ -468,4 +404,86 @@ Since Version 1.0 is the bare bone skeleton of the structure of the program, Ver
 
 &lt;p&gt;Please subscibe to my weekly blog to get the latest updates.&lt;/p&gt;
 
-&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name>Melanie Hsieh</name><email>mpwh2004@gmail.com</email></author><category term="challenge" /><summary type="html">I have started many projects including a todo app, a weekly blog, an attendance app etc. However many of the projects were abandoned half-way through such as the todo app. Because I find it boring, or I couldn’t move past the bugs. Then I stopped working on that project and pushing it back, like super back.</summary></entry></feed>
+&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name>Melanie Hsieh</name><email>mpwh2004@gmail.com</email></author><category term="challenge" /><summary type="html">I have started many projects including a todo app, a weekly blog, an attendance app etc. However many of the projects were abandoned half-way through such as the todo app. Because I find it boring, or I couldn’t move past the bugs. Then I stopped working on that project and pushing it back, like super back.</summary></entry><entry><title type="html">My journey on learning to code</title><link href="http://localhost:4000/howilearntocode/" rel="alternate" type="text/html" title="My journey on learning to code" /><published>2020-05-08T01:48:04+00:00</published><updated>2020-05-08T01:48:04+00:00</updated><id>http://localhost:4000/howilearntocode</id><content type="html" xml:base="http://localhost:4000/howilearntocode/">&lt;p&gt;Starting from a young age I developed a huge interest in tech. But many might ask how did I learn to code, do I recommend coding bootcamps, why did I start and is coding easy?&lt;/p&gt;
+
+&lt;p&gt;Everything must date back after the hackathon ended. If you haven’t read my &lt;a href=&quot;https://melaniehsieh.com/journal/2020/04/17/hackathon.html&quot;&gt;Hackathon&lt;/a&gt; blog feel free to go back and read it.&lt;/p&gt;
+
+&lt;h1 id=&quot;summer-coding-class&quot;&gt;Summer coding class&lt;/h1&gt;
+
+&lt;p&gt;During the hackathon, our group won an award. Guess what, the prize is a coding bootcamp voucher. (It was a $4000 voucher 😱. Next time, I would prefer $4000 in cash. lol. 💵)&lt;/p&gt;
+
+&lt;p&gt;So during summer, I used the voucher to join a Basic Javascript class because I wanted to understand more details on creating my own website and how to make it more interactive such as adding animations.&lt;/p&gt;
+
+&lt;p&gt;I have seen promotion videos online talking about coding bootcamps, and how they elevate your coding skills after the bootcamps. I was really optemistic about it.&lt;/p&gt;
+
+&lt;p&gt;Well, expectation never equals to reality. I swear I have been mentioning this exact line over and over again in many blogs. So in conclusion, I absolutely hated it. Not only was it boring, pointless and time consuming, I didn’t learn anything over the course of 2 weeks. I simply just sat there with my computer on and copying the teacher’s code.&lt;/p&gt;
+
+&lt;p&gt;Before I have 0 knowledge in Javascript, after the program my knowledge still remained 0. However from this unsatisfing experience, I found out many free online resources where I can self teach myself to code.&lt;/p&gt;
+
+&lt;p&gt;As Melanie Hsieh once said:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;When there’s free online resources, why would anyone pay extra for the same exact resources. 🤷‍♀️&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;resources&quot;&gt;Resources&lt;/h1&gt;
+
+&lt;p&gt;There are many online resources that are available and free on the internet.&lt;/p&gt;
+
+&lt;h3 id=&quot;1-youtube&quot;&gt;1. Youtube&lt;/h3&gt;
+
+&lt;p&gt;Coding has existed since the birth of computers. So many people on youtube will share tips on coding. If you want to learn to code a website, simply type “code a simple website beginner” on the search bar and there will be a list of videos waiting for you to browse. By watching a few of the videos, you can save $4000 and have a finished project working on your computer. 🤯 (I know right, coding is so easy!!! Well technically no. I’ll talk about that later.)&lt;/p&gt;
+
+&lt;h3 id=&quot;2-websites&quot;&gt;2. Websites&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Freecodecamp&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;I self taught myself Javascript with this website, highly recommend it. They include other programming languages such as React, Python, CSS etc. They also have a huge community helping beginners out when you are stuck.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Udacity&lt;/p&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Their content are in video format, very clear and easy to understand tutorials/exercises for you to code along. Include topic areas in AI, mobile development, interview prep etc.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;what-now&quot;&gt;What now?&lt;/h3&gt;
+
+&lt;p&gt;After you learn the basics, you should start creating your own projects just to familiarize with your skills, and practice becuase practice makes perfect.&lt;/p&gt;
+
+&lt;p&gt;Starting a project is easy, but the progress on creating your own project from scratch is hard. As a beginner you will face tons of bugs. Some of them are nonsense, but some you can learn from, such as you missed a semicolon, you have a typo. Coding might &lt;strong&gt;seem&lt;/strong&gt; easy, but in reality it takes time to build up the skills. It took me 2 years to get from beginner to slightly intermediate level.&lt;/p&gt;
+
+&lt;p&gt;For me, the reason why I continued to code and create softwares is because it makes me feel cool. Some of you may think that sounded stupid and dumb (well you are not alone 😂). I believed that feeling cool is my motivation to continue to create softwares and debug errors. (I laughed when I wrote this line, such nonsense.)&lt;/p&gt;
+
+&lt;p&gt;On the other hand, I really enjoyed the outcome. From a vision to an actual product that people clicked on it and use, is an unbelievable feeling and satisfaction personally. Although the process is tough and frustrating but once you stepped over the barrier or bug, you will feel extremely proud for 2 seconds and another bug will pop up 😂.&lt;/p&gt;
+
+&lt;p&gt;I would highly recommend and encourage others to learn to code (and be a nerd like me) but the only criteria is to have a passion in coding/tech. If you don’t find passion in coding, there’s no point on doing it because it’s no fun.&lt;/p&gt;
+
+&lt;p&gt;One of my friend asked me if I would try singing, I would tell her &lt;strong&gt;NO&lt;/strong&gt; because it’s no fun.&lt;/p&gt;
+
+&lt;h3 id=&quot;no-fun--boring--waste-of-time--big-brain&quot;&gt;No Fun = Boring = Waste of time (🤯 big brain)&lt;/h3&gt;
+
+&lt;h1 id=&quot;in-conclusion&quot;&gt;In conclusion&lt;/h1&gt;
+
+&lt;p&gt;From The Alchemist, Paulo Coelho once wrote:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Remember that wherever your heart is, there you will find your treasure.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This quote sums up everything I just mentioned, so I truely wish everyone luck on finding their own treasure(s). It may be coding, baking, discovering a new island in the middle of atlantic ocean…&lt;/p&gt;
+
+&lt;p&gt;Good luck best wishes, and most importantly have &lt;strong&gt;fun&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;end&quot;&gt;END&lt;/h1&gt;
+
+&lt;p&gt;If you have any further question you can always email me at &lt;a href=&quot;mailto:mpwh2004@gmail.com&quot;&gt;mpwh2004@gmail.com&lt;/a&gt; or find me on &lt;a href=&quot;https://github.com/melaniehsieh&quot;&gt;Github&lt;/a&gt; or &lt;a href=&quot;https://twitter.com/melaniehsieh&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Please subscibe to my weekly blog to get the latest updates.&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name>Melanie Hsieh</name><email>mpwh2004@gmail.com</email></author><category term="general" /><summary type="html">Starting from a young age I developed a huge interest in tech. But many might ask how did I learn to code, do I recommend coding bootcamps, why did I start and is coding easy?</summary></entry></feed>
