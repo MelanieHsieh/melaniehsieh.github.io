@@ -1,0 +1,40 @@
+I"�	<p>More than <strong>10 million people</strong> worldwide are living with Parkinson’s disease (PD). A progressive nervous system disorder that causes stiffness and affects the movement of the patient. Basically in simpler terms, Parkinson’s disease is not curable but many patients have been suffering from it worldwide.</p>
+
+<p>By addressing this crucial problem, I would like to propose a tech device that could help hospitals offer PD patients more accurate and pratical medications.</p>
+
+<h1 id="wearable-tech-device">Wearable tech device</h1>
+
+<p>I built a wearable tech device to accurately capture patient’s vibration value throughout the day. Tracking and analyzing recurring pattern that could help hospitals make better medication decisions for each patient.</p>
+
+<p>Not only does it provide accurate data to hospitals, it also brings convieniences to PD patients when they revisit their doctors. Usually, patients will <strong>recall</strong> their past symptoms and ask doctor for further medication adjustment. However, it is difficult to recall every single detail, thus making the medication adjustment inaccurate, and inefficient.</p>
+
+<h1 id="hardware">Hardware</h1>
+
+<p>This is my first ever project that connects both hardware and software together. Primarilly, I’ll be using an Arduino Uno to send the data to my computer server which will be running a program that draws a line graph live.</p>
+
+<h3 id="tools">Tools</h3>
+
+<p><img src="/img/nung/materials.jpg" alt="material" width="700" /></p>
+<ul>
+  <li>Arduino Uno</li>
+  <li>Breadboard</li>
+  <li>SW-420 (vibration sensor)</li>
+  <li>Jumper wires</li>
+</ul>
+
+<h3 id="setup">Setup</h3>
+
+<p><img src="/img/nung/setup.jpg" alt="setup" width="700" /></p>
+
+<h1 id="how">How?</h1>
+
+<p>The <strong>SW-420</strong> will capture the vibration data from the user. Based on the time of the day, it will show different number of the vibration.</p>
+
+<p><em>A kind reminder: this product is not FDA approved, nor professionally made. But if you have any comments feel free to email me…</em></p>
+
+<p>If you have any further question you can always email me at <a href="mailto:melanie@melaniehsieh.com">melanie@melaniehsieh.com</a> or find me on <a href="https://github.com/melaniehsieh">Github</a> or <a href="https://twitter.com/melaniehsieh">Twitter</a>.</p>
+
+<p>Please subscibe to my monthly blog to get the latest updates.</p>
+
+<p>Thanks for reading 👀. There will be a monthly blog every month on the first week of Friday, Stay Tuned.😉</p>
+:ET
