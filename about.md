@@ -12,5 +12,4 @@ A high school student and an engineer. Passionate in tech, likes to document my 
 If you have a question email me <{{ site.author.email }}>.
 
 - [github](https://github.com/melaniehsieh)
-- [twitter](https://twitter.com/melaniehsieh)
 - [linkedin](https://www.linkedin.com/in/melanie-hsieh-0749a91a9/)
