@@ -52,9 +52,9 @@ myAudio.save("Audio.mp3")
 # 4 慶餘年 Chapter 1 Audiobook
 
 <audio controls>
-  <source src="./img/audiobook/Audio.mp3" type="audio/mp3">
+  <source src="/img/audiobook/Audio.mp3" type="audio/mp3">
 </audio>
-<embed height="100" width="auto" src="./img/audiobook/Audio.mp3"></embed>
+<!-- <embed height="100" width="auto" src="/img/audiobook/Audio.mp3"></embed> -->
 
 ### 慶餘年 Chapter 1 PDF snippet
 
