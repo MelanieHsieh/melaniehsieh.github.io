@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A rip off Amazon's Audible"
+title: "A replica of Amazon's Audible"
 date: 2020-11-06 08:42:43 +0800
 tags: code
 comments: true
@@ -9,7 +9,10 @@ comments: true
 This month I've been playing around with machine learning and experimenting with different libraries. On the other hand, I've been wanting to read this new Chinese novel series, 慶餘年. It has 760 chapters, each chapter with a few thousand Chinese character. Also, this novel series was highly recommended by my cousin.
 
 And this is what I came up...
-An audiobook that is sort of a rip off Amazon's Audible. Imagine there is a software where you paste in the link of the book, it converts the file into pdf then use text-to-speech recognition to read the characters out. Sounds like a plan and I'm off to build a simple prototype of it.
+
+An audiobook that is sort of a replica Amazon's Audible. Imagine there is a software where you paste in the link of the book, it converts the file into pdf then use text-to-speech recognition to read the characters out loud. How cool would that be...
+
+Here the the 4 key steps:
 
 # 1 Find the book online
 
@@ -17,7 +20,7 @@ I found this website that offers [慶餘年](http://big5.quanben-xiaoshuo.com/n/
 
 # 2 Convert TXT to PDF format
 
-This took me a while as there were 760 chapters.
+This took me a while as there were 760 chapters. But here is a simple snipet where I used the _pdfkit_ library to convert from txt to pdf.
 
 ```python
 import pdfkit
@@ -36,7 +39,7 @@ for i in site:
 
 Here comes the fun part. I used Google's **gTTS Library** to process text into speech. They offer a wide range of language, including Cantonese, Mandarin, English, French etc. I then wrote a simple script to tell the program to read every character from the PDF document I generated previously.
 
-However, here comes the problem. Since the gTTS Library isn't advanced enough to pronounce every single Chinese character, it often skips through some vocabulary such as **'⼦', '一', '黑'** and many more. This made the whole audio book sound cut and not complete.
+However, the gTTS Library isn't the newest libary offered. It often skips past a few vocabulary such as **'⼦', '一', '黑'**. This made the whole audio book sounds incomplete making the whole user experience bad.
 
 ```python
 from gtts import gTTS
@@ -49,8 +52,9 @@ myAudio.save("Audio.mp3")
 # 4 慶餘年 Chapter 1 Audiobook
 
 <audio controls>
-  <source src="Audio.mp3" type="audio/mp3">
+  <source src="./img/audiobook/Audio.mp3" type="audio/mp3">
 </audio>
+<embed height="100" width="auto" src="./img/audiobook/Audio.mp3"></embed>
 
 ### 慶餘年 Chapter 1 PDF snippet
 
