@@ -36,8 +36,6 @@ By the way, I created a [Linkedin Account](https://www.linkedin.com/in/melanie-h
 
 # END
 
-If you have any further question you can always email me at <mpwh2004@gmail.com> or find me on [Github](https://github.com/melaniehsieh) or [Twitter](https://twitter.com/melaniehsieh).
-
 Please subscibe to my weekly blog to get the latest updates.
 
 Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉

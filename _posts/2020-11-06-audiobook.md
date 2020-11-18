@@ -78,8 +78,6 @@ myAudio.save("Audio.mp3")
 
 Nung is still in progress, was a bit behind the schedule as I haven't test it on a Parkinson's Disease patient. Will be coming soon shortly...
 
-If you have any further question you can always email me at <mpwh2004@gmail.com> or find me on [Github](https://github.com/melaniehsieh).
-
 Please subscibe to my monthly blog to get the latest updates.
 
 Thanks for reading 👀. There will be a monthly blog every month on the first week of Friday, Stay Tuned.😉
