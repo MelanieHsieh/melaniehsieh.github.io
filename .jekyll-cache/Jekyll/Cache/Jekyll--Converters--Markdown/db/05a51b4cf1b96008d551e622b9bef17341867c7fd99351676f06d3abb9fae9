@@ -1,0 +1,74 @@
+I"�<p>This month I’ve been playing around with machine learning and experimenting with different libraries. On the other hand, I’ve been wanting to read this new Chinese novel series, 慶餘年. It has 760 chapters, each chapter with a few thousand Chinese character. Also, this novel series was highly recommended by my cousin.</p>
+
+<p>And this is what I came up…</p>
+
+<p>An audiobook that is sort of a replica Amazon’s Audible. Imagine there is a software where you paste in the link of the book, it converts the file into pdf then use text-to-speech recognition to read the characters out loud. How cool would that be…</p>
+
+<p>Here the the 4 key steps:</p>
+
+<h1 id="1-find-the-book-online">1 Find the book online</h1>
+
+<p>I found this website that offers <a href="http://big5.quanben-xiaoshuo.com/n/qingyunian/xiazai.html">慶餘年</a> in TXT format.</p>
+
+<h1 id="2-convert-txt-to-pdf-format">2 Convert TXT to PDF format</h1>
+
+<p>This took me a while as there were 760 chapters. But here is a simple snipet where I used the <em>pdfkit</em> library to convert from txt to pdf.</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">import</span> <span class="nn">pdfkit</span>
+<span class="kn">import</span> <span class="nn">shutil</span>
+
+<span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="n">site</span><span class="p">:</span>
+    <span class="n">title</span> <span class="o">=</span> <span class="n">i</span><span class="p">[</span><span class="mi">14</span><span class="p">:</span><span class="o">-</span><span class="mi">4</span><span class="p">]</span> <span class="o">+</span> <span class="s">'.pdf'</span>
+    <span class="n">pdfkit</span><span class="p">.</span><span class="n">from_url</span><span class="p">(</span><span class="s">'http://big5.quanben-xiaoshuo.com'</span> <span class="o">+</span> <span class="n">i</span><span class="p">,</span> <span class="n">title</span><span class="p">)</span>
+
+    <span class="n">old</span> <span class="o">=</span> <span class="s">r''</span> <span class="o">+</span> <span class="n">title</span>
+    <span class="n">new</span> <span class="o">=</span> <span class="s">r'./慶餘年/'</span> <span class="o">+</span> <span class="n">title</span>
+    <span class="n">shutil</span><span class="p">.</span><span class="n">move</span><span class="p">(</span><span class="n">old</span><span class="p">,</span><span class="n">new</span><span class="p">)</span>
+</code></pre></div></div>
+
+<h1 id="3-text-to-speech">3 Text to Speech</h1>
+
+<p>Here comes the fun part. I used Google’s <strong>gTTS Library</strong> to process text into speech. They offer a wide range of language, including Cantonese, Mandarin, English, French etc. I then wrote a simple script to tell the program to read every character from the PDF document I generated previously.</p>
+
+<p>However, the gTTS Library isn’t the newest libary offered. It often skips past a few vocabulary such as <strong>‘⼦’, ‘一’, ‘黑’</strong>. This made the whole audio book sounds incomplete making the whole user experience bad.</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">from</span> <span class="nn">gtts</span> <span class="kn">import</span> <span class="n">gTTS</span>
+
+<span class="n">myAudio</span> <span class="o">=</span> <span class="n">gTTS</span><span class="p">(</span><span class="n">text</span><span class="o">=</span><span class="n">output_string</span><span class="p">.</span><span class="n">getvalue</span><span class="p">(),</span> <span class="n">lang</span><span class="o">=</span><span class="s">'zh-yu'</span><span class="p">,</span> <span class="n">slow</span><span class="o">=</span><span class="bp">False</span><span class="p">)</span>
+
+<span class="n">myAudio</span><span class="p">.</span><span class="n">save</span><span class="p">(</span><span class="s">"Audio.mp3"</span><span class="p">)</span>
+</code></pre></div></div>
+
+<h1 id="4-慶餘年-chapter-1-audiobook">4 慶餘年 Chapter 1 Audiobook</h1>
+
+<audio controls="">
+  <source src="/img/audiobook/Audio.mp3" width="500" type="audio/mp3" />
+</audio>
+
+<h3 id="慶餘年-chapter-1-pdf-snippet">慶餘年 Chapter 1 PDF snippet</h3>
+
+<p>楔⼦ ⼀塊⿊布
+範慎很困難地撐著上眼⽪，看著指頭算⾃⼰這輩⼦做過些什麽有意義的事情，結果右⼿五根瘦成筷⼦⼀樣的指頭</p>
+
+<p>還沒有數完，他就歎了⼀⼝氣，很傷⼼地放棄了這個⼯作。</p>
+
+<p>病房裏的藥⽔味總是這麽刺⿐，旁邊那床的老爺⼦前兩天已經去地藏王菩薩那裏報道了，⼤概再過幾天就輪到⾃</p>
+
+<p>他得了某種怪病，重症肌無⼒，就是特別適合男主⾓的那種病。據說沒得醫，將來嗝屁的那天什麽都動不了，隻</p>
+
+<p>“可我不是⾔情啊。”範慎咕噥著，但由於兩頜的肌⾁沒有了作⽤，所以變成⼀串含糊的囈語。</p>
+
+<p>他望著⾃⼰的中指頭，很同情⾃⼰，“我還是處男。”</p>
+
+<p>⼰吧。</p>
+
+<p>有眼淚可以流下來。</p>
+
+<h3 id="nung-update">Nung Update</h3>
+
+<p>Nung is still in progress, was a bit behind the schedule as I haven’t test it on a Parkinson’s Disease patient. Will be coming soon shortly…</p>
+
+<p>Please subscibe to my monthly blog to get the latest updates.</p>
+
+<p>Thanks for reading 👀. There will be a monthly blog every month on the first week of Friday, Stay Tuned.😉</p>
+:ET

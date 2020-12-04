@@ -1,4 +1,122 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2020-10-02T00:49:16+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Project Minimal</title><subtitle></subtitle><author><name>Melanie Hsieh</name><email>mpwh2004@gmail.com</email></author><entry><title type="html">Using ML models to improve monitoring of PD’s patients - Part 2</title><link href="http://localhost:4000/nung2/" rel="alternate" type="text/html" title="Using ML models to improve monitoring of PD's patients - Part 2" /><published>2020-10-02T00:42:43+00:00</published><updated>2020-10-02T00:42:43+00:00</updated><id>http://localhost:4000/nung2</id><content type="html" xml:base="http://localhost:4000/nung2/">&lt;h1 id=&quot;machine-learning&quot;&gt;Machine Learning&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2020-12-04T14:08:15+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Project Minimal</title><subtitle></subtitle><author><name>Melanie Hsieh</name></author><entry><title type="html">Using ML models to improve monitoring of PD’s patients - Part 3</title><link href="http://localhost:4000/nung2.5/" rel="alternate" type="text/html" title="Using ML models to improve monitoring of PD's patients - Part 3" /><published>2020-12-03T22:42:43+00:00</published><updated>2020-12-03T22:42:43+00:00</updated><id>http://localhost:4000/nung2.5</id><content type="html" xml:base="http://localhost:4000/nung2.5/">&lt;h1 id=&quot;journey&quot;&gt;Journey&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/nung/curve1.png&quot; alt=&quot;1&quot; width=&quot;300&quot; /&gt;
+&lt;img src=&quot;/img/nung/curve2.png&quot; alt=&quot;2&quot; width=&quot;300&quot; /&gt;
+&lt;img src=&quot;/img/nung/curve3.png&quot; alt=&quot;3&quot; width=&quot;300&quot; /&gt;
+&lt;img src=&quot;/img/nung/curve4.png&quot; alt=&quot;4&quot; width=&quot;300&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;To make life easier, I have drawn this curve to represent myself in different stages of this project. &lt;strong&gt;Yellow ball represents me, and Nung is the end goal.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;1-the-motivation&quot;&gt;1 The motivation&lt;/h3&gt;
+
+&lt;p&gt;In the first few days, the motivation was huge.&lt;/p&gt;
+
+&lt;p&gt;When I had the idea of helping PD patients on recieving better and more accurate medication, I was determined to do my best and become the change to launch this wearable tech device. My eye was on the final outcome – Nung, this is why the ball is parallel to the end goal.&lt;/p&gt;
+
+&lt;p&gt;I can see and vision the goal, but to achieve it there’s a long way ahead.&lt;/p&gt;
+
+&lt;h3 id=&quot;2-the-dip&quot;&gt;2 The dip&lt;/h3&gt;
+
+&lt;p&gt;As I started to delve into all sorts of research research and research, I slowly realized there weren’t any pre-existing product on this PD idea. Many ideas were on how to find or discover people with Parkinson’s Diease earlier. However, not much were being done in the process of having PD.&lt;/p&gt;
+
+&lt;p&gt;After doing a handful of research, it is time to experiment, trial and error and most important it is time to play.&lt;/p&gt;
+
+&lt;p&gt;Combining something you enjoy with your project is extremely fullfilling as you will never get bored. Until, the bugs and errors started to popup. I experimented with countless of models, prototypes, scripts, and programs. Finding the most relevant electronics that could run wirelessly and send data wirelessly is a hassle.&lt;/p&gt;
+
+&lt;p&gt;As time progresses, I felt lost, moving further and further away from my end goal. There was times I couldn’t see the end goal.&lt;/p&gt;
+
+&lt;p&gt;I have reached the rock bottom.&lt;/p&gt;
+
+&lt;h3 id=&quot;3-the-climb&quot;&gt;3 The climb&lt;/h3&gt;
+
+&lt;p&gt;One day, I have got an oppurtunity to work with a year four engineering student from Hong Kong City University. He helped me tremendously with debugging the code. And for the first time in 1 month, my program is finally working.&lt;/p&gt;
+
+&lt;p&gt;Later on, I started to gain momentum. Finished and self learned some Machine Learning algorithms, straight after that solder the electronics, design the casing and finally assembling everything together. I was climbing up the hill.&lt;/p&gt;
+
+&lt;h3 id=&quot;4-success&quot;&gt;4 SUCCESS&lt;/h3&gt;
+
+&lt;p&gt;Finally, after 4 months of dedication, hard work, and countless of failures, I have finally finished and test ran Nung on a patient.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/nung/case1.jpg&quot; alt=&quot;1&quot; width=&quot;300&quot; /&gt;
+&lt;img src=&quot;/img/nung/case2.jpg&quot; alt=&quot;2&quot; width=&quot;300&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;A kind reminder: this product is not FDA approved, nor professionally made. It’s just me being bored.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Please subscibe to my monthly blog to get the latest updates.&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading 👀. There will be a monthly blog every month on the first week of Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name>Melanie Hsieh</name></author><category term="Nung" /><summary type="html">Journey</summary></entry><entry><title type="html">A replica of Amazon’s Audible</title><link href="http://localhost:4000/audiobook/" rel="alternate" type="text/html" title="A replica of Amazon's Audible" /><published>2020-11-06T00:42:43+00:00</published><updated>2020-11-06T00:42:43+00:00</updated><id>http://localhost:4000/audiobook</id><content type="html" xml:base="http://localhost:4000/audiobook/">&lt;p&gt;This month I’ve been playing around with machine learning and experimenting with different libraries. On the other hand, I’ve been wanting to read this new Chinese novel series, 慶餘年. It has 760 chapters, each chapter with a few thousand Chinese character. Also, this novel series was highly recommended by my cousin.&lt;/p&gt;
+
+&lt;p&gt;And this is what I came up…&lt;/p&gt;
+
+&lt;p&gt;An audiobook that is sort of a replica Amazon’s Audible. Imagine there is a software where you paste in the link of the book, it converts the file into pdf then use text-to-speech recognition to read the characters out loud. How cool would that be…&lt;/p&gt;
+
+&lt;p&gt;Here the the 4 key steps:&lt;/p&gt;
+
+&lt;h1 id=&quot;1-find-the-book-online&quot;&gt;1 Find the book online&lt;/h1&gt;
+
+&lt;p&gt;I found this website that offers &lt;a href=&quot;http://big5.quanben-xiaoshuo.com/n/qingyunian/xiazai.html&quot;&gt;慶餘年&lt;/a&gt; in TXT format.&lt;/p&gt;
+
+&lt;h1 id=&quot;2-convert-txt-to-pdf-format&quot;&gt;2 Convert TXT to PDF format&lt;/h1&gt;
+
+&lt;p&gt;This took me a while as there were 760 chapters. But here is a simple snipet where I used the &lt;em&gt;pdfkit&lt;/em&gt; library to convert from txt to pdf.&lt;/p&gt;
+
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;pdfkit&lt;/span&gt;
+&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;shutil&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;site&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;title&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;14&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;4&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'.pdf'&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;pdfkit&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;from_url&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'http://big5.quanben-xiaoshuo.com'&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+
+    &lt;span class=&quot;n&quot;&gt;old&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;r''&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;title&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;r'./慶餘年/'&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;title&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;shutil&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;move&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;old&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;new&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h1 id=&quot;3-text-to-speech&quot;&gt;3 Text to Speech&lt;/h1&gt;
+
+&lt;p&gt;Here comes the fun part. I used Google’s &lt;strong&gt;gTTS Library&lt;/strong&gt; to process text into speech. They offer a wide range of language, including Cantonese, Mandarin, English, French etc. I then wrote a simple script to tell the program to read every character from the PDF document I generated previously.&lt;/p&gt;
+
+&lt;p&gt;However, the gTTS Library isn’t the newest libary offered. It often skips past a few vocabulary such as &lt;strong&gt;‘⼦’, ‘一’, ‘黑’&lt;/strong&gt;. This made the whole audio book sounds incomplete making the whole user experience bad.&lt;/p&gt;
+
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kn&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;gtts&lt;/span&gt; &lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;gTTS&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;myAudio&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;gTTS&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;text&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;output_string&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;getvalue&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(),&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;lang&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'zh-yu'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;slow&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;False&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;myAudio&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;save&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Audio.mp3&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h1 id=&quot;4-慶餘年-chapter-1-audiobook&quot;&gt;4 慶餘年 Chapter 1 Audiobook&lt;/h1&gt;
+
+&lt;audio controls=&quot;&quot;&gt;
+  &lt;source src=&quot;/img/audiobook/Audio.mp3&quot; width=&quot;500&quot; type=&quot;audio/mp3&quot; /&gt;
+&lt;/audio&gt;
+
+&lt;h3 id=&quot;慶餘年-chapter-1-pdf-snippet&quot;&gt;慶餘年 Chapter 1 PDF snippet&lt;/h3&gt;
+
+&lt;p&gt;楔⼦ ⼀塊⿊布
+範慎很困難地撐著上眼⽪，看著指頭算⾃⼰這輩⼦做過些什麽有意義的事情，結果右⼿五根瘦成筷⼦⼀樣的指頭&lt;/p&gt;
+
+&lt;p&gt;還沒有數完，他就歎了⼀⼝氣，很傷⼼地放棄了這個⼯作。&lt;/p&gt;
+
+&lt;p&gt;病房裏的藥⽔味總是這麽刺⿐，旁邊那床的老爺⼦前兩天已經去地藏王菩薩那裏報道了，⼤概再過幾天就輪到⾃&lt;/p&gt;
+
+&lt;p&gt;他得了某種怪病，重症肌無⼒，就是特別適合男主⾓的那種病。據說沒得醫，將來嗝屁的那天什麽都動不了，隻&lt;/p&gt;
+
+&lt;p&gt;“可我不是⾔情啊。”範慎咕噥著，但由於兩頜的肌⾁沒有了作⽤，所以變成⼀串含糊的囈語。&lt;/p&gt;
+
+&lt;p&gt;他望著⾃⼰的中指頭，很同情⾃⼰，“我還是處男。”&lt;/p&gt;
+
+&lt;p&gt;⼰吧。&lt;/p&gt;
+
+&lt;p&gt;有眼淚可以流下來。&lt;/p&gt;
+
+&lt;h3 id=&quot;nung-update&quot;&gt;Nung Update&lt;/h3&gt;
+
+&lt;p&gt;Nung is still in progress, was a bit behind the schedule as I haven’t test it on a Parkinson’s Disease patient. Will be coming soon shortly…&lt;/p&gt;
+
+&lt;p&gt;Please subscibe to my monthly blog to get the latest updates.&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading 👀. There will be a monthly blog every month on the first week of Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name>Melanie Hsieh</name></author><category term="code" /><summary type="html">This month I’ve been playing around with machine learning and experimenting with different libraries. On the other hand, I’ve been wanting to read this new Chinese novel series, 慶餘年. It has 760 chapters, each chapter with a few thousand Chinese character. Also, this novel series was highly recommended by my cousin.</summary></entry><entry><title type="html">Using ML models to improve monitoring of PD’s patients - Part 2</title><link href="http://localhost:4000/nung2/" rel="alternate" type="text/html" title="Using ML models to improve monitoring of PD's patients - Part 2" /><published>2020-10-02T00:42:43+00:00</published><updated>2020-10-02T00:42:43+00:00</updated><id>http://localhost:4000/nung2</id><content type="html" xml:base="http://localhost:4000/nung2/">&lt;h1 id=&quot;machine-learning&quot;&gt;Machine Learning&lt;/h1&gt;
 
 &lt;p&gt;Machine learning has gain massive popularity in the last few decades. Many popular applications uses machine learning to help companies do things that couldn’t be done before. For example, Netflix’s movie recommendation, Email’s spam identifier, Siri’s virtual personal assitants. This also include hospitals use ML to identify lung cancer using image recognition.&lt;/p&gt;
 
@@ -66,11 +184,9 @@
 
 &lt;p&gt;&lt;strong&gt;A kind reminder: this product is not FDA approved, nor professionally made. It’s just me being bored.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;If you have any further question you can always email me at &lt;a href=&quot;mailto:mpwh2004@gmail.com&quot;&gt;mpwh2004@gmail.com&lt;/a&gt; or find me on &lt;a href=&quot;https://github.com/melaniehsieh&quot;&gt;Github&lt;/a&gt;.&lt;/p&gt;
-
 &lt;p&gt;Please subscibe to my monthly blog to get the latest updates.&lt;/p&gt;
 
-&lt;p&gt;Thanks for reading 👀. There will be a monthly blog every month on the first week of Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name>Melanie Hsieh</name><email>mpwh2004@gmail.com</email></author><category term="Nung" /><summary type="html">Machine Learning</summary></entry><entry><title type="html">Using ML models to improve monitoring of PD’s patients - Part 1</title><link href="http://localhost:4000/nung/" rel="alternate" type="text/html" title="Using ML models to improve monitoring of PD's patients - Part 1" /><published>2020-09-04T04:42:43+00:00</published><updated>2020-09-04T04:42:43+00:00</updated><id>http://localhost:4000/nung</id><content type="html" xml:base="http://localhost:4000/nung/">&lt;p&gt;More than &lt;strong&gt;10 million people&lt;/strong&gt; worldwide are living with Parkinson’s disease (PD). A progressive nervous system disorder that causes stiffness and affects the movement of the patient. In simpler terms, many people suffered from Parkinson’s disease but it is not curable. &lt;em&gt;If deep brain stimulation (DBS) is mature enough then there’s a chance for PD to be curable.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Thanks for reading 👀. There will be a monthly blog every month on the first week of Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name>Melanie Hsieh</name></author><category term="Nung" /><summary type="html">Machine Learning</summary></entry><entry><title type="html">Using ML models to improve monitoring of PD’s patients - Part 1</title><link href="http://localhost:4000/nung/" rel="alternate" type="text/html" title="Using ML models to improve monitoring of PD's patients - Part 1" /><published>2020-09-04T04:42:43+00:00</published><updated>2020-09-04T04:42:43+00:00</updated><id>http://localhost:4000/nung</id><content type="html" xml:base="http://localhost:4000/nung/">&lt;p&gt;More than &lt;strong&gt;10 million people&lt;/strong&gt; worldwide are living with Parkinson’s disease (PD). A progressive nervous system disorder that causes stiffness and affects the movement of the patient. In simpler terms, many people suffered from Parkinson’s disease but it is not curable. &lt;em&gt;If deep brain stimulation (DBS) is mature enough then there’s a chance for PD to be curable.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;By addressing this problem, I will be creating a tech device that could possibly help hospitals to offer PD patients more accurate and pratical medications.&lt;/p&gt;
 
@@ -134,11 +250,9 @@ By graphing this out, hospitals can visualize patient’s condition &lt;strong&g
 
 &lt;p&gt;&lt;strong&gt;A kind reminder: this product is not FDA approved, nor professionally made. It’s just me being bored.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;If you have any further question you can always email me at &lt;a href=&quot;mailto:mpwh2004@gmail.com&quot;&gt;mpwh2004@gmail.com&lt;/a&gt; or find me on &lt;a href=&quot;https://github.com/melaniehsieh&quot;&gt;Github&lt;/a&gt; or &lt;a href=&quot;https://twitter.com/melaniehsieh&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
-
 &lt;p&gt;Please subscibe to my monthly blog to get the latest updates.&lt;/p&gt;
 
-&lt;p&gt;Thanks for reading 👀. There will be a monthly blog every month on the first week of Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name>Melanie Hsieh</name><email>mpwh2004@gmail.com</email></author><category term="Nung" /><summary type="html">More than 10 million people worldwide are living with Parkinson’s disease (PD). A progressive nervous system disorder that causes stiffness and affects the movement of the patient. In simpler terms, many people suffered from Parkinson’s disease but it is not curable. If deep brain stimulation (DBS) is mature enough then there’s a chance for PD to be curable.</summary></entry><entry><title type="html">2020 internship at Evident</title><link href="http://localhost:4000/evident/" rel="alternate" type="text/html" title="2020 internship at Evident" /><published>2020-08-07T05:43:43+00:00</published><updated>2020-08-07T05:43:43+00:00</updated><id>http://localhost:4000/evident</id><content type="html" xml:base="http://localhost:4000/evident/">&lt;blockquote&gt;
+&lt;p&gt;Thanks for reading 👀. There will be a monthly blog every month on the first week of Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name>Melanie Hsieh</name></author><category term="Nung" /><summary type="html">More than 10 million people worldwide are living with Parkinson’s disease (PD). A progressive nervous system disorder that causes stiffness and affects the movement of the patient. In simpler terms, many people suffered from Parkinson’s disease but it is not curable. If deep brain stimulation (DBS) is mature enough then there’s a chance for PD to be curable.</summary></entry><entry><title type="html">2020 internship at Evident</title><link href="http://localhost:4000/evident/" rel="alternate" type="text/html" title="2020 internship at Evident" /><published>2020-08-07T05:43:43+00:00</published><updated>2020-08-07T05:43:43+00:00</updated><id>http://localhost:4000/evident</id><content type="html" xml:base="http://localhost:4000/evident/">&lt;blockquote&gt;
   &lt;p&gt;I don’t like writing, I would much rather spend the time building…&lt;/p&gt;
 &lt;/blockquote&gt;
 
@@ -170,11 +284,9 @@ By graphing this out, hospitals can visualize patient’s condition &lt;strong&g
 
 &lt;p&gt;I had a wonderful time and gained a lot from this summer internship. I will definitely aim to build a tech startup that brings value to the world.&lt;/p&gt;
 
-&lt;p&gt;If you have any further question you can always email me at &lt;a href=&quot;mailto:mpwh2004@gmail.com&quot;&gt;mpwh2004@gmail.com&lt;/a&gt; or find me on &lt;a href=&quot;https://github.com/melaniehsieh&quot;&gt;Github&lt;/a&gt; or &lt;a href=&quot;https://twitter.com/melaniehsieh&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
-
 &lt;p&gt;Please subscibe to my monthly blog to get the latest updates.&lt;/p&gt;
 
-&lt;p&gt;Thanks for reading 👀. There will be a monthly blog every month on the first week of Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name>Melanie Hsieh</name><email>mpwh2004@gmail.com</email></author><category term="general" /><summary type="html">I don’t like writing, I would much rather spend the time building…</summary></entry><entry><title type="html">42 Days Challenge Complete</title><link href="http://localhost:4000/42complete/" rel="alternate" type="text/html" title="42 Days Challenge Complete" /><published>2020-07-02T22:42:43+00:00</published><updated>2020-07-02T22:42:43+00:00</updated><id>http://localhost:4000/42complete</id><content type="html" xml:base="http://localhost:4000/42complete/">&lt;p&gt;About 6 weeks ago, I started the 42 Days Challenge, and now the challenge has ended.&lt;/p&gt;
+&lt;p&gt;Thanks for reading 👀. There will be a monthly blog every month on the first week of Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name>Melanie Hsieh</name></author><category term="general" /><summary type="html">I don’t like writing, I would much rather spend the time building…</summary></entry><entry><title type="html">42 Days Challenge Complete</title><link href="http://localhost:4000/42complete/" rel="alternate" type="text/html" title="42 Days Challenge Complete" /><published>2020-07-02T22:42:43+00:00</published><updated>2020-07-02T22:42:43+00:00</updated><id>http://localhost:4000/42complete</id><content type="html" xml:base="http://localhost:4000/42complete/">&lt;p&gt;About 6 weeks ago, I started the 42 Days Challenge, and now the challenge has ended.&lt;/p&gt;
 
 &lt;p&gt;I still remebered on my 42 Days Challenge blog, I set myself a target: to launch Cashrithm. But sadly that didn’t go as planned.😢&lt;/p&gt;
 
@@ -218,11 +330,9 @@ By graphing this out, hospitals can visualize patient’s condition &lt;strong&g
 
 &lt;p&gt;Without further a do, see you next month ~ August… 🍂🍂🍂&lt;/p&gt;
 
-&lt;p&gt;If you have any further question you can always email me at &lt;a href=&quot;mailto:mpwh2004@gmail.com&quot;&gt;mpwh2004@gmail.com&lt;/a&gt; or find me on &lt;a href=&quot;https://github.com/melaniehsieh&quot;&gt;Github&lt;/a&gt; or &lt;a href=&quot;https://twitter.com/melaniehsieh&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
-
 &lt;p&gt;Please subscibe to my monthly blog to get the latest updates.&lt;/p&gt;
 
-&lt;p&gt;Thanks for reading 👀. There will be a monthly blog every month on the first week of Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name>Melanie Hsieh</name><email>mpwh2004@gmail.com</email></author><category term="challenge" /><summary type="html">About 6 weeks ago, I started the 42 Days Challenge, and now the challenge has ended.</summary></entry><entry><title type="html">Week 6</title><link href="http://localhost:4000/week6/" rel="alternate" type="text/html" title="Week 6" /><published>2020-06-26T00:42:43+00:00</published><updated>2020-06-26T00:42:43+00:00</updated><id>http://localhost:4000/week6</id><content type="html" xml:base="http://localhost:4000/week6/">&lt;p&gt;Today is the 26th of June, 4 more days left until Cashrithm is launched.😬&lt;/p&gt;
+&lt;p&gt;Thanks for reading 👀. There will be a monthly blog every month on the first week of Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name>Melanie Hsieh</name></author><category term="challenge" /><summary type="html">About 6 weeks ago, I started the 42 Days Challenge, and now the challenge has ended.</summary></entry><entry><title type="html">Week 6</title><link href="http://localhost:4000/week6/" rel="alternate" type="text/html" title="Week 6" /><published>2020-06-26T00:42:43+00:00</published><updated>2020-06-26T00:42:43+00:00</updated><id>http://localhost:4000/week6</id><content type="html" xml:base="http://localhost:4000/week6/">&lt;p&gt;Today is the 26th of June, 4 more days left until Cashrithm is launched.😬&lt;/p&gt;
 
 &lt;p&gt;It’s the final week and I haven’t explained the website thoroughly 😂. So this week I have decided to introduce the application I’ve been building for the last 38 days.&lt;/p&gt;
 
@@ -260,11 +370,9 @@ By graphing this out, hospitals can visualize patient’s condition &lt;strong&g
   &lt;li&gt;Category Algorithm based on Vender&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;If you have any further question you can always email me at &lt;a href=&quot;mailto:mpwh2004@gmail.com&quot;&gt;mpwh2004@gmail.com&lt;/a&gt; or find me on &lt;a href=&quot;https://github.com/melaniehsieh&quot;&gt;Github&lt;/a&gt; or &lt;a href=&quot;https://twitter.com/melaniehsieh&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
-
 &lt;p&gt;Please subscibe to my weekly blog to get the latest updates.&lt;/p&gt;
 
-&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name>Melanie Hsieh</name><email>mpwh2004@gmail.com</email></author><category term="challenge" /><summary type="html">Today is the 26th of June, 4 more days left until Cashrithm is launched.😬</summary></entry><entry><title type="html">Week 5</title><link href="http://localhost:4000/week5/" rel="alternate" type="text/html" title="Week 5" /><published>2020-06-19T00:28:04+00:00</published><updated>2020-06-19T00:28:04+00:00</updated><id>http://localhost:4000/week5</id><content type="html" xml:base="http://localhost:4000/week5/">&lt;p&gt;It’s now Week 5, time flew by and I only have less than 2 weeks to launch version 1 of &lt;strong&gt;Cashrithm&lt;/strong&gt;. As the deadline gets closer and closer, I can slowly feel the pressure. I’m blaming the pressure on the 42 days challenge I started. Not only do I have to keep the promise I made but also I really wanted to reach my milestone.&lt;/p&gt;
+&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name>Melanie Hsieh</name></author><category term="challenge" /><summary type="html">Today is the 26th of June, 4 more days left until Cashrithm is launched.😬</summary></entry><entry><title type="html">Week 5</title><link href="http://localhost:4000/week5/" rel="alternate" type="text/html" title="Week 5" /><published>2020-06-19T00:28:04+00:00</published><updated>2020-06-19T00:28:04+00:00</updated><id>http://localhost:4000/week5</id><content type="html" xml:base="http://localhost:4000/week5/">&lt;p&gt;It’s now Week 5, time flew by and I only have less than 2 weeks to launch version 1 of &lt;strong&gt;Cashrithm&lt;/strong&gt;. As the deadline gets closer and closer, I can slowly feel the pressure. I’m blaming the pressure on the 42 days challenge I started. Not only do I have to keep the promise I made but also I really wanted to reach my milestone.&lt;/p&gt;
 
 &lt;p&gt;This week was not fun at all, not only do I need to balance my school works but debugging takes forever to get debugged… (Someday when I have the capacity to hire someone, I will definetly hire a debugger. Hear me out.)&lt;/p&gt;
 
@@ -315,11 +423,9 @@ In this project, one of the must-have feature is a database that could store use
 
 &lt;h1 id=&quot;end&quot;&gt;END&lt;/h1&gt;
 
-&lt;p&gt;If you have any further question you can always email me at &lt;a href=&quot;mailto:mpwh2004@gmail.com&quot;&gt;mpwh2004@gmail.com&lt;/a&gt; or find me on &lt;a href=&quot;https://github.com/melaniehsieh&quot;&gt;Github&lt;/a&gt; or &lt;a href=&quot;https://twitter.com/melaniehsieh&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
-
 &lt;p&gt;Please subscibe to my weekly blog to get the latest updates.&lt;/p&gt;
 
-&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name>Melanie Hsieh</name><email>mpwh2004@gmail.com</email></author><category term="challenge" /><summary type="html">It’s now Week 5, time flew by and I only have less than 2 weeks to launch version 1 of Cashrithm. As the deadline gets closer and closer, I can slowly feel the pressure. I’m blaming the pressure on the 42 days challenge I started. Not only do I have to keep the promise I made but also I really wanted to reach my milestone.</summary></entry><entry><title type="html">Week 4</title><link href="http://localhost:4000/week4/" rel="alternate" type="text/html" title="Week 4" /><published>2020-06-11T23:28:04+00:00</published><updated>2020-06-11T23:28:04+00:00</updated><id>http://localhost:4000/week4</id><content type="html" xml:base="http://localhost:4000/week4/">&lt;p&gt;This week’s been productive!&lt;/p&gt;
+&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name>Melanie Hsieh</name></author><category term="challenge" /><summary type="html">It’s now Week 5, time flew by and I only have less than 2 weeks to launch version 1 of Cashrithm. As the deadline gets closer and closer, I can slowly feel the pressure. I’m blaming the pressure on the 42 days challenge I started. Not only do I have to keep the promise I made but also I really wanted to reach my milestone.</summary></entry><entry><title type="html">Week 4</title><link href="http://localhost:4000/week4/" rel="alternate" type="text/html" title="Week 4" /><published>2020-06-11T23:28:04+00:00</published><updated>2020-06-11T23:28:04+00:00</updated><id>http://localhost:4000/week4</id><content type="html" xml:base="http://localhost:4000/week4/">&lt;p&gt;This week’s been productive!&lt;/p&gt;
 
 &lt;p&gt;Throughout this 7 days, I have been working and improving the design basically the user interface or user experience of my website. Although previously I’ve already designed the mockup, but after a bit of research and a bit of experimenting with the color schemes, I’ve decided to redo my design. It was a big commitment as I basically redo the whole entire website, which took me around 4+ hours to finish it!&lt;/p&gt;
 
@@ -352,11 +458,9 @@ In this project, one of the must-have feature is a database that could store use
 
 &lt;h1 id=&quot;end&quot;&gt;END&lt;/h1&gt;
 
-&lt;p&gt;If you have any further question you can always email me at &lt;a href=&quot;mailto:mpwh2004@gmail.com&quot;&gt;mpwh2004@gmail.com&lt;/a&gt; or find me on &lt;a href=&quot;https://github.com/melaniehsieh&quot;&gt;Github&lt;/a&gt; or &lt;a href=&quot;https://twitter.com/melaniehsieh&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
-
 &lt;p&gt;Please subscibe to my weekly blog to get the latest updates.&lt;/p&gt;
 
-&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name>Melanie Hsieh</name><email>mpwh2004@gmail.com</email></author><category term="challenge" /><summary type="html">This week’s been productive!</summary></entry><entry><title type="html">Week 3</title><link href="http://localhost:4000/week3/" rel="alternate" type="text/html" title="Week 3" /><published>2020-06-05T01:48:04+00:00</published><updated>2020-06-05T01:48:04+00:00</updated><id>http://localhost:4000/week3</id><content type="html" xml:base="http://localhost:4000/week3/">&lt;p&gt;Week 3. Halfway through and 3 more weeks to go!&lt;/p&gt;
+&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name>Melanie Hsieh</name></author><category term="challenge" /><summary type="html">This week’s been productive!</summary></entry><entry><title type="html">Week 3</title><link href="http://localhost:4000/week3/" rel="alternate" type="text/html" title="Week 3" /><published>2020-06-05T01:48:04+00:00</published><updated>2020-06-05T01:48:04+00:00</updated><id>http://localhost:4000/week3</id><content type="html" xml:base="http://localhost:4000/week3/">&lt;p&gt;Week 3. Halfway through and 3 more weeks to go!&lt;/p&gt;
 
 &lt;p&gt;I am delighted to say I have successfully launched a new feature. &lt;strong&gt;Categories algorithm&lt;/strong&gt;, this algorithm is the most difficult algorithm to code out of the other 2. I have been coding this particular section for a few weeks. Many times I was stucked in the infinie loop of bugs, but I am happy to announce the first version of Revenue, Expense, Categories algorithm is successfullly running. 👏👏&lt;/p&gt;
 
@@ -390,124 +494,6 @@ Since Version 1.0 is the bare bone skeleton of the structure of the program, Ver
 
 &lt;h1 id=&quot;end&quot;&gt;END&lt;/h1&gt;
 
-&lt;p&gt;If you have any further question you can always email me at &lt;a href=&quot;mailto:mpwh2004@gmail.com&quot;&gt;mpwh2004@gmail.com&lt;/a&gt; or find me on &lt;a href=&quot;https://github.com/melaniehsieh&quot;&gt;Github&lt;/a&gt; or &lt;a href=&quot;https://twitter.com/melaniehsieh&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
-
 &lt;p&gt;Please subscibe to my weekly blog to get the latest updates.&lt;/p&gt;
 
-&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name>Melanie Hsieh</name><email>mpwh2004@gmail.com</email></author><category term="challenge" /><summary type="html">Week 3. Halfway through and 3 more weeks to go!</summary></entry><entry><title type="html">Week 2</title><link href="http://localhost:4000/week2/" rel="alternate" type="text/html" title="Week 2" /><published>2020-05-29T01:48:04+00:00</published><updated>2020-05-29T01:48:04+00:00</updated><id>http://localhost:4000/week2</id><content type="html" xml:base="http://localhost:4000/week2/">&lt;p&gt;Week Number Two.&lt;/p&gt;
-
-&lt;p&gt;Today is Day 10 of my challenge, to be honest it has been tough since school started and homeworks have been piling up. 😵 I didn’t achieve as much as I intended to, sort of struggling between balancing school and personal projects. But still glad to see my friends again.&lt;/p&gt;
-
-&lt;p&gt;Basically, this week’s progress was bad. On a scale from 1 - 10, I will say it is a solid 3.&lt;/p&gt;
-
-&lt;h1 id=&quot;purpose&quot;&gt;Purpose&lt;/h1&gt;
-
-&lt;p&gt;From the very beginning I have always aimed for consistency. But after these 10 Days, things have gotten harder and harder. More bugs, less motivation, more homework (worst thing ever, can’t believe they still exist). Needless to say, this week was stressful and daunting.&lt;/p&gt;
-
-&lt;p&gt;Even with these troublesome problems, I am glad that I still managed to keep my streak of crosses running. Although somedays I only did a short 10 minutes programming session but I kept myself accountable and didn’t give up. 👏👏&lt;/p&gt;
-
-&lt;p&gt;Although it is way easier to give up then to continue, but I just want to have a complete product. &lt;strong&gt;Just One Single Complete Project&lt;/strong&gt;. Although erros and bugs are unavoidable but having a clear purpose forced me or even kicked me to continue working on this project.&lt;/p&gt;
-
-&lt;p&gt;This website might not be used by anyone, but completeing a project means a lot to me. So have a strong clear purpose, a purpose that will someday push or kick you when you feel low and stressful.&lt;/p&gt;
-
-&lt;h2 id=&quot;plan-for-the-upcoming-week&quot;&gt;Plan for the upcoming week&lt;/h2&gt;
-
-&lt;h3 id=&quot;1-category-algorithm&quot;&gt;1. Category algorithm&lt;/h3&gt;
-
-&lt;p&gt;It is a bit more complicated than the other 2 algorithms because it consists of two data source instead of one. I have been pushing this feature back for a while so I hope to finish this as soon as possible so it won’t delay my schedule. (not saying that I have a busy schedule.)&lt;/p&gt;
-
-&lt;h3 id=&quot;2-input-sheet&quot;&gt;2. Input Sheet&lt;/h3&gt;
-
-&lt;p&gt;I will add more features on the Create New Sheet page. I want to allow users to control the data-output so it is tailor-made. Not only that, but have a friendly user interface. (probably adding that near the end, when every main components are working together) 🤞&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/42days/dataformat.png&quot; alt=&quot;dataformat&quot; width=&quot;700&quot; /&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;progress-update-week-2-&quot;&gt;Progress Update: Week 2 📊&lt;/h1&gt;
-
-&lt;p&gt;Finally finished one of the key features which is the algorithm section that fetches data and return a summary of it.&lt;/p&gt;
-
-&lt;h3 id=&quot;algorithms-&quot;&gt;Algorithms ✅&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Revenue algorithm&lt;/li&gt;
-  &lt;li&gt;Expense algorithm&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;end&quot;&gt;END&lt;/h1&gt;
-
-&lt;p&gt;If you have any further question you can always email me at &lt;a href=&quot;mailto:mpwh2004@gmail.com&quot;&gt;mpwh2004@gmail.com&lt;/a&gt; or find me on &lt;a href=&quot;https://github.com/melaniehsieh&quot;&gt;Github&lt;/a&gt; or &lt;a href=&quot;https://twitter.com/melaniehsieh&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Please subscibe to my weekly blog to get the latest updates.&lt;/p&gt;
-
-&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name>Melanie Hsieh</name><email>mpwh2004@gmail.com</email></author><category term="challenge" /><summary type="html">Week Number Two.</summary></entry><entry><title type="html">Week 1</title><link href="http://localhost:4000/week1/" rel="alternate" type="text/html" title="Week 1" /><published>2020-05-22T01:48:04+00:00</published><updated>2020-05-22T01:48:04+00:00</updated><id>http://localhost:4000/week1</id><content type="html" xml:base="http://localhost:4000/week1/">&lt;p&gt;From last week’s blog, I started and initiated a challenge – 42 days 6 weeks. Within the next 6 weeks, from 20th of May to 30th of June, I will be focusing on one project which is a website that tracks cashflow.&lt;/p&gt;
-
-&lt;h1 id=&quot;stage-1-planning-phase&quot;&gt;Stage 1: Planning phase&lt;/h1&gt;
-
-&lt;p&gt;I used the first 2 days to plan out the week. Having a clear vision and purpose in the early stage can highly improve the effiency of the work flow, not only does it give clarity to the work I’m doing but it also motivates me to check off tasks from my list of todos.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/42days/design.png&quot; alt=&quot;design&quot; width=&quot;700&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;visualize&quot;&gt;Visualize&lt;/h3&gt;
-
-&lt;p&gt;I like to visualize the outcome and structure of the website. I created this framwork structure that clearly displays the bare bone of my website. From this skeleton framework, it shows how many pages are there on the website, how are they linked and which section needs access to the database.&lt;/p&gt;
-
-&lt;p&gt;I’m a visual person 👀. Before starting any project, I need to have a broad image of the product in my head. What are the key functions, what does it look like and what special features that makes the application interesting. Creating this design framework above, simply makes me visualize the image of the product clearer. Fun fact, I used different colors to represent different sections: blue = navigation bar, turquoise = algorithms, yellow = sheets etc, so it will look less boring.&lt;/p&gt;
-
-&lt;h3 id=&quot;be-careful-not-to-get-stuck-in-the-planning-loop&quot;&gt;Be careful not to get stuck in the Planning Loop&lt;/h3&gt;
-
-&lt;p&gt;Many people might want to have the perfect plan, however a perfect plan doesn’t exist in my case. Because I’m still a very inexperienced programmer who has been coding for the past 2 years only (sort of, took a few breaks in between).&lt;/p&gt;
-
-&lt;p&gt;Planning is important, but not the most important thing when needed to finish a project. I like to experiment with things. When I did some testing and researches on databases, it broadens my knowledge and view on them. Instead of planning every single step I much prefer experimenting and trying out new features.&lt;/p&gt;
-
-&lt;h1 id=&quot;stage-2-start-building&quot;&gt;Stage 2: Start building&lt;/h1&gt;
-
-&lt;p&gt;After planning the broad looks and functions of the website, I began to code. First of all, I started adding components. A create new sheet page, login and signup pages for adding new users and a bit of styling to make the page more colorful. (Actually from the design framework above, all the rectangles which are filled in are finished, and the small squares on the top left are database. If I add those squares on specific component, it means they need access to the database.)&lt;/p&gt;
-
-&lt;p&gt;Today will be the end of 3rd day. I still have 4 days to go until the first week is over.&lt;/p&gt;
-
-&lt;h5 id=&quot;here-is-my-plan-so-hear-me-out&quot;&gt;Here is my plan, so hear me out&lt;/h5&gt;
-
-&lt;p&gt;&lt;strong&gt;Saturday&lt;/strong&gt;, I will be adding a new component – tabs. This will allow the user to edit and add the name of each tab in the google spreadsheet to the platform. &lt;em&gt;If there’s extra time, I hope to sync the tabs to the database.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Sunday&lt;/strong&gt;, I will be taking a break. Hopefully able to go on a hike with my mates if the weather is good, preferably sunny and windy day (opitimal hiking weather).☀️💨&lt;/p&gt;
-
-&lt;p&gt;Taking a break is necessary, not only does it frees up your brain from all the clutter you have been stacking up from the week, but it is also good for your mental wellbeing.&lt;/p&gt;
-
-&lt;p&gt;So no work is getting done on Sunday. 😃&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Monday &amp;amp; Tuesday&lt;/strong&gt;, debugging time. When adding new features to my website I am pretty sure some unecessary issues and bugs will pop up. I like to leave myself a day or two just to check on the code to see if it runs smoothly.&lt;/p&gt;
-
-&lt;p&gt;I get stressed when things bugs are popping up, especially when the deadline is closing by. So leaving extra time to double check just makes me feel more relaxed on the other hand feeling stressful is an unpleasant feeling and I will do my best to avoid it.&lt;/p&gt;
-
-&lt;h1 id=&quot;progress-update-week-1-&quot;&gt;Progress Update: Week 1 📊&lt;/h1&gt;
-
-&lt;p&gt;I am really proud of what I did, part of it were already finished before hand such as the user authentication. I wouldn’t totally agree that it is cheating but I have a slight advantage. 😂&lt;/p&gt;
-
-&lt;h3 id=&quot;planning-phase-&quot;&gt;Planning Phase ✅&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Design Framework Completed&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;user-authentication-&quot;&gt;User Authentication ✅&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Login user&lt;/li&gt;
-  &lt;li&gt;Signup user&lt;/li&gt;
-  &lt;li&gt;User created auto syncs to Database&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;create-new-sheet-&quot;&gt;Create New Sheet ✅&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Add New Sheet&lt;/li&gt;
-  &lt;li&gt;Sheet created auto syncs to Database&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;end&quot;&gt;END&lt;/h1&gt;
-
-&lt;p&gt;If you have any further question you can always email me at &lt;a href=&quot;mailto:mpwh2004@gmail.com&quot;&gt;mpwh2004@gmail.com&lt;/a&gt; or find me on &lt;a href=&quot;https://github.com/melaniehsieh&quot;&gt;Github&lt;/a&gt; or &lt;a href=&quot;https://twitter.com/melaniehsieh&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Please subscibe to my weekly blog to get the latest updates.&lt;/p&gt;
-
-&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name>Melanie Hsieh</name><email>mpwh2004@gmail.com</email></author><category term="challenge" /><summary type="html">From last week’s blog, I started and initiated a challenge – 42 days 6 weeks. Within the next 6 weeks, from 20th of May to 30th of June, I will be focusing on one project which is a website that tracks cashflow.</summary></entry></feed>
+&lt;p&gt;Thanks for reading 👀. There will be a weekly blog every Friday, Stay Tuned.😉&lt;/p&gt;</content><author><name>Melanie Hsieh</name></author><category term="challenge" /><summary type="html">Week 3. Halfway through and 3 more weeks to go!</summary></entry></feed>
