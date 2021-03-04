@@ -16,8 +16,8 @@ author:
   avatar: /assets/img/avatar.gif
 
 # Url settings
-url: ""
-baseurl: "/"
+url: "https://melaniehsieh.github.io/"
+baseurl: ""
 permalink: /:title/
 google_analytics: UA-164930515-1
 fb_appid:
