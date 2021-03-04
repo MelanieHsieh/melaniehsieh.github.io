@@ -11,13 +11,13 @@ author:
   name: Melanie Hsieh 
   bio: >-
     Simple & Minimal...
-  username: # author username
+  username: melainehsieh
   github: melainehsieh
   avatar: /assets/img/avatar.gif
 
 # Url settings
 url: "https://melaniehsieh.com"
-baseurl: 'melaniehsieh'
+baseurl: "melaniehsieh"
 permalink: /:title/
 google_analytics: UA-164930515-1
 fb_appid:
