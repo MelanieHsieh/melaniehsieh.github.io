@@ -16,7 +16,7 @@ author:
 
 # Url settings
 url: "https://melaniehsieh.github.io/"
-baseurl: "/melaniehsieh"
+baseurl: "/projectminimal"
 permalink: /:title/
 google_analytics: UA-164930515-1
 fb_appid:
