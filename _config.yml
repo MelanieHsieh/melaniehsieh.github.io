@@ -15,8 +15,8 @@ author:
   avatar: /assets/img/avatar.gif
 
 # Url settings
-url: "https://melaniehsieh.github.io/"
-baseurl: "/projectminimal"
+url: "https://melaniehsieh.github.io/projectminimal"
+baseurl: "/"
 permalink: /:title/
 google_analytics: UA-164930515-1
 fb_appid:
